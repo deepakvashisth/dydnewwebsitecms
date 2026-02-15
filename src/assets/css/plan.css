@@ -1,0 +1,418 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+body {
+    font-family: 'euclid_circular_aregular', sans-serif;
+    background: #fff;
+    margin: 0;
+    color: #08131F;
+    padding: 0;
+}
+
+.profile_tab_button_comp .select_typelist ul li button.active::before {
+    background-image: none;
+    width: auto;
+    height: auto;
+}
+
+.profile_tab_button_comp .select_typelist ul li button img {
+    margin-right: 5px;
+}
+
+
+.profile_tab_button_comp ul.astrodata_ch li button.allprofile {
+    background: rgba(125, 51, 211, 0.1) !important;
+    border-radius: 6px !important;
+    border: none !important;
+    color: #7D33D3;
+}
+
+.profile_tab_button_comp ul.astrodata_ch li button.allprofile:hover {
+    background: rgba(125, 51, 211, 0.2) !important;
+    color: #7D33D3 !important;
+}
+
+.profile_tab_button_comp ul.astrodata_ch li button.active.allprofile {
+    background: rgba(125, 51, 211, 1) !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+.profile_tab_button_comp ul.astrodata_ch li button.researchprofile {
+    background: rgba(203, 84, 93, 0.1) !important;
+    border-radius: 6px !important;
+    border: none !important;
+    color: #CB545D;
+}
+
+.profile_tab_button_comp ul.astrodata_ch li button.researchprofile:hover {
+    background: rgba(203, 84, 93, 0.2) !important;
+    color: #CB545D !important;
+}
+
+.profile_tab_button_comp ul.astrodata_ch li button.researchprofile.active {
+    background: rgba(203, 84, 93, 1) !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+.profile_tab_button_comp ul.astrodata_ch li button.mundaneprofile {
+    background: rgba(196, 153, 11, 0.1) !important;
+    border-radius: 6px !important;
+    border: none !important;
+    color: #C49A0B;
+}
+
+.profile_tab_button_comp ul.astrodata_ch li button.mundaneprofile:hover {
+    background: rgba(196, 153, 11, 0.2) !important;
+    color: #C49A0B !important;
+}
+
+ul.astrodata_ch li button.cust_client {
+    background: rgba(33, 115, 242, 0.1) !important;
+    color: #2173f2 !important;
+    border: none !important;
+}
+
+ul.astrodata_ch li button.cust_client.active {
+    background: rgba(33, 115, 242, 1) !important;
+    color: #ffffff !important;
+    border: none !important;
+}
+
+.profile_tab_button_comp ul.astrodata_ch li button.mundaneprofile.active {
+    background: rgba(196, 153, 11, 1) !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+.profile_tab_button_comp ul.astrodata_ch li button.publicprofile {
+    background: rgba(52, 167, 145, 0.1) !important;
+    border-radius: 6px !important;
+    border: none !important;
+    color: #34A791;
+}
+
+.profile_tab_button_comp ul.astrodata_ch li button.publicprofile:hover {
+    background: rgba(52, 167, 145, 0.2) !important;
+    color: #34A791 !important;
+}
+
+.profile_tab_button_comp ul.astrodata_ch li button.publicprofile.active {
+    background: #34A791 !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+.timeline_slider .slick-slider {
+    max-width: none;
+}
+
+.dashapdf_head {
+    font-size: 24px;
+    margin: 10px 0px;
+    font-weight: 600;
+}
+
+ul.currentdashapdf_list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: flex-start;
+}
+
+ul.currentdashapdf_list li {
+    margin: 0;
+    padding: 0;
+}
+
+ul.currentdashapdf_list li.currentdashpdf_pdf {
+    padding: 0px 10px 0px 0px;
+}
+
+ul.currentdashapdf_list li.currentdashpdf_pdf img {
+    width: 100px;
+    height: 100px;
+}
+
+ul.currentdashapdf_list li h5.dashpdf_sta {
+    color: #18763C;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 0;
+}
+
+ul.currentdashapdf_list li h5.dashpdf_date {
+    font-weight: 600;
+    font-size: 22px;
+    margin: 10px 0px;
+}
+
+ul.currentdashapdf_list li p.dashaantar_pdf {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+
+}
+
+.pdfc0nclusion_bg {
+    background: #F8F8FB;
+    border: 1px solid #D4E1F3;
+    border-radius: 20px;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 20px 0px;
+}
+
+.pdfc0nclusion_bg p {
+    font-size: 22px;
+    font-weight: 500;
+    margin: 0px 0px 10px 0px;
+}
+
+.num_pincode .react-tel-input .form-control {
+    background: none !important;
+    border: none !important;
+    outline: none !important;
+
+}
+
+.countrycode_div .react-tel-input .form-control {
+    position: relative;
+    padding-left: 48px;
+    border-radius: 0.29rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    font-size: 1rem;
+    line-height: 1.5;
+    width: 100%;
+    height: 55px;
+    border: 1.5px solid rgba(7, 9, 25, 0.125);
+}
+
+.num_pincode .react-tel-input .form-control {
+    width: 100%;
+    height: 40px;
+    border: 1.5px solid rgba(7, 9, 25, 0.125);
+    position: relative;
+    padding-left: 48px;
+    border-radius: 0.29rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.kundality_puborno {
+    background: linear-gradient(90deg, #6FA8FF, #2173F2, #7B55F7, #4B2AB5);
+    color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 5px 10px;
+}
+
+.btn_sign_setting {
+    background: #2173F2;
+    border: none !important;
+    color: #fff !important;
+    width: 350px;
+    border-radius: 6px;
+    font-weight: 600;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.8px;
+    margin: 20px 0px;
+}
+
+.react-datepicker__aria-live {
+    display: none;
+}
+
+.browsefilemig_all {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.summarytag_add {
+    flex-wrap: wrap;
+    margin: 20px 0px 0px 0px;
+}
+
+.summarytag_add h6 {
+    width: 100%;
+}
+
+.article_box_mar {
+    background: transparent;
+}
+
+.navbar_reverse {
+    background: #f4f5f9;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.app-header:hover {
+    background: #f4f5f9 !important;
+}
+
+.app-footer {
+    background: #f4f5f9;
+}
+
+.filetarticle_select {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.filetarticle_select select {
+    border: 1.5px solid #D4E1F3;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 8px;
+    width: 140px;
+    cursor: pointer;
+    padding: 0px 10px;
+    height: 50px;
+}
+
+.row_videotitle {
+    background: #fff;
+}
+
+.row_videotitletext {
+    background: #fff;
+}
+
+.card_headmedi .card-header {
+    background: #f4f5f9;
+}
+
+.searchastro_height_cust .cover_bg2 {
+    position: relative;
+}
+
+.vdeo_recome_column {
+    border-bottom: 1px solid rgba(7, 9, 25, 0.125);
+}
+
+.thumbprogrss img.podthum_ratio_set {
+    height: auto;
+    aspect-ratio: 16/9;
+}
+
+.dash {
+    background: transparent;
+}
+
+.modalbody_card .article_box_mar {
+    background: #fff;
+}
+
+.app-sidebar-fixed img.dkloganimation_noncollapse {
+    display: inline-flex;
+}
+
+.app-sidebar-fixed img.dkloganimation_collapse {
+    display: none;
+}
+
+.app-sidebar-fixed.app-sidebar-collapsed img.dkloganimation_noncollapse {
+    display: none;
+}
+
+.app-sidebar-fixed.app-sidebar-collapsed img.dkloganimation_collapse {
+    display: inline-flex;
+}
+
+.app-sidebar-fixed .sidebar-navigation_custom ul li a span.navbar_menutitle {
+    display: inline-flex;
+}
+
+.app-sidebar-fixed .loveastrologer h5 span.astro_num {
+    display: inline-flex;
+}
+
+.app-sidebar-fixed.app-sidebar-collapsed .loveastrologer h5 span.astro_num {
+    display: none;
+}
+
+.app-sidebar-fixed.app-sidebar-collapsed .sidebar-navigation_custom ul li a span.navbar_menutitle {
+    display: none;
+}
+
+.app-sidebar-collapsed .app-sidebar:hover:not(.app-sidebar--mini) img.dkloganimation_noncollapse {
+    display: inline-flex;
+}
+
+.app-sidebar-collapsed .app-sidebar:hover:not(.app-sidebar--mini) img.dkloganimation_collapse {
+    display: none;
+}
+
+.app-sidebar-collapsed .app-sidebar:hover:not(.app-sidebar--mini) .sidebar-navigation_custom ul li a span.navbar_menutitle {
+    display: inline-flex;
+}
+
+.app-sidebar-collapsed .app-sidebar:hover:not(.app-sidebar--mini) .loveastrologer h5 span.astro_num {
+    display: none;
+}
+
+.app-sidebar-collapsed .app-sidebar:hover:not(.app-sidebar--mini) .loveastrologer h5 span.astro_num {
+    display: inline-flex;
+}
+
+.app-sidebar-fixed button.leave_feedback_btn span.feedback_text {
+    display: inline-flex;
+}
+
+.app-sidebar-fixed.app-sidebar-collapsed button.leave_feedback_btn span.feedback_text {
+    display: none;
+}
+
+.app-sidebar-collapsed .app-sidebar:hover:not(.app-sidebar--mini) button.leave_feedback_btn span.feedback_text {
+    display: none;
+}
+
+.app-sidebar-collapsed .app-sidebar:hover:not(.app-sidebar--mini) button.leave_feedback_btn span.feedback_text {
+    display: inline-flex;
+}
+
+.app-sidebar--dark .app-sidebar--header .collapse-sidebar-btn {
+    color: #495C6F;
+    padding: 0px 10px;
+    outline: none;
+}
+
+.app-sidebar--dark .app-sidebar--header .collapse-sidebar-btn:hover {
+    background: #F6F8FA;
+    color: #495C6F;
+}
+
+.expand-sidebar-btn {
+    background: #fff;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 18px 0px 0px 10px;
+    font-size: 20px;
+    box-shadow: 0px 3px 56px rgba(73, 92, 111, 0.3);
+}
+.app-wrapper{
+    flex-direction: column;
+}

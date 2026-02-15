@@ -1,0 +1,68 @@
+/* Container styling */
+.autocomplete-container {
+  position: relative;
+  width: 100%;
+  /* max-width: 400px; */
+  margin: 0 auto;
+}
+
+/* Input field styling */
+/* .autocomplete-input {
+  width: 100%;
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  outline: none;
+  font-size: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+} */
+
+/* Dropdown styling */
+.autocomplete-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  max-height: 400px;
+  overflow-y: auto;
+  z-index: 10;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-top: 5px;
+}
+
+/* Individual item styling */
+.autocomplete-item {
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.autocomplete-item:hover,
+.autocomplete-item.active {
+  background: #f0f4f8;
+  color: #007bff;
+}
+
+/* No results message */
+.no-results {
+  padding: 10px 15px;
+  color: #888;
+  text-align: center;
+}
+
+/* Scrollbar customization */
+.autocomplete-dropdown::-webkit-scrollbar {
+  width: 8px;
+}
+
+.autocomplete-dropdown::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 4px;
+}
+
+.autocomplete-dropdown::-webkit-scrollbar-thumb:hover {
+  background: #999;
+}

@@ -1,0 +1,5205 @@
+body.darkmodebody {
+    background: rgb(18, 21, 23);
+    color: #fff;
+}
+
+.darkmode .app-content,
+.darkmode .chatdetail_div,
+.darkmode .page3_main,
+.darkmode .page5_main,
+.darkmode .rajyoga_card {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .pasteventhtml_head {
+    border-color: rgb(21, 72, 142);
+}
+
+.darkmode ul.dashapdf_planet {
+    border-top-color: rgb(21, 72, 142);
+}
+
+.read-more-container {
+    display: inline-block;
+}
+
+.read-more-container p {
+    display: inline;
+}
+
+.read-more-container span.read-more-btn {
+    color: #2173f2;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.darkmode .read-more-container span.read-more-btn {
+    color: rgb(66, 243, 255);
+    cursor: pointer;
+}
+
+.darkmode .app-sidebar--dark,
+.darkmode .footer_audio_player {
+    background-color: rgb(25, 28, 30);
+}
+
+.darkmode .avail_feed {
+    background-color: rgb(25, 28, 30);
+    color: #fff;
+}
+
+.darkmode .avail_feed:hover,
+.darkmode .avail_feed:focus {
+    background-color: rgb(25, 28, 30) !important;
+    color: #fff !important;
+}
+
+.darkmode .app_content_gradient,
+.darkmode .timingtab_brd,
+.darkmode .loc_div button,
+.darkmode .calender_mar {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .timingtab_brd,
+.darkmode .loc_div button,
+.darkmode .calender_mar {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .app-header, .darkmode .needhelp_btn span {
+    background: rgb(18, 21, 23);
+}
+.darkmode .needhelp_btn span.msg_helpnot{
+    background: #FA3A3A;
+}
+.darkmode .app-header:hover {
+    background: rgb(18, 21, 23) !important;
+}
+
+.darkmode input.placeholder-animation {
+    background-color: rgb(28, 32, 34) !important;
+    border-color: rgb(21, 72, 142) !important;
+}
+
+.darkmode .app-footer,
+.darkmode .card {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .card {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .blog_section_card {
+    background: rgb(28, 32, 36) !important;
+}
+
+.darkmode .app-footer:hover {
+    background: rgb(18, 21, 23) !important;
+}
+
+.darkmode .sidebar-navigation_custom ul li a {
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmode button.leave_feedback_btn,
+.darkmode .anna_in {
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmode input.search_rt_ad {
+    color: rgb(255, 255, 255);
+}
+
+.darkmode input.search_rt_ad::placeholder,
+.darkmode .dtl__font_sm,
+.darkmode .autho_fol p,
+.darkmode .ar_dtl_prof_fl h4,
+.darkmode h5.followe_ed,
+.darkmode .ar_dtl_prof_fl h6,
+.darkmode .videocard_content ul li h5,
+.darkmode .videocard_content ul li h6,
+.darkmode .videocard_content ul li h6 a,
+.darkmode .videocard_content ul li h5 a,
+.darkmode .mediadropshare ul li button,
+.darkmode ul.availiable_stat li.avail_stat_pad h5,
+.darkmode ul.availiable_stat li.avail_stat_pad h6,
+.darkmode ul.avail_otheroption li a,
+.darkmode .refin_head p,
+.darkmode ul.refine_list li h4 a,
+.darkmode .add_channel p,
+.darkmode input.linkchannel_form,
+.darkmode input.linkchannel_form::placeholder,
+.darkmode .story_content h4,
+.darkmode p.tab_para,
+.darkmode .web_link,
+.darkmode ul.publicreview_list li h5,
+.darkmode .newawarduploadlist ul li .awardup_con p,
+.darkmode .newawarduploadlist ul li .awardup_con h6,
+.darkmode .planetpos_head h5,
+.darkmode .footer_audio_player .rhap_main-controls button.rhap_rewind-button,
+.darkmode .footer_audio_player .rhap_main-controls button.rhap_forward-button,
+.darkmode .rhap_time,
+.darkmodebody h5.sugge_follow,
+.darkmodebody ul.followe_list li.pro_name h6,
+.darkmodebody .follow_search input::placeholder,
+.darkmodebody ul.nav-line li a span,
+.darkmode .vedic_published ul li h5,
+.darkmode .vedic_published ul li h5 span a,
+.darkmode .article_dtl_row1_inn2 h4,
+.darkmode .article_dtl_row1_inn2 span.articcont_date,
+.darkmode .asrtodlt_title,
+.darkmode .article_content_img div,
+.darkmode .article_content_img p,
+.darkmode .art_dtl_likeshr ul li span,
+.darkmode .dtl_title,
+.darkmode .dtl_subtitle,
+.darkmode .ardtl_more_row_txt h6,
+.darkmode .ar_dtl_tt2,
+.darkmode .ar_dtl_more_fr h4,
+.darkmode .relative_head,
+.darkmode ul.viderec_list li.rec_detail h4,
+.darkmode ul.viderec_list li.rec_detail h5,
+.darkmode ul.viderec_list li.rec_detail h6,
+.darkmode .article_content_img p a,
+.darkmode .article_content_img h2 strong a,
+.darkmode .get_email h6,
+.darkmode .cmoment_desc p,
+.darkmode .table_z_pad .table,
+.darkmodebody .vedic_published ul li h5,
+.darkmodebody .vedic_published ul li h5 span a,
+.darkmodebody .article_dtl_row1_inn2 h4,
+.darkmodebody .article_dtl_row1_inn2 span.articcont_date,
+.darkmodebody .ar_dtl_prof_fl h4,
+.darkmodebody .ar_dtl_prof_fl h6,
+.darkmodebody .article_content_img div,
+.darkmodebody .article_content_img p,
+.darkmodebody .article_content_img p a,
+.darkmodebody .asrtodlt_title,
+.darkmodebody .article_content_img h3 a,
+.darkmodebody .art_dtl_likeshr ul li span,
+.darkmodebody .form-control::placeholder,
+.darkmodebody .dtl_title,
+.darkmodebody .dtl_subtitle,
+.darkmodebody ul.articledivnew li span a,
+.darkmodebody .ardtl_more_row_txt h6,
+.darkmodebody .ar_dtl_tt2,
+.darkmodebody .dropcomment_innenr h5,
+.darkmode .max_char_ar2,
+.darkmode .genai_prompt,
+.darkmode .publish_input_bx input,
+.darkmode .publish_input_bx input::placeholder,
+.darkmodebody ul.refine_list li h4,
+.darkmodebody ul.refine_list li h5,
+.darkmode ul.article_horoscoep_sug li button,
+.darkmodebody .modalbody_tag p,
+.darkmodebody .title_tag,
+.darkmodebody ul.viderec_list li.rec_detail h4,
+.darkmodebody ul.viderec_list li.rec_detail h6,
+.darkmodebody ul.viderec_list li.rec_detail h5,
+.darkmodebody .relative_head,
+.darkmodebody .ar_dtl_more_fr h4,
+.darkmode .get_free_kundali,
+.darkmode .history_kundali_head,
+.darkmode .historymatch_card p,
+.darkmode .importance_card h4,
+.darkmode .gunmilanai_card p,
+.darkmode .publ_cards h4,
+.darkmode .css-9jq23d,
+.darkmode .article_tags .custom_select .css-v7duua:hover,
+.darkmode .publ_cards.ac2 p,
+.darkmode .trend_row_publ .txt2 h2,
+.darkmode .trend_row_publ .txt2 h4,
+.darkmode .checkLabel1,
+.darkmode .checkLabel2,
+.darkmode .save_fle p,
+.darkmodebody .approvalarticle_div h4,
+.darkmodebody .approvalarticle_div h5,
+.darkmodebody .count_traxtarea,
+.darkmodebody .aprove_label,
+.darkmodebody .sendapp_div h6,
+.darkmode .max_char_ar,
+.darkmode .score_card h3,
+.darkmode .score_card h4,
+.darkmode .gunmilan_head,
+.darkmode .dosha_head,
+.darkmode .male_dosha h6,
+.darkmode .female_dosha h6,
+.darkmode .analysis_bg h3,
+.darkmode .analysis_bg p,
+.darkmode .conclusion_bg p,
+.darkmode .aisearch_content p,
+.darkmode .examplesearch_contnet h5,
+.darkmode .planereffect_content p,
+.darkmode ul.aiketuper_list li h4,
+.darkmode .allai_accord_head h5,
+.darkmode .allait_accord_des p,
+.darkmode .url_para,
+.darkmode .recoruplod_list ul li span h6,
+.darkmode .recoruplod_list ul li:nth-child(2) h6,
+.darkmodebody .screen_cam ul li .recordwebcan p,
+.darkmodebody .screen_cam ul li.webcamorpad h6,
+.darkmode ul.screen_list li h5,
+.darkmode ul.screen_list li h6,
+.darkmode .ai_know p,
+.darkmode .allai_thum_flex h6,
+.darkmode .viewedit_btn button.view_prof2 a,
+.darkmode .delete_videdmedia h6,
+.darkmode p.thumlearn span,
+.darkmode .public_div p,
+.darkmode .circular_ba ul li h6,
+.darkmode .select_typelist ul li h6,
+.darkmode .select_typelist_custfil ul li a,
+.darkmode .advnc_sch_div h6,
+.darkmode .planet_head h6,
+.darkmode .planetpos_list ul li h6 span,
+.darkmode .sunrepresent ul li p,
+.darkmode .sum_content p,
+.darkmode .ardtl_txt123,
+.darkmodebody .ardtl_txt123,
+.darkmode .noappointment_div p,
+.darkmode .gen_mar,
+.darkmode .photo_op,
+.darkmode h6.info_op,
+.darkmode .autocomplete-place,
+.darkmode .autocomplete-details,
+.darkmode .transithome_div p,
+.darkmode ul.currenttransit_new li h5.btm_brd_short,
+.darkmode ul.currenttransit_new li p.moon_detail,
+.darkmode ul.currenttransit_new li p.cycle_len,
+.darkmode .filter_head h6,
+.darkmode .filter_card p,
+.darkmode .event_div p,
+.darkmode .maincontainer_cal .fc-list-event-time,
+.darkmode .profile_dk p,
+.darkmode .pending_subdet,
+.darkmode .setting_input p,
+.darkmode .set_pad p,
+.darkmode a.btn_sign_setting,
+.darkmode .custview_list ul li.custview_list_gr h6.custview_tec,
+.darkmode ul.birthinfo_list li h5.birth_label,
+.darkmode ul.birthinfo_list li h5,
+.darkmode .basic_info p.notags_para,
+.darkmodebody .edit_bio label,
+.darkmodebody label,
+.darkmodebody .sibling_list ul li a,
+.darkmode .nae_rate h5,
+.darkmode .astrologer_list ul li.astro_img_detail p,
+.darkmodebody ul.emailid_list li.emaillabel h5,
+.darkmodebody ul.emailid_list li.emaiinpu input.email_id,
+.darkmodebody ul.emailid_list li.emaiinpu input.email_id::placeholder,
+.darkmodebody .addedtag_footer h5,
+.darkmode .time_hour_list ul li h5.total_hour,
+.darkmode .drag_drop_head h6,
+.darkmode ul.relationship_list li h6,
+.darkmodebody .css-1yc4zyy-DropdownHandleComponent,
+.darkmode ul.birthday_div li .birtage_fle .bir_age h6,
+.darkmode .addprofile_cust_list li a.active h6,
+.darkmode ul.multipro_check li h6,
+.darkmode .res_deta,
+.darkmode .filter_tags_sm_count,
+.darkmode .stat_headlist ul li h6,
+.darkmode .analysticssum_list ul li a,
+.darkmode .laganstatstics_btn ul li button,
+.darkmodebody .appbookingcontent p,
+.darkmodebody .pref_modaltag h6,
+.darkmodebody .confirmation_div h6,
+.darkmode .timeline-list .timeline-item--label,
+.darkmode .refer_work p,
+.darkmodebody .addprofile_modal p,
+.darkmodebody ul.user_rejname li h6,
+.darkmodebody .reject_modal h6,
+.darkmode ul.user_video li h5,
+.darkmode .newvidetitle p,
+.darkmodebody .newvidetitle p,
+.darkmode .newvidetitle h6,
+.darkmodebody .newvidetitle h6,
+.darkmode .thumbprogrss .rhap_main-controls button.rhap_rewind-button,
+.darkmode .thumbprogrss .rhap_main-controls button.rhap_forward-button,
+.darkmodebody .share_name_flex input:focus,
+.darkmodebody .share_name_flex input:hover,
+.darkmodebody .impact_car_hea h3,
+.darkmodebody .impact_car_hea p,
+.darkmode .error_code,
+.darkmode .serv_dn,
+.darkmode .searchpeo_sug h5,
+.darkmodebody .searchpeo_sug h5,
+.darkmodebody ul.seaprople_list li h6,
+.darkmode .coomontag_head ul li button,
+.darkmode .cor_num_list li h5,
+.darkmode ul.cor_num_list li h4,
+.darkmode .birth_pan_para,
+.darkmode .astr_nmero_blue p,
+.darkmode .astr_nmero_blue2 h3,
+.darkmode .leadership_card p,
+.darkmode ul.notification_list li.not_con h5,
+.darkmode ul.notification_list li.not_con h6,
+.darkmodebody .custview_list ul li.custview_list_gr h6.custview_tec,
+.darkmode .bill_head h4,
+.darkmode .waiting_content p,
+.darkmode ul.notification_list2 li.not_con h6,
+.darkmode ul.fedcom_list li h5,
+.darkmode .maleanysi_chart h3,
+.darkmodebody .cound_find p,
+.darkmode .font16base,
+.darkmode h5.datetitile,
+.darkmode h6.nobesub,
+.darkmode .matching_astro_mar h5,
+.darkmode .matching_astro_mar h6,
+.darkmode .astro_searchname2 h6,
+.darkmode .publ_cards h6:nth-child(2),
+.darkmode .planetpos_list ul li h5 span.charposlimit,
+.darkmode .add_customer_bg p,
+.darkmode .analytic_sum_bg .suumarty_content h6,
+.darkmode .font14base,
+.darkmode .astrologer_purpose h4,
+.darkmode .astrologer_name_bg h4,
+.darkmode .jyoti_link_das .dashboardtitle,
+.darkmode .dashboardtitle,
+.darkmode h5.jot_title,
+.darkmode .dash_databank_content p,
+.darkmode .dasg_analytic ul li p,
+.darkmode h5.wis_head span.facts_learn,
+.darkmode .dasg_analytic ul li h4.smaplehead,
+.darkmode .dasg_analytic ul li h4.resescore,
+.darkmode h5.impactastro_dash span.impact,
+.darkmode ul.impact_move_list li .impact_move_date p,
+.darkmodebody .ardhuad_text p,
+.darkmode ul.chatscreen li h6,
+.darkmode .current_user ul li h6,
+.darkmode .chatinput form input,
+.darkmode ul.impacted_saturnplanet li button span.planet_tag_name,
+.darkmode .impact_car_hea h5,
+.darkmode .loc_div button,
+.darkmode .calender_mar,
+.darkmode .timingtab_card h5,
+.darkmode .newmoon_flex h6,
+.darkmode .newmoon_flex h5,
+.darkmode .timingtab_card h6,
+.darkmode .timingtab_card p,
+.darkmode .horacontent_list ul li p,
+.darkmode h5.wis_head a,
+.darkmode h5.wis_head,
+.darkmode .podacast_list ul li h6,
+.darkmode .newappoint_card ul li p,
+.darkmode .creat_hor_bg p,
+.darkmode .create_hor_btn,
+.darkmode .chatdetaillist ul li h6 span.chatdotpad,
+.darkmode .chatdetaillist ul li h6 span.chattime,
+.darkmode .chatdetaillist.user-message ul li.username p span.usertime,
+.darkmode .eve_des,
+.darkmode .red_dat_text p,
+.darkmode .customerdash_list ul li.cust_dash_detail2 h6,
+.darkmode .customerdash_list ul li.cust_dash_detail2 .moon_flex_div h6 span,
+.darkmode .wisdom_font h6,
+.darkmode .textdash_title_right,
+.darkmode .to_hor_content p,
+.darkmode .prem_head,
+.darkmode .chogdiya_box ul li h6,
+.darkmode ul.chog_dash_date li h6,
+.darkmode .chog_para,
+.darkmode ul.vedicfacts_list li.vedicfacts_grow p,
+.darkmode .jupiterchakra h6,
+.darkmode .jupiterchakra:hover ul.vedicfacts_list li.vedicfacts_grow p,
+.darkmode .mypred_head,
+.darkmode ul.mediadate_range li.pad_date p,
+.darkmode ul.page_header_list li h5,
+.darkmode .pdfhead_horo,
+.darkmode .pers_para,
+.darkmode ul.dasha_pdfhead li h6,
+.darkmode ul.dashapdf_planet li h6,
+.darkmode .rajyoga_card p,
+.darkmode .aigen_pdf,
+.darkmode .parlist_de,
+.darkmode .monthly_stats h6,
+.darkmode .genchat_summary_content h4,
+.darkmode ul.newconvlist li .chat_group_flex button,
+.darkmode .new_navailable p,
+.darkmode .table,
+.darkmode .vertical_paragraph,
+.darkmode .p-4_custom .muhrat_grow h5,
+.darkmode .muhrat_grow p,
+.darkmode .chatdetaillist ul li ul.docfile_list li.docfile_grow h5,
+.darkmode .chatdetaillist ul li ul.pdffile_list li.pdfile_grow h5,
+.darkmodebody .genchat_summary_content h4,
+.darkmodebody .genchat_summary_content p,
+.darkmode .toggle_add,
+.darkmode .addpeople,
+.darkmode .leavepeople,
+.darkmode .nomessage_card p,
+.darkmode .text-black,
+.darkmode .last_update_text,
+.darkmodebody .cust_dob2,
+.darkmode .astrodata_bankcard h6,
+.analyticssum_flex button,
+.darkmode .mediadropshare ul li a,
+.darkmode .revenue_first h5,
+.darkmode .char_new_font span,
+.darkmode .article_content_img ul li a,
+.darkmode ul.replucomment_list li h6,
+.darkmode ul.replucomment_list li p,
+.darkmode .bhrigy_card h5,
+.darkmode .bhrigy_card p,
+.darkmode .planet_height h6,
+.darkmode .plan_card p,
+.darkmode .plan_card h2 sub,
+.darkmode .accord_item_new h4,
+.darkmode ul.plan_currency li h6,
+.darkmode ul.silverplan_list li h5,
+.darkmode .purchase_summary p,
+.darkmode .purchase_summary h6,
+.darkmode .footer_audio_player h4,
+.darkmode ul.user_video li button,
+.darkmodebody .feedbackmodal_h h5,
+.darkmodebody .fedmodal_content p,
+.darkmodebody ul.modal_like li h6,
+.darkmodebody .fedmodal_send p,
+.darkmode .dashaai_btn,
+.darkmodebody .dashaai_btn,
+.darkmodebody .welcomemodal_content p.welcome_para,
+.darkmode .cust_timeline2.timeline-list-offset .timeline-item-icon .timeline-item-offset,
+.darkmode .cust_timeline2 .timeline-item .timeline-item--content h4,
+.darkmode .rstm-tree-item,
+.darkmode .webastro_content h3,
+.darkmode .webastro_content h5,
+.darkmode .seat_left h5,
+.darkmodebody .chartmodal_content p,
+.darkmode .frame_wo,
+.darkmode .webinar_detailcontent,
+.darkmode .webinar_learn h3,
+.darkmodebody .webinar_learn h3,
+.darkmode ul.meetmenoto li h5,
+.darkmodebody ul.meetmenoto li h5,
+.darkmode ul.meetmenoto li p,
+.darkmodebody ul.meetmenoto li p,
+.darkmode ul.webiarprice_list li h5,
+.darkmodebody ul.webiarprice_list li h5,
+.darkmode ul.webiarprice_list li h4,
+.darkmodebody ul.webiarprice_list li h4,
+.darkmode .pasevent_content p,
+.darkmode ul.transit_help li h6,
+.darkmode .timeline_calendar h5,
+.darkmode .timeline_calendar p,
+.darkmode .buttnyear,
+.darkmode .timeline_calendar h6,
+.darkmodebody .frame_wo,
+.darkmodebody .bio_modal_txt h2,
+.darkmodebody .bio_modal_txt p,
+.darkmodebody ul.replucomment_list li p,
+.darkmodebody .apprate_content h3,
+.darkmodebody .apprate_content p,
+.darkmodebody ul.apprate_list li button,
+.darkmodebody ul.notlierate li button,
+.darkmodebody ul.replucomment_list li h6,
+.darkmodebody .webinar_modalbody .webinar_detailcontent h1,
+.darkmodebody .webinar_modalbody .webinar_detailcontent p,
+.darkmodebody .rem_input .custom-control-label,
+.darkmode .inputastro,
+.darkmode .queue_card ul.request_list li.request_grow h4,
+.darkmode .queue_card ul.request_list li.request_grow h5,
+.darkmode ul.foreheaer_list li.forehead_grow h6,
+.darkmode .fore_title,
+.darkmode .forecast_desc,
+.darkmode ul.fore_footer li button,
+.darkmodebody .call_content h6,
+.darkmodebody ul.twouserapp li h6,
+.darkmode .article_tags .custom_select .css-wsp0cs-MultiValueGeneric,
+.darkmode .article_tags .custom_select .css-12a83d4-MultiValueRemove,
+.darkmodebody .article_tags .custom_select .css-12a83d4-MultiValueRemove,
+.darkmode ul.astochat_con li h5,
+.darkmode ul.remdies_detahead li.remed_detalgrow p,
+.darkmodebody ul.camblock_list li p,
+.darkmode .lgna_select .css-wsp0cs-MultiValueGeneric,
+.darkmode .timerago,
+.darkmodebody .article_content_img p a,
+.darkmodebody .article_content_img div a,
+.article_content_img table tr td a,
+.darkmode ul.panchang_list li h5 span,
+.darkmodebody .todayhoro_list ul li h2,
+.darkmode .read_col_gen p,
+.darkmode .read_col_gen ul li,
+.darkmode .appoint_table ul li h6,
+.darkmodebody .article_content_img h2 a,
+.darkmode .cmoment_desc p span,
+.darkmode .remedies_trans_bg,
+.darkmode ul.notlierate li h6, .darkmode .needhelp_btn, .darkmode ul.plan_currency li h4, .darkmode .chatdetaillist.user-message ul.usechatastro li h5, .darkmode .dkplan_price, .darkmode .dkplan_price sub, .darkmode .missing_voice_content h5, .darkmode ul.cat_list li button, .darkmodebody ul.user_video li h5 a {
+    color: #fff;
+}
+.darkmode .custview_sen_res{
+    color: rgba(255, 255, 255, 0.8);
+}
+.darkmode .current_plan_btn.current_plan_btn_disable{
+    color: rgba(255, 255, 255, 0.5);
+}
+.darkmode .standard_month_plan p{
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.darkmode .quickview_scroll h2 {
+    color: #fff !important;
+}
+
+.darkmode .quickview_scroll ul li,
+.darkmode .quickview_scroll p {
+    color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.darkmode .chat_counter {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .consultation_list ul li .box_width .btn-input-select.active {
+    background-color: rgb(27, 32, 34);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .consultation_list ul li .box_width .btn-input-select {
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmode ul.navtag_timing.navtagtranscript li a {
+    background: transparent !important;
+}
+
+.darkmode .trend_row_publ .txt2 h4 span {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.darkmode .trend_row_publ .txt2 h4 span.read-more-btn, .darkmode .standard_month_plan h4 {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode span.usertime {
+    color: #fff !important;
+}
+
+.darkmode .audiocallrem_bg {
+    background: rgba(33, 115, 242, 0.1)
+}
+
+.darkmodebody ul.apprate_list li button {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody ul.apprate_list li button.active {
+    background: rgb(66, 243, 255);
+}
+
+.darkmodebody ul.charttype_list li button.active {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .text-black-50 {
+    color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.darkmodebody ul.charttype_list li button {
+    color: #fff;
+}
+
+.darkmode .accordion>.card-box>.card>.card-header .btn {
+    background-color: rgb(25, 28, 30);
+    color: #fff;
+}
+
+.darkmode .genchat_summary_content p {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.darkmode .aigen_pdf {
+    border-color: rgb(54, 84, 115);
+}
+
+.darkmode .panchang_msg {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.darkmode .calender_mar span.btn-wrapper--icon svg path {
+    fill: #fff;
+}
+
+.darkmode .loc_div button:hover {
+    background: rgba(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: #fff;
+}
+
+.darkmode .loc_div button:focus,
+.darkmode .calender_mar:hover {
+    background: rgba(18, 21, 23) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+    color: #fff !important;
+}
+
+.darkmode .chatinput form input::placeholder {
+    color: #fff;
+}
+
+.darkmode h5.wis_head span.facts_learn,
+.darkmode h5.impactastro_dash span.impact {
+    border-bottom-color: rgb(173, 158, 137);
+}
+
+.darkmode .conv_cardlist ul li h6,
+.darkmode .astrologer_list_purpose li h6 {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.darkmode .analysticssum_list ul li a.active {
+    background: rgb(18, 21, 23);
+    color: rgb(66, 243, 255);
+    border-color: rgba(0, 101, 255, 0.1);
+}
+
+.darkmode .analysticssum_list ul li a.active:hover,
+.darkmode .analysticssum_list ul li a.active:focus {
+    background: rgb(18, 21, 23);
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(0, 101, 255, 0.1);
+}
+
+.darkmode .changepassword_maindiv p,
+.darkmode .color_darklight {
+    color: #fff !important;
+}
+
+.darkmode .selct_lor_pa ul li.house_sel h6 {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.darkmode .astro_transit {
+    color: rgb(66, 243, 255);
+    background-color: rgba(0, 115, 255, 0.1) !important;
+}
+
+.darkmode .astro_transit:hover {
+    color: #fff;
+    background: #2173f2 !important;
+}
+
+.darkmode .planet_overlay {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(18, 21, 23));
+}
+
+.darkmode .select_typelist_custfil_hover ul li a:hover {
+    background: rgb(30, 34, 38) !important;
+    border-color: rgb(0, 56, 163) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmode .carduploda_brd:hover {
+    background: rgba(56, 155, 255, 0.1);
+}
+
+.darkmode ul.astrosug_ai li .aisearchrelate,
+.darkmode .jyotishslider_list {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .table thead th {
+    background-color: rgb(25, 28, 30);
+    color: #fff;
+}
+
+.darkmode .table-striped.table_guna tbody tr:nth-of-type(odd) {
+    background-color: rgb(25, 30, 32);
+}
+
+.darkmodebody .pubup_d h6 {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.darkmode .customereact_tags .ReactTags__selected span.tag-wrapper button svg {
+    fill: #fff;
+}
+
+.darkmode .table-hover tbody tr,
+.darkmode .table-hover tbody tr:hover {
+    color: #fff;
+}
+
+.darkmode .followingbtn {
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(18, 21, 23) !important;
+    border-color: rgb(21, 72, 142) !important;
+}
+
+.darkmode .followbtn {
+    background-color: rgb(46, 52, 54) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgb(21, 72, 142) !important;
+}
+
+.darkmode .followbtn:hover {
+    background: #2173f2 !important;
+    color: #fff !important;
+    border-color: #2173f2 !important;
+}
+
+.darkmode .followingbtn:hover {
+    background-color: rgb(25, 28, 30) !important;
+}
+
+.darkmode .subscribedbtn {
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(18, 21, 23) !important;
+    border-color: rgb(21, 72, 142) !important;
+}
+
+.darkmode .ar_dtl_more_fr,
+.darkmodebody .ar_dtl_more_fr {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .vedic_published ul,
+.darkmodebody .vedic_published ul {
+    border-bottom-color: rgba(227, 208, 181, 0.1);
+}
+
+.darkmodebody .articleadmin_popup .artic_r_bdr {
+    border-right-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmodebody .ar_dtl_prof_fl {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .read-more-container span.read-more-btn,
+.darkmode .male_head,
+.darkmode .historymatch_card h4,
+.darkmode .text_up_14,
+.darkmodebody .editlink,
+.darkmode a.cancel_mem,
+.darkmode .status_list ul li button,
+.darkmode .customerdash_list ul li.cust_dash_detail2 .chare_as .astro_charge ul li h5.astro_ch_col,
+.darkmode .time_hour_list ul li h5.timer_font,
+.darkmode .time_hour_list ul li h5.hour_font,
+.darkmode .addprofile_cust_list li a h6,
+.darkmodebody ul.addprofile_cust_list li a h6,
+.darkmode button.dem_vide,
+.darkmode .ruletag_list_cus ul li button span.house_num,
+.darkmode .movablesign_div ul li .movable_sign h3,
+.darkmodebody ul.modal_rofile_hor li.num_pro_li h6,
+.darkmodebody ul.modal_rofile_hor li .incred_dec h3,
+.darkmode .link_copy ul li button.ref_share,
+.darkmode .stat_headlist2 ul li h3,
+.darkmode .numer_card h4,
+.darkmode .chalden_card h5,
+.darkmode .panch_card h4,
+.darkmode .leadership_card h5,
+.darkmode ul.not_list li button.refresh_icon,
+.darkmode .text_blue a,
+.darkmode button.astro_book_wid,
+.darkmode .text_blue,
+.darkmode ul.fedcom_list li button,
+.darkmode .viewedit_btn button.view_prof2,
+.darkmode .planetpos_head h5 span,
+.darkmode .textdash_title_left a,
+.darkmode .dasg_analytic ul li h3,
+.darkmode .dasg_analytic ul li h6.dasanal_heading,
+.darkmode .dash_databank_content a,
+.darkmode ul.impact_move_list li .impact_move_date h4,
+.darkmode .chat_history_date,
+.darkmode ul.impacted_saturnplanet li button.active span.planet_tag_name,
+.darkmode .impactprofile_detail h4,
+.darkmode .newappoint_card ul li h4,
+.darkmode .chogdiya_box_active.chogdiya_box ul li h5,
+.darkmode .chogdiya_box_active.chogdiya_box ul li h6,
+.darkmode .jupiterchakra:hover h6,
+.darkmode .rajyoga_card h5,
+.darkmode ul.aiplanet_plist li.perpdfpad h5,
+.darkmode .add_bio_txt,
+.darkmode select.plan_gold,
+.darkmode .tophous ul li h5,
+.darkmode .webinar_price h6,
+.darkmode ul.transit_help li button,
+.darkmode .timeline_calendar p span,
+.darkmode .timeline_calendar h4,
+.darkmode .webthumposdef h5 {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .imapc_pro,
+.darkmode .timigtoday_color {
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .dash_databank_content a:hover {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .viewedit_btn button.view_prof2:hover,
+.darkmode .viewedit_btn button.view_prof2:focus,
+.darkmode .viewedit_btn button.view_prof2:active {
+    color: #fff !important;
+    background: #2173f2 !important;
+}
+
+.darkmodebody ul.modal_rofile_hor {
+    border-bottom-color: rgb(48, 86, 118);
+}
+
+.darkmodebody ul.modal_rofile_hor li .incred_dec {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .ruletag_list ul li button.active span.house_num {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .ruletag_list_cus ul li button span.house_num {
+    background: rgba(79, 108, 135, 0.05);
+}
+
+.darkmode .colorbase {
+    color: #fff !important;
+}
+
+.darkmodebody ul.addprofile_cust_list li a:hover h6 {
+    color: #fff;
+}
+
+.darkmode .addprofile_cust_list li a:hover h6 {
+    color: #fff;
+}
+
+.darkmodebody .nav.nav-line .nav-item .nav-link.active span,
+.darkmode a.cancel_mem:hover {
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .rhap_repeat-button,
+.darkmode .note_publi h4,
+.darkmode .ndnote {
+    color: rgb(255, 239, 216);
+}
+
+.darkmode .planetpos_list_forecast:hover {
+    background-color: rgb(36, 41, 43);
+    border-color: rgb(0, 65, 178);
+}
+
+.darkmode ul.publicreview_list li h6 {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.darkmode .website_heading2 {
+    background-color: rgba(79, 108, 135, 0.05);
+    border-color: rgba(173, 158, 137, 0.2);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .channel_verdiv,
+.darkmode .planetpos_list {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .media_overlay {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(18, 21, 23));
+}
+
+.darkmode .list_absoute {
+    box-shadow: rgba(104, 144, 183, 0.3) 0px 0px 30px;
+    background-image: initial;
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmode ul.suggesailist li h5,
+.darkmode ul.trendsearch_list li h5,
+.darkmode .filter_slider_div h5 {
+    color: #fff;
+}
+
+.darkmode a.tag_list2 {
+    background-image: initial;
+    background-color: rgb(18, 21, 23);
+    border-color: rgb(48, 54, 106) !important;
+    box-shadow: none !important;
+    color: #fff;
+}
+
+.darkmode a.tag_list2:hover {
+    background-color: rgb(25, 28, 30) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode a.tag_list2.active {
+    background-color: rgba(0, 127, 255, 0.1) !important;
+    border-color: rgba(227, 208, 181, 0) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .textdash_title_left span.youtubev {
+    background-image: initial;
+    background-color: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .seeall_flex a,
+.darkmode .seeall_flex button,
+.darkmode .footer_audio_player .rhap_main-controls button.rhap_play-pause-button,
+.darkmode .summarytag_add button.sumtag_add {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .seeall_flex button {
+    border: none;
+}
+
+.darkmode .summarytag_add button.sumtag_add:hover {
+    color: #ffffff;
+}
+
+.darkmode .followfollowing h6 {
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .seeall_flex a:hover,
+.darkmode .seeall_flex button:hover {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode h5.trnedhead,
+.darkmode .article_text_bld,
+.darkmode ul.currenttransit_tab.nav.nav-line .nav-item span {
+    color: #fff;
+}
+
+.darkmode .trndsug_bg,
+.darkmode ul.currenttransit_tab li a {
+    background-color: rgba(79, 108, 135, 0.05);
+}
+
+.darkmode .nav .nav-item .nav-link {
+    background-image: initial;
+    background-color: transparent;
+    color: rgb(255, 243, 219);
+}
+
+.darkmode .app-footer--second {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.darkmode .dropdown-menu,
+.darkmodebody .dropdown-menu {
+    color: rgb(255, 255, 255);
+    list-style-image: initial;
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmode .notfication_card {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode ul.nav-line li a span,
+.darkmode .no_notifcation_pos h5,
+.darkmode .no_notifcation_pos h6,
+.darkmode ul.not_popup_head li h5,
+.darkmode ul.articledivnew li span,
+.darkmode ul.articledivnew li span a,
+.darkmode .todayhoro_list ul li h5,
+.darkmode .todayhoro_list ul li p,
+.darkmode .todayhoro_list ul li h6,
+.darkmode .terms_footer ul li a,
+.darkmode ul.refine_list li button.fol_btn,
+.darkmode .cound_find p,
+.darkmode ul.refine_list li h5,
+.darkmode ul.refine_list li h5 a,
+.darkmode .dragdrop_font,
+.darkmodebody .mediadropshare ul li button {
+    color: #fff;
+}
+
+.darkmodebody ul.refine_list li button.fol_btn {
+    border-color: rgba(218, 199, 174, 0.13);
+    color: #fff;
+}
+
+.darkmode .nav.nav-line .nav-item .nav-link.active span,
+.darkmode ul.nav.nav-line.currenttransit_tab .nav-item .nav-link.active span {
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .nav.nav-line .nav-item .nav-link.active span.nocount {
+    color: #fff !important;
+}
+
+.darkmode ul.tagview_list li a {
+    background-color: rgb(36, 39, 43);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .article_tabs_bdr5 {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+    background: rgb(18, 21, 23);
+
+}
+
+.darkmode .astro_slider .slick-next,
+.darkmode .astro_slider .slick-prev {
+    background-color: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+    box-shadow: rgb(18, 21, 23) 5px 0px 5px;
+}
+
+.darkmode .astro_slider .slick-next:hover,
+.darkmode .astro_slider .slick-prev:hover,
+.darkmode .astro_slider .slick-next:active,
+.darkmode .astro_slider .slick-prev:active,
+.darkmode .astro_slider .slick-next:focus,
+.darkmode .astro_slider .slick-prev:hover {
+    background-color: rgb(0, 115, 255);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .artic_r_bdr {
+    border-right-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode select.form-control,
+.darkmode select.form-control:focus,
+.darkmode select.form-control:active,
+.darkmodebody select.form-control,
+.darkmodebody select.form-control:focus,
+.darkmodebody select.form-control:active {
+    border-color: rgba(218, 199, 174, 0.13);
+    color: #fff;
+    background: rgb(18, 21, 23);
+    box-shadow: rgb(18, 21, 23) 5px 0px 5px;
+}
+
+.darkmode select.form-control option {
+    background: rgb(18, 21, 23);
+    color: #fff;
+}
+
+.darkmode button.custview_load {
+    background-color: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+    box-shadow: rgb(18, 21, 23) 5px 0px 5px;
+}
+
+.darkmode button.custview_load:hover,
+.darkmode button.custview_load:focus,
+.darkmode button.custview_load:active {
+    background: #2173f2 !important;
+    box-shadow: rgb(18, 21, 23) 5px 0px 5px;
+    color: #fff !important;
+}
+
+.darkmode ul.navtag_timing li a {
+    background-color: rgb(18, 21, 23) !important;
+}
+
+.darkmode .blog_banner_tab_wrp,
+.darkmode .navline_brdmedia,
+.darkmode .article_box_mar,
+.darkmode ul.refine_list li button.fol_btn,
+.darkmode .article_tabs_bdr {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .btn-secondary,
+.darkmode .btn-secondary:hover,
+.darkmode .btn-secondary:focus,
+.darkmode .btn-secondary:active,
+.darkmodebody .btn-secondary,
+.darkmodebody .btn-secondary:hover,
+.darkmodebody .btn-secondary:focus,
+.darkmodebody .btn-secondary:active {
+    box-shadow: rgba(21, 25, 27, 0.35) 0px 0.25rem 0.55rem;
+}
+
+.darkmode ul.follow_count li h6,
+.darkmode h6.intro_heading {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .react-loading-skeleton,
+.darkmodebody .react-loading-skeleton {
+    background-color: rgb(79, 88, 91) !important;
+    --bg--base-color: #4f585b !important;
+}
+
+.darkmode .react-loading-skeleton::after,
+.darkmodebody .react-loading-skeleton::after {
+    background-image: var(--custom-highlight-background, linear-gradient(90deg, #4f585b 0%, #1c2022 50%, #4f585b 100%));
+}
+
+.darkmode .mediastick {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .form-control,
+.darkmode textarea.textarea_ht.textarea_ht_desc,
+.darkmodebody .form-control {
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(255, 255, 255);
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .cancel_rev {
+    background-color: rgb(18, 21, 23) !important;
+    border-color: rgb(0, 101, 255) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .cancel_rev:hover,
+.darkmode .cancel_rev:focus,
+.darkmode .cancel_rev:active {
+    background-color: rgb(25, 28, 30) !important;
+    border-color: rgb(0, 101, 255) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .form-control::placeholder {
+    color: #fff !important;
+}
+
+.darkmode .table thead.thead_bg tr th {
+    color: #fff;
+}
+
+.darkmode .comment_res_btn {
+    color: #fff;
+}
+
+.darkmode .rc-pagination-prev,
+.darkmode .rc-pagination-next {
+    border-color: rgb(48, 54, 106);
+}
+
+.darkmode .rc-pagination-prev,
+.darkmode .rc-pagination-next,
+.darkmode .rc-pagination-jump-prev,
+.darkmode .rc-pagination-jump-next {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .rc-pagination-prev:hover,
+.darkmode .rc-pagination-next:hover,
+.darkmode .rc-pagination-item:hover {
+    border-color: rgb(0, 101, 255);
+    background-color: rgb(21, 25, 27);
+}
+
+.darkmode .rc-pagination-item {
+    border-color: rgb(48, 54, 106);
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmode .rc-pagination-item a {
+    color: #fff;
+}
+
+.darkmode .nav .nav-item .nav-link.active,
+.darkmode .nav .nav-item .nav-link:hover {
+    background-color: rgb(25, 28, 30) !important;
+    color: rgb(255, 243, 219) !important;
+}
+
+.darkmode .loveastrologer h5 {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .nav.nav-line .nav-item .nav-link.active,
+.darkmode .nav.nav-line .nav-item .nav-link:hover,
+.darkmode .nav.nav-line .nav-item .nav-link:focus,
+.darkmode .nav.nav-line .nav-item .nav-link:active {
+    background-color: transparent !important;
+}
+
+.darkmode .nav.nav-line.planet_con_list2 .nav-item .nav-link.active span.text_adim {
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .viewall_not {
+    background-color: rgba(0, 115, 255, 0);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .viewall_not:hover {
+    background-color: rgba(0, 115, 255, 0.1) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .link_mybtn {
+    background-color: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .link_mybtn:hover {
+    background-color: #2173f2;
+    color: #fff;
+}
+
+.darkmode .popover_head_bg .setting_mange {
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode ul.not_list li a:hover {
+    background-color: rgba(79, 108, 135, 0.1);
+}
+
+.darkmode ul.avail_otheroption li a:hover {
+    background-color: transparent;
+}
+
+.darkmode .table_z_pad .table-striped tbody tr:nth-of-type(2n+1) {
+    background-color: rgb(27, 30, 32);
+}
+
+.darkmode .table-hover tbody tr:hover,
+.darkmodebody .modal-content {
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmode .ar_dtl_prof_fl {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .popover_head_bg .setting_mange {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .profile_horsco_list ul li a {
+    color: #fff;
+}
+
+.darkmode .profile_horsco_list ul li:hover {
+    background-color: rgb(30, 36, 38) !important;
+}
+
+.darkmode .profile_horsco_list ul li:hover a {
+    background: none;
+}
+
+.darkmode .terms_footer {
+    border-top-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode ul.not_list li div button div.hoverpara span, .darkmode .msg_helpnot {
+    border-color: rgb(18, 21, 23);
+}
+
+.darkmode .showlesstag,
+.darkmodebody .showlesstag {
+    color: rgb(66, 243, 255);
+    background-color: rgba(0, 115, 255, 0.2);
+}
+
+.darkmode .showlesstag:hover,
+.darkmodebody .showlesstag:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode ul.nav.nav-line.currenttransit_tab li.nav-item a.nav-link.active {
+    background-color: rgba(33, 115, 242, 0.15) !important;
+}
+
+.darkmode .pubstory_card {
+    background-color: rgb(27, 32, 34);
+    border-color: rgb(21, 72, 142)
+}
+
+.darkmode select.birth_select_vedic.birth_select_vedicwhite {
+    background: url('https://dkscore.b-cdn.net/src-assets/images/avatars/arrowselectwhite.svg') no-repeat;
+    background-size: 24px 24px;
+    background-position: 96% 50%;
+}
+
+.darkmodebody .articleadmin_popup .modal-content .modal-header,
+.darkmodebody .event_modal .modal-content .modal-header {
+    border-bottom-color: rgb(32, 39, 113);
+}
+
+.darkmodebody .event_modal .modal-content .modal-header button.btn-close {
+    background: url('../../../public/assets/images/darkthemecross.svg') no-repeat rgb(18, 21, 23) !important;
+}
+
+.darkmodebody .event_modal .modal-content .card {
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmodebody .event_modal .modal-content .card ul.articledivnew li.dtl_subtitle_font span,
+.darkmode .customerdash_list ul li.cust_dash_detail2 h5.exp_astro {
+    color: #fff;
+}
+
+.darkmodebody .event_modal .modal-content .card .todayhoro_list ul li h5,
+.darkmodebody .event_modal .modal-content .card .todayhoro_list ul li p,
+.darkmodebody .event_modal .modal-content .card .todayhoro_list ul li h6,
+.darkmodebody .event_modal .modal-content .share_success_color ul.share_success li a h6 {
+    color: #fff;
+}
+
+.darkmodebody .event_modal .modal-content .share_success_color h5 {
+    color: #fff !important;
+}
+
+.darkmodebody .event_modal .modal-content .card ul.tagview_list li a {
+    background-color: rgb(36, 39, 43);
+    color: rgb(255, 255, 255);
+}
+
+.darkmodebody .event_modal .modal-content .card .article_box_mar,
+.darkmode .astrinfo_tab_mar {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .event_modal .modal-content .card .anna_in {
+    color: #fff !important;
+}
+
+.darkmode .customerdash_list ul li .editprof_flex button.editprofile_astro {
+    background-color: rgb(18, 21, 23);
+    border-color: rgb(21, 72, 142);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .customerdash_list ul li .editprof_flex button.editprofile_astro:hover,
+.darkmode .dosha_section:nth-child(2n) {
+    background-color: rgb(25, 28, 30);
+}
+
+.darkmode .dosha_section:nth-child(2n+1) {
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmode .card_brd_pubrev,
+.darkmode .delrev_btn,
+.darkmode .publish_input_bx_ai,
+.darkmodebody .tagadd_pad,
+.darkmodebody .modal-footer,
+.darkmode .srdtl_wr_txt1_edit {
+    border-color: rgb(21, 72, 142);
+}
+
+.darkmode .delrev_btn:hover {
+    background-color: rgb(25, 28, 30);
+    color: rgb(255, 95, 95) !important;
+}
+
+.darkmode .delte_award_btn {
+    border-color: rgb(21, 72, 142);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .delte_award_btn:hover {
+    background-color: rgb(25, 28, 30);
+}
+
+.darkmode .planetpos_list_active {
+    background-color: rgba(0, 115, 255, 0.1);
+    border-color: rgba(0, 101, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .userimage_pos h5.magezero,
+.darkmodebody .userimage_pos h5.magezero {
+    color: rgb(255, 147, 232);
+}
+
+.darkmode .userimage_pos h5.mageonetothirty,
+.darkmodebody .userimage_pos h5.mageonetothirty {
+    color: rgb(255, 147, 232);
+}
+
+.darkmode .userimage_pos h5.magethirtytosixty,
+.darkmodebody .userimage_pos h5.magethirtytosixty {
+    color: rgb(241, 147, 255);
+}
+
+.darkmode .userimage_pos h5.mabovesixty,
+.darkmodebody .userimage_pos h5.mabovesixty {
+    color: rgb(255, 160, 144);
+}
+
+.darkmode .userimage_pos h5.fagezero,
+.darkmodebody .userimage_pos h5.fagezero {
+    color: #1769AA;
+}
+
+.darkmode .userimage_pos h5.fageonetothirty,
+.darkmodebody .userimage_pos h5.fageonetothirty {
+    color: rgb(169, 255, 255);
+}
+
+.darkmode .userimage_pos h5.fagethirtytosixty,
+.darkmodebody .userimage_pos h5.fagethirtytosixty {
+    color: rgb(216, 255, 221);
+}
+
+.darkmode .userimage_pos h5.fabovesixty,
+.darkmodebody .userimage_pos h5.fabovesixty {
+    color: rgb(210, 255, 255);
+}
+
+.darkmode .userimage_pos h5.fanyimage,
+.darkmodebody .userimage_pos h5.fabovesixty {
+    color: rgb(210, 255, 255);
+}
+
+.darkmodebody .userimage_pos h5.fanyimage {
+    color: rgb(210, 255, 255);
+}
+
+.darkmodebody .follow_modal_h.modal-header {
+    border-bottom: 1px solid rgb(21, 72, 142);
+}
+
+.darkmodebody .suggest_follow {
+    border-top: 1px solid rgb(21, 72, 142);
+}
+
+.darkmodebody .follow_search input {
+    background-color: rgb(25, 28, 30);
+    color: #fff;
+}
+
+.darkmodebody .modal_follow p {
+    color: #f8e8cf;
+
+}
+
+.darkmodebody ul.followe_list li.pro_name .foll_flex button.fol_btn {
+    border-color: rgb(0, 56, 163);
+    background-color: rgb(30, 34, 38);
+    color: rgb(66, 243, 255);
+}
+
+.darkmodebody ul.followe_list:hover {
+    background-color: rgb(25, 28, 30);
+}
+
+.darkmodebody ul.followe_list li.pro_name .foll_flex button.removefol_btn {
+    background-color: rgb(18, 21, 23);
+    border-color: rgb(21, 72, 142);
+    color: #fff;
+}
+
+.darkmodebody .removefol_btn:hover {
+    background-color: rgb(25, 28, 30) !important;
+}
+
+.darkmodebody .navline_brdmedia {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .review_drap_para .bg-white {
+    background-color: rgb(21, 25, 27) !important;
+}
+
+.darkmode .comment_box_new {
+    background-color: rgba(46, 52, 54, 0.3) !important;
+}
+
+.darkmode .bg_white {
+    background-color: rgb(18, 21, 23) !important;
+}
+
+.darkmode .write_comment {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .art_dtl_cmnt_fixed {
+    background-color: rgb(18, 21, 23);
+    box-shadow: rgba(0, 0, 0, 0.37) 0px 0px 21px 0px;
+}
+
+.darkmode .art_dtl_cmnt_fixed span {
+    border-right-color: rgba(218, 199, 174, 0.13);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .authofollow_btn_det {
+    background-color: rgb(18, 21, 23);
+    color: rgb(255, 255, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .authofollow_btn_det:hover {
+    background-color: rgba(0, 115, 255, 0.1) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(0, 101, 255, 0) !important;
+}
+
+.darkmode .authofollow_btn_det:active {
+    background-color: #2173f2 !important;
+    color: #fff !important;
+    border-color: #2173f2 !important;
+}
+
+.darkmode .comment_box_new .article_box_mar {
+    background-color: rgba(46, 52, 54, 0) !important;
+}
+
+.darkmode .seealrec,
+.darkmodebody .seealrec {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .seealrec:hover,
+.darkmodebody .seealrec:hover {
+    background-color: #2173f2;
+    color: #fff;
+}
+
+.darkmode .awardcard_widht .card-header {
+    background: transparent;
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .awardcard_widht .card-header .card-header--title h5 {
+    color: #fff;
+}
+
+.darkmode ::-webkit-calendar-picker-indicator {
+    filter: invert(1);
+}
+
+.darkmode select.newselect,
+.darkmode select.newselect:focus,
+.darkmodebody select.newselect,
+.darkmodebody select.newselect:focus {
+    background: url('https://dkscore.b-cdn.net/src-assets/images/avatars/arrowselectwhite.svg') no-repeat;
+    background-size: 24px 24px;
+    background-position: 96% 50%;
+    outline: none;
+    appearance: none;
+    padding-right: 30px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.darkmode .neutral-primary_cust {
+    background-color: rgba(0, 115, 255, 0.1) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .btn-neutral-danger {
+    background-color: rgba(255, 0, 14, 0.15);
+    color: rgb(255, 86, 118);
+}
+
+.darkmode .btn-neutral-danger.active,
+.darkmode .btn-neutral-danger:focus,
+.darkmode .btn-neutral-danger:hover {
+    background-color: rgb(255, 0, 14);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .task_list ul li .task_div a,
+.darkmode h5.sortby_h,
+.darkmodebody h5.sortby_h {
+    color: rgb(66, 243, 255);
+}
+
+.darkmodebody .authofollow_btn_det {
+    background-color: rgb(18, 21, 23);
+    color: rgb(255, 255, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmodebody .authofollow_btn_det:hover {
+    background-color: rgba(0, 115, 255, 0.1) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(0, 101, 255, 0) !important;
+}
+
+.darkmodebody ul.tagview_list li a {
+    background-color: rgb(36, 39, 43);
+    color: rgb(255, 255, 255);
+}
+
+.darkmodebody .art_dtl_cmnt_fixed {
+    background-color: rgb(18, 21, 23);
+    box-shadow: rgba(0, 0, 0, 0.37) 0px 0px 21px 0px;
+}
+
+.darkmodebody .art_dtl_cmnt_fixed span {
+    color: rgb(66, 243, 255);
+}
+
+.darkmodebody .comment_box_new {
+    background-color: rgba(46, 52, 54, 0.3) !important;
+}
+
+.darkmodebody .bg_white {
+    background-color: rgb(18, 21, 23) !important;
+}
+
+.darkmodebody .form-control {
+    background-color: rgb(18, 21, 23);
+    color: #fff;
+}
+
+.darkmodebody .popover {
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmodebody .dropcomment_innenr textarea {
+    border-color: rgba(218, 199, 174, 0.13);
+    background-color: rgb(18, 21, 23);
+    color: rgb(255, 255, 255);
+}
+
+.darkmodebody .dropcomment_innenr textarea::placeholder {
+    color: #fff;
+}
+
+.darkmodebody .cooment_submit {
+    background-color: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .publish_border_tb {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .optimearticle_flex button {
+    background-color: rgba(0, 110, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .optimearticle_flex button:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .genrttitle_btn {
+    background-color: rgba(46, 52, 54, 0.3);
+    color: rgb(255, 255, 255);
+    border-color: rgb(21, 72, 142);
+}
+
+.darkmode .articlepub_brd {
+    border-left-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode ul.v_tab_list li a {
+    background-color: rgb(25, 28, 30) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmode ul.v_tab_list li a.active {
+    background-color: rgba(0, 110, 255, 0.1) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .nav.v_tab_list .nav-item .nav-link.active,
+.darkmode .nav.v_tab_list .nav-item .nav-link:hover {
+    background-color: rgba(0, 110, 255, 0.1) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode ul.v_tab_list li.target_grow button.tar_moddal_btn {
+    background-color: rgb(36, 41, 45);
+    border-color: rgb(43, 70, 97);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .text_edit_title {
+    color: rgb(255, 255, 255);
+    border-color: rgb(21, 72, 142);
+}
+
+.darkmode .customereact_tags .ReactTags__selected {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .customereact_tags .ReactTags__selected span.tag-wrapper {
+    background-color: rgba(79, 108, 135, 0.2);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .seesug_btn {
+    background-color: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .seesug_btn:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode ul.refine_list li button.fol_btn_col,
+.darkmodebody ul.refine_list li button.fol_btn_col {
+    background-color: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+    border-color: rgba(0, 101, 255, 0);
+}
+
+.darkmode ul.refine_list li button.fol_btn_col:hover,
+.darkmodebody ul.refine_list li button.fol_btn_col:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .customereact_tags .ReactTags__selected .ReactTags__tagInput input {
+    background: rgba(18, 21, 23);
+    border: 1px solid rgba(218, 199, 174, 0.13);
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.darkmode .customereact_tags .ReactTags__selected .ReactTags__tagInput input::placeholder {
+    color: #fff;
+}
+
+.darkmode input.article_input {
+    border-color: rgb(52, 20, 155);
+}
+
+.darkmode input.article_input:hover,
+.darkmode input.article_input:active,
+.darkmode input.article_input:focus {
+    background-color: rgb(18, 21, 23);
+    color: #fff;
+    border-color: rgb(52, 20, 155);
+}
+
+.darkmode .article_horoscoep_sug_bg {
+    background-color: rgb(18, 21, 23);
+    box-shadow: rgba(104, 144, 183, 0.3) 0px 0px 30px;
+}
+
+.darkmodebody .mediacentercta {
+    color: rgb(66, 243, 255) !important;
+    background-color: rgba(0, 127, 255, 0.1) !important;
+}
+
+.darkmodebody .mediacentercta:hover {
+    background: #2173f2 !important;
+    color: #fff !important;
+}
+
+.darkmode .skeleton-loader-ai,
+.darkmode .skeleton-loader-ai1,
+.darkmode .skeleton-loader-ai2,
+.darkmode .skeleton-loader-ai3,
+.darkmode .skeleton-loader-ai4,
+.darkmode .skeleton-loader-ai5,
+.darkmode .skeleton-loader-ai6 {
+    background-image: linear-gradient(90deg, rgb(18, 21, 23), rgb(30, 36, 38), rgb(160, 21, 153), rgb(30, 36, 38), rgb(18, 21, 23));
+    background-color: initial;
+}
+
+.darkmode .cover_bg2 {
+    background-color: rgb(23, 27, 28);
+}
+
+.darkmode .card-header.cover_bg2 {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .text_edit_title2 {
+    background: none;
+}
+
+.darkmode .custom-control-label::before,
+.darkmode .custom-control-label::before {
+    border-color: rgb(216, 198, 173);
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmode .rem_input .custom-control-label {
+    color: #fff;
+}
+
+.darkmode .btn_blue_bdr,
+.darkmodebody .btn_blue_bdr {
+    color: rgb(66, 243, 255);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .ar_new_award {
+    background: rgba(66, 243, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .horscope_mathcpad {
+    background: rgb(18, 21, 23);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .aisearch_div {
+    background-color: rgb(18, 21, 23);
+    border-color: rgb(52, 20, 155);
+}
+
+.darkmode .male_form_bg {
+    background-color: rgb(38, 43, 46);
+}
+
+.darkmode .form_lablel input {
+    border-color: rgb(30, 34, 38) !important;
+    background-color: rgb(30, 34, 38);
+}
+
+.darkmode .female_form_bg {
+    background-color: rgb(38, 43, 46);
+}
+
+.darkmode .femmale_head {
+    color: rgb(255, 129, 255);
+}
+
+.darkmode .historymatch_card,
+.darkmode .gunmilanai_card {
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmode .importance_section {
+    background-color: rgb(18, 21, 23);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .importance_card {
+    background-color: rgb(25, 30, 32);
+}
+
+.darkmode .aikundalimilan_sec {
+    background-color: rgb(18, 21, 23);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .publ_cards,
+.darkmode .article_tags .custom_select .css-b62m3t-container {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .publ_cards,
+.darkmode .planetpos_list {
+    background: rgba(18, 21, 23, 1);
+}
+
+.darkmode .article_tags .custom_select .css-b62m3t-container .css-1nmdiq5-menu>div>div {
+    background: rgba(18, 21, 23, 1);
+    cursor: pointer;
+}
+
+.darkmode .article_tags .custom_select .css-b62m3t-container .css-1nmdiq5-menu>div>div:hover {
+    background: rgba(79, 108, 135, 0.2);
+}
+
+.darkmode .css-13cymwt-control {
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmode .lgna_select .css-1p3m7a8-multiValue {
+    background: rgba(79, 108, 135, 0.2);
+    cursor: pointer;
+}
+
+.darkmode .lgna_select .css-1nmdiq5-menu,
+.darkmode .lgna_select .css-t3ipsp-control,
+.darkmode .lgna_select .css-13cymwt-control {
+    background: rgba(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .lgna_select .css-1nmdiq5-menu>div>div {
+    background: rgba(18, 21, 23, 1);
+    cursor: pointer;
+}
+
+.darkmode .lgna_select .css-1nmdiq5-menu>div>div:hover {
+    background: rgba(79, 108, 135, 0.2);
+}
+
+.darkmode .publish_input_bx input {
+    background: none;
+}
+
+.darkmode .article_tags .custom_select .css-b62m3t-container .css-1p3m7a8-multiValue {
+    background-color: rgba(79, 108, 135, 0.2) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmode .article_tags .custom_select .css-t3ipsp-control,
+.darkmode .article_tags .custom_select .css-1nmdiq5-menu {
+    background-color: rgba(18, 21, 23);
+}
+
+.darkmode .gray_card,
+.darkmode .publish_input_bx {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .title_gray_cap {
+    color: rgb(255, 246, 225);
+}
+
+.darkmode .curr_flex {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .fileupload_position a {
+    background: transparent !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .previewar_flex a {
+    background: rgb(18, 21, 23) !important;
+    color: #fff;
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .shadow-overflow::after {
+    background-image: linear-gradient(rgba(18, 21, 23, 0) 0%, rgb(18, 21, 23) 80%);
+}
+
+.darkmodebody .pub_brd:hover {
+    background: #08131f;
+}
+
+.darkmodebody .pub_brd:hover {
+    background-color: rgb(23, 28, 30);
+}
+
+.darkmodebody select.mediatagselect {
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmodebody select.mediatagselect option,
+.darkmode .input-group-seamless .form-control.search_group {
+    background: rgb(18, 21, 23);
+}
+
+.darkmodebody .pubname_textarea {
+    background: transparent;
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .pubname_textarea textarea {
+    background: none;
+}
+
+.darkmode .saverev_btn {
+    background: #2173f2 !important;
+}
+
+.darkmode .score_card,
+.darkmode .gunmilan_card {
+    border-color: rgb(0, 52, 167);
+}
+
+.darkmode .gunmilan_card {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode ul.milan_namelist li h5.male_name {
+    background-color: rgb(25, 30, 32);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode ul.milan_namelist li h5.female_name {
+    background-color: rgb(27, 30, 32);
+    color: rgb(255, 129, 255);
+}
+
+.darkmode .score_milan,
+.darkmode .male_dosha h4,
+.darkmode .aisearch_content button,
+.darkmode .art_readscore span,
+.darkmode .allaisearch_head_article a,
+.darkmode .try_another a {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .milan_result {
+    background-color: rgb(25, 30, 32);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .male_dosha {
+    background-color: rgb(38, 43, 46);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 10px;
+}
+
+.darkmode .female_dosha {
+    background-color: rgb(32, 38, 39);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 10px;
+}
+
+.darkmode .conclusion_sec {
+    background-color: rgb(18, 21, 23);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode p.ailimit {
+    background-color: rgb(25, 28, 30);
+    color: #fff;
+}
+
+.darkmode .pdf_bg {
+    background: transparent;
+}
+
+.darkmode .detaian_sendpdf button.send_pdf_btn {
+    color: rgb(66, 243, 255);
+    background-color: rgb(25, 28, 30);
+}
+
+.darkmode .detaian_sendpdf button.send_pdf_btn:hover {
+    background-color: rgb(38, 43, 45);
+}
+
+.darkmode .aiall_blur .blur_layer {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgb(18, 21, 23));
+}
+
+.darkmode .showmoreai_pos::before,
+.darkmode .showmoreai_pos::after {
+    background-color: rgb(46, 52, 54);
+}
+
+.darkmode .showmore_ai,
+.darkmode .allaisearch_head_result a {
+    background: rgb(18, 21, 23);
+    border-color: rgb(21, 72, 142);
+    color: #fff;
+}
+
+.darkmode .showmore_ai:hover {
+    background: rgb(46, 52, 54);
+}
+
+.darkmode .allperai_accord,
+.darkmode ul.aiketuper_list {
+    border-bottom-color: rgba(216, 198, 173, 0.2);
+}
+
+.darkmode ul.recent_search_result li a {
+    background: rgb(21, 34, 39);
+    color: #fff;
+}
+
+.darkmode .video_con_para p,
+.darkmode ul.video_cond li p span {
+    color: rgb(253, 239, 216);
+}
+
+.darkmodebody .share_name_flex .num_pincode,
+.darkmodebody .num_pincode {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .num_pincode .datecountry input.country_input {
+    color: #fff;
+}
+
+.darkmode ul.metatitle_list li p.anal_green {
+    color: #b4ffb4;
+}
+
+.darkmode ul.metatitle_list li p.analyticalred {
+    color: #ff1515;
+}
+
+.darkmode .scrren_recording_card {
+    background-color: rgb(18, 21, 23);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px;
+}
+
+.darkmode .mathcprofile_btn {
+    background-color: rgba(0, 113, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .allaisearch_head .airesult_match h5.ai_match span {
+    background: rgba(9, 144, 61, 0.05);
+    color: rgb(208, 255, 255);
+}
+
+.darkmodebody .bg-light {
+    background: rgb(25, 28, 30) !important;
+}
+
+.darkmodebody .card-text {
+    color: rgb(255, 243, 219);
+}
+
+.darkmodebody .card-footer,
+.darkmodebody .img_he_horoscope {
+    background: rgb(18, 21, 23);
+}
+
+.darkmodebody .img_he_horoscope .image-container {
+    background: #fff;
+}
+
+.darkmodebody .card,
+.darkmodebody .list-group-item {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .card-box .card-footer {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .knowmo_btn2 {
+    background-color: rgb(18, 21, 23);
+    color: rgb(66, 243, 255);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .hoverhoroscopebuttons button:hover {
+    background-color: rgb(25, 28, 30);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .cust_dob2 {
+    color: #fff !important;
+}
+
+.darkmode button.view_prof {
+    background: rgba(0, 115, 255, 0.1);
+    border-color: rgba(0, 101, 255, 0);
+    color: rgb(66, 243, 255)
+}
+
+.darkmode button.view_prof:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .select_typelist ul li a {
+    border-color: rgba(218, 199, 174, 0.13);
+    color: #fff;
+}
+
+.darkmode .select_typelist ul li a.active {
+    border-color: rgb(0, 56, 163) !important;
+    color: rgb(66, 243, 255) !important;
+    background: rgba(0, 127, 255, 0.1) !important;
+}
+
+.darkmode a.tag_list {
+    background: rgb(18, 21, 23);
+    border-color: rgb(48, 54, 106) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmode .select_typelist ul li a:hover {
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .result_sort ul li select.form_sort:focus {
+    background: transparent;
+}
+
+.darkmode .result_sort ul li select.form_sort option {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .card-header {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .card_headmedi {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .row_videotitle {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .delete_videdmedia a {
+    border-color: rgb(21, 72, 142);
+    color: rgb(255, 95, 95);
+}
+
+.darkmode .delete_videdmedia button {
+    border-color: rgb(21, 72, 142);
+}
+
+.darkmode .delete_videdmedia button:hover {
+    background: rgb(25, 28, 30) !important;
+
+    border-color: rgb(21, 72, 142) !important;
+}
+
+.darkmode .publicvide_bg {
+    background: rgba(45, 50, 54, 0.4);
+}
+
+.darkmode input.title_form:focus {
+    color: #fff;
+}
+
+.darkmode .progress_footer {
+    border-top-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode ul.astrodata_ch li a.allprofile {
+    background: rgba(125, 51, 211, 0.1) !important;
+    border-radius: 6px !important;
+    border: none !important;
+    color: rgb(221, 101, 255);
+}
+
+.darkmode ul.astrodata_ch li a.allprofile:hover {
+    background: rgba(125, 51, 211, 0.2) !important;
+    color: rgb(221, 101, 255) !important;
+}
+
+.darkmode ul.astrodata_ch li a.active.allprofile {
+    background: rgba(125, 51, 211, 1) !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+.darkmode ul.astrodata_ch li a.researchprofile {
+    background: rgba(230, 52, 66, 0.1) !important;
+    border-radius: 6px !important;
+    border: none !important;
+    color: rgb(255, 147, 163);
+}
+
+.darkmode ul.astrodata_ch li a.researchprofile:hover {
+    background: rgba(230, 52, 66, 0.2) !important;
+    color: rgb(255, 147, 163) !important;
+}
+
+.darkmode ul.astrodata_ch li a.researchprofile.active {
+    background: rgba(203, 84, 93, 1) !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+.darkmode ul.astrodata_ch li a.mundaneprofile {
+    background: rgba(255, 194, 0, 0.1) !important;
+    border-radius: 6px !important;
+    border: none !important;
+    color: rgb(255, 255, 101);
+}
+
+.darkmode ul.astrodata_ch li a.mundaneprofile:hover {
+    background: rgba(255, 194, 0, 0.2) !important;
+    color: rgb(255, 255, 101) !important;
+}
+
+.darkmode ul.astrodata_ch li a.mundaneprofile.active {
+    background: rgba(196, 153, 11, 1) !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+.darkmode ul.astrodata_ch li a.publicprofile {
+    background: rgba(52, 167, 145, 0.1) !important;
+    border-radius: 6px !important;
+    border: none !important;
+    color: rgb(153, 255, 255);
+}
+
+.darkmode ul.astrodata_ch li a.publicprofile:hover {
+    background: rgba(52, 167, 145, 0.2) !important;
+    color: rgb(153, 255, 255) !important;
+}
+
+.darkmode ul.astrodata_ch li a.publicprofile.active {
+    background: #34A791 !important;
+    color: #fff !important;
+    border: none !important;
+}
+
+.darkmode .planer_mar {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .card.planet_card_newh {
+    background: url('https://dkscore.s3.ap-southeast-1.amazonaws.com/src-assets/images/avatars/impactedpronewbg.png') no-repeat;
+}
+
+.darkmode .media_overlay_timeline_timeline2 {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(18, 21, 23));
+}
+
+.darkmodebody a.dwnpdf_link {
+    border-color: rgba(218, 199, 174, 0.13);
+    background-color: rgb(18, 21, 23);
+    color: rgb(66, 243, 255);
+}
+
+.darkmodebody a.dwnpdf_link:hover {
+    color: rgb(66, 243, 255) !important;
+    background: rgb(25, 28, 30);
+}
+
+.modalbody_card_sharepad .card {
+    border-bottom: none;
+}
+
+.darkmodebody .nav_brd,
+.darkmode ul.navtag_add2.nav_brd {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .custom_color_btn_up,
+.darkmode .schapp,
+.darkmode .titledesc_aitext,
+.darkmode button.add_more {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .custom_color_btn_up:hover {
+    background-color: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .appoint_list ul {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .navbar_pos {
+    background-color: rgb(18, 21, 23);
+    border-left-color: rgba(218, 199, 174, 0.13);
+    border-right-color: rgba(218, 199, 174, 0.13);
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .profileselect_list2 ul:hover {
+    background-color: rgba(50, 57, 59, 0.3);
+}
+
+.darkmode button.edit_cust_btn {
+    background-color: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode button.edit_cust_btn:hover {
+    background-color: rgb(25, 28, 30);
+    color: rgb(66, 243, 255);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode button.edit_cust_btn:active {
+    background-color: rgb(36, 41, 45) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgb(0, 101, 255) !important;
+}
+
+.darkmode .upload_btn_position5 {
+    background-color: rgb(30, 34, 38);
+}
+
+.darkmode .upload_btn_position {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .rc-switch,
+.darkmodebody .rc-switch {
+    background-color: rgb(25, 28, 30);
+    border-color: rgb(82, 91, 95);
+}
+
+.autocomplete_width input {
+    height: 50px;
+}
+
+.darkmode .autocomplete_width input,
+.darkmodebody .autocomplete_width input {
+    color: rgb(255, 255, 255);
+    background-color: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .autocomplete-dropdown,
+.darkmodebody .autocomplete-dropdown {
+    background-color: rgb(18, 21, 23);
+    border-color: rgb(86, 97, 101);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px;
+}
+
+.darkmode .countrycode_div .react-tel-input .form-control {
+    background-color: rgb(18, 21, 23);
+    color: #fff;
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .react-tel-input .flag-dropdown,
+.darkmode .react-tel-input .flag-dropdown:hover,
+.darkmode .react-tel-input .flag-dropdown:focus,
+.darkmode .react-tel-input .flag-dropdown:active,
+.darkmode .react-tel-input .selected-flag:hover,
+.darkmode .react-tel-input .selected-flag:focus,
+.darkmode .react-tel-input .flag-dropdown.open,
+.darkmode .react-tel-input .flag-dropdown.open .selected-flag {
+    background-color: rgb(28, 32, 34);
+    border-color: rgb(88, 97, 102);
+}
+
+.darkmode .react-tel-input .country-list .country-name {
+    color: #fff;
+}
+
+.darkmode .autocomplete-item:hover,
+.darkmode .autocomplete-item.active {
+    background-color: rgb(28, 34, 36);
+    color: rgb(66, 255, 255);
+}
+
+.darkmodebody .autocomplete-item:hover,
+.darkmodebody .autocomplete-item.active {
+    background-color: rgb(28, 34, 36);
+    color: #fff;
+}
+
+.darkmode .btn_save_can {
+    background: rgb(18, 21, 23) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .btn_save_can:hover {
+    background-color: rgb(25, 28, 30) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .search_astro_tag ul li button {
+    border-color: rgba(218, 199, 174, 0.13);
+    color: #fff;
+}
+
+.darkmode .search_astro_tag ul li button:hover {
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .search_astro_tag ul li button.search_astrol_pad.active,
+.darkmode .select_filter h6 {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .maincontainer_cal .fc .fc-prev-button,
+.darkmode .maincontainer_cal .fc .fc-next-button {
+    background-color: rgba(50, 57, 59, 0.15);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .maincontainer_cal .fc .fc-prev-button:hover,
+.darkmode .maincontainer_cal .fc .fc-next-button:hover {
+    background-color: rgba(50, 57, 59, 0.15) !important;
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmode .maincontainer_cal .fc-toolbar-chunk:nth-child(3) {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .maincontainer_cal .fc-today-button {
+    background-color: rgba(0, 127, 255, 0.1) !important;
+    border-color: rgba(0, 118, 255, 0) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .maincontainer_cal .fc-dayGridDay-button,
+.darkmode .maincontainer_cal .fc-dayGridWeek-button {
+    background-color: rgb(18, 21, 23) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmode .maincontainer_cal .fc-dayGridMonth-button,
+.darkmode .maincontainer_cal .fc-listWeek-button {
+    background-color: rgba(50, 57, 59, 0.15) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmode .maincontainer_cal .fc-dayGridWeek-button.fc-button-active,
+.darkmode .maincontainer_cal .fc-dayGridMonth-button.fc-button-active,
+.darkmode .maincontainer_cal .fc-dayGridDay-button.fc-button-active,
+.darkmode .maincontainer_cal .fc-listWeek-button.fc-button-active {
+    background-color: rgba(0, 127, 255, 0.1) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .maincontainer_cal .fc-daygrid-day-events {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .ruletag_list ul li button.tag_list {
+    background-color: rgb(18, 21, 23);
+    color: rgb(255, 255, 255);
+    border-color: rgb(48, 54, 106) !important;
+}
+
+.darkmode .ruletag_list ul li button.tag_list:hover {
+    background-color: rgb(36, 39, 43) !important;
+    border-color: rgb(70, 77, 81) !important;
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .ruletag_list.ruletag_list_cus ul li button.active {
+    background: rgba(0, 115, 255, 0.1) !important;
+    border-color: rgba(0, 101, 255, 0) !important;
+    color: #fff !important;
+}
+
+.darkmode .selct_lor_pa ul {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .selct_lor_pa ul:hover {
+    background-color: rgba(50, 57, 59, 0.2);
+}
+
+.darkmode select.house_sle,
+.darkmode select.house_sle:focus,
+.darkmode select.house_sle:active {
+    border: none;
+    padding: 0;
+    background: url('../../../public/assets/images/chevronblue.svg') no-repeat right;
+    appearance: none;
+    background-position-y: 10px;
+    height: auto;
+    box-shadow: none;
+    font-weight: 600;
+    padding-right: 20px;
+    cursor: pointer;
+    position: absolute;
+    inset: 0;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.darkmode .card_seach_grad {
+    background-image: linear-gradient(to right, rgb(16, 32, 39), rgb(28, 32, 36));
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .table.table_advance thead th {
+    background: transparent;
+}
+
+.darkmode .table.table_advance tr td {
+    color: #fff;
+}
+
+.darkmode .filer_active {
+    background-color: rgba(0, 115, 255, 0.1);
+}
+
+.darkmode .maincontainer_cal .fc .fc-list-sticky .fc-list-day>* {
+    background: #121517;
+}
+
+.darkmode .fc .fc-list-event:hover td {
+    background: #121517;
+}
+
+.darkmode .form-row_brd {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .btn_group button {
+    background: rgba(79, 108, 135, 0.05);
+    color: rgb(255, 255, 255);
+    border-color: rgba(173, 158, 137, 0.05);
+}
+
+.darkmode .btn_group button:hover:hover {
+    background: rgba(0, 115, 255, 0.15) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgb(0, 2, 162);
+}
+
+.darkmode .btn_group button.active {
+    background-color: rgba(0, 115, 255, 0.15) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(0, 101, 255, 0.15) !important;
+}
+
+.darkmode .langselectsetting {
+    border-color: rgba(227, 208, 181, 0.2);
+    background: rgb(18, 21, 23);
+    color: #fff;
+}
+
+.darkmode input.form_border {
+    border-color: rgba(227, 208, 181, 0.2) !important;
+    background: rgb(18, 21, 23) !important;
+    color: #fff !important;
+}
+
+.darkmode .btn_sign_dsiable {
+    color: rgb(66, 243, 255) !important;
+    background: rgba(0, 115, 255, 0.1) !important;
+}
+
+.darkmode .setting_list ul li a {
+    border-color: rgb(61, 68, 72);
+    color: #fff;
+}
+
+.darkmode .setting_list ul li a.active {
+    color: rgb(66, 243, 255);
+    border-color: rgba(0, 101, 255, 0.2);
+}
+
+.darkmode .custview_list ul li button.custview_hornobg2 {
+    background-color: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .custview_list ul li button.custview_hornobg2:hover {
+    background-color: rgb(25, 28, 30) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .custview_list ul li button.custview_hornobg2:focus {
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .vewwaltags {
+    background-color: rgb(18, 21, 23);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .vewwaltags:hover {
+    background-color: rgba(0, 115, 255, 0.1) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode button.show_hor_link,
+.darkmode .basic_info a {
+    background: rgb(18, 21, 23);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode button.show_hor_link:hover,
+.darkmode .basic_info p a:hover {
+    background: rgba(0, 115, 255, 0.1) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmodebody .flex_horoscope div.p-2 button.card {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+    border-color: rgba(54, 84, 115, 0) !important;
+}
+
+.darkmodebody .flex_horoscope div.p-2 button.card:hover {
+    background: #2173f2;
+}
+
+.darkmodebody .dropdown-menu {
+    background-color: rgb(18, 21, 23);
+    color: rgb(255, 255, 255);
+}
+
+.darkmodebody .appointment_sticky {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .card-header.cover_bg {
+    background: rgb(23, 27, 28);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .cardmodal_header {
+    background: rgb(23, 27, 28);
+}
+
+.darkmode .disablebtn {
+    background: rgb(30, 36, 38) !important;
+    color: rgb(163, 255, 255) !important;
+}
+
+.darkmode .cardprofile_mar.active {
+    border-color: rgb(21, 72, 142);
+    background: rgba(0, 115, 255, 0.1);
+}
+
+.darkmode .cardprofile_mar.active .cover_bg {
+    background: rgba(23, 27, 28, 0.2);
+}
+
+.darkmode .inactivebtn {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .inactivebtn:hover,
+.darkmode .activebtn {
+    background: rgb(30, 36, 38) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgb(0, 54, 156);
+}
+
+.darkmode .customerdash_list ul li.cust_dash_detail2 .chare_as .astro_charge ul li h6 {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.darkmode span.option_time::before,
+.darkmode span.option_time::after {
+    background: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .sendfed_btn {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmodebody .sendfed_btn:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .list-group-item {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .text-primary {
+    color: rgb(174, 241, 255) !important;
+}
+
+.darkmode .bg-neutral-warning {
+    background: rgb(54, 30, 0) !important;
+    color: rgb(255, 205, 82) !important;
+}
+
+.darkmode .bg-neutral-danger {
+    background: rgb(77, 0, 0) !important;
+    color: rgb(255, 86, 118) !important;
+}
+
+.darkmodebody .custom_select .react-dropdown-select {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: #fff;
+}
+
+.darkmodebody .custom_select .react-dropdown-select .react-dropdown-select-content input {
+    color: #fff;
+}
+
+.darkmodebody .css-c91z-NoDataComponent {
+    color: rgb(66, 243, 255);
+}
+
+.darkmodebody .react-dropdown-select .react-dropdown-select-option {
+    background: rgba(79, 108, 135, 0.2) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmodebody .react-dropdown-select .react-dropdown-select-option-remove {
+    color: #fff;
+}
+
+.darkmodebody .css-1tspqtw-InputComponent::placeholder {
+    color: #fff;
+}
+
+.darkmodebody .custom_select .react-dropdown-select-dropdown {
+    border-color: rgb(86, 97, 101);
+    background: rgb(18, 21, 23);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 10px 0px;
+}
+
+.darkmodebody .css-z2hyoe-ItemComponent.react-dropdown-select-item-selected {
+    border-bottom-color: rgb(61, 68, 72);
+}
+
+.darkmodebody .css-z2hyoe-ItemComponent {
+    color: rgb(66, 243, 255);
+    border-bottom-color: rgb(61, 68, 72);
+}
+
+.darkmodebody ul.addtag_fotlist li h6 {
+    background: rgba(79, 108, 135, 0.1);
+    color: rgb(255, 255, 255);
+}
+
+.set_pad:last-child,
+.set_pad2:last-child {
+    border-bottom: none;
+}
+
+.darkmode ul.birthday_div li .birtage_fle,
+.darkmode .set_pad,
+.darkmode .set_pad2 {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .summarttag_btn ul li button.select_sum {
+    background: rgb(36, 41, 43);
+    border-color: rgb(0, 56, 165);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .summarttag_btn ul li button.select_sum:hover {
+    background: #2173f2;
+    color: #fff;
+    border-color: #2173f2;
+}
+
+.darkmode .btn_new_param_hover {
+    background: rgba(0, 115, 255, 0.1);
+    border-color: rgba(0, 101, 255, 0);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .btn_new_param_hover:hover {
+    background: #2173f2;
+    color: #fff !important;
+}
+
+.darkmode .current_page {
+    color: rgb(66, 243, 255);
+    border-color: rgba(227, 208, 181, 0.2);
+}
+
+.darkmode .filter_tags_sm {
+    background-color: rgb(30, 34, 38);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .stats_navTabs ul.statresultab.nav.nav-line .nav-item .nav-link.active {
+    background-color: rgba(0, 115, 255, 0.1) !important;
+}
+
+.darkmode .stats_navTabs ul.statresultab.nav.nav-line .nav-item .nav-link:hover {
+    background: rgba(79, 108, 135, 0.15) !important;
+}
+
+.darkmode .analytic_sum_bg,
+.darkmode .tyoosign_bg {
+    background: rgb(25, 28, 30);
+}
+
+.darkmode .nav.nav-line.tab_sig_div .nav-item .nav-link.active {
+    background: rgb(18, 21, 23) !important;
+}
+
+.darkmode text {
+    fill: #fff;
+}
+
+.darkmode select.birth_select {
+    border-color: rgba(227, 208, 181, 0.2) !important;
+}
+
+.darkmode .laganstatstics_btn ul li button.active {
+    background-color: rgb(18, 21, 23) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .consultation_list ul li .box_width a.btn-input-select {
+    border-color: rgb(48, 54, 106);
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .consultation_list ul li .box_width a.btn-input-select:hover {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+    box-shadow: rgba(0, 0, 0, 0.2) 1px 0px 10px;
+}
+
+.darkmodebody .pref_modaltag ul li h5 {
+    background: rgba(79, 108, 135, 0.1);
+    color: rgb(255, 255, 255);
+}
+
+.darkmodebody .confirm_cont_bg {
+    background: transparent;
+}
+
+.darkmodebody ul.linkgen_list {
+    background: rgb(25, 28, 30);
+    border-color: rgb(21, 72, 142);
+}
+
+.darkmodebody ul.confirm_btnlist li a.join_call {
+    color: rgb(66, 243, 255);
+    border-color: rgb(21, 72, 142);
+}
+
+.darkmodebody ul.confirm_btnlist li a.join_call:hover,
+.darkmodebody ul.confirm_btnlist li a.join_call:focus,
+.darkmodebody ul.confirm_btnlist li a.join_call:active {
+    background-color: rgb(25, 28, 30);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .shadow-overflow-horizontal::after,
+.darkmode .shadow-overflow-horizontal::before {
+    background: linear-gradient(to right, rgb(18, 21, 23) 20%, rgba(18, 21, 23, 0) 100%);
+}
+
+.darkmode .timeline-list-horizontal ul::before {
+    background: rgb(45, 50, 54);
+}
+
+.darkmodebody .react-tel-input .flag-dropdown {
+    background: rgb(28, 32, 34);
+    border-color: rgb(88, 97, 102);
+}
+
+.darkmodebody .react-tel-input .flag-dropdown.open .selected-flag {
+    background: rgb(28, 32, 34);
+}
+
+.darkmodebody .react-tel-input .country-list .search,
+.darkmodebody .react-tel-input .country-list .country.highlight,
+.darkmodebody .react-tel-input .country-list .country:hover {
+    background: rgb(28, 32, 34);
+}
+
+.darkmodebody .react-tel-input .country-list .search-box {
+    border-color: rgb(88, 97, 102);
+    background: rgb(28, 32, 34);
+    color: #fff;
+}
+
+.darkmodebody .react-tel-input .country-list .search-box::placeholder,
+.darkmodebody .react-tel-input .country-list .country .dial-code {
+    color: #fff;
+}
+
+.darkmodebody .num_pincode .react-tel-input .form-control {
+    color: #fff;
+}
+
+.darkmodebody .react-tel-input .selected-flag:hover,
+.darkmodebody .react-tel-input .selected-flag:focus {
+    background: rgb(28, 32, 34);
+}
+
+.darkmodebody .react-tel-input .country-list {
+    box-shadow: rgba(0, 0, 0, 0.35) 1px 2px 10px;
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmode .customerdash_list ul li .editprof_flex button.editprofile_astro:active {
+    background: rgb(18, 32, 39) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgb(21, 72, 142) !important;
+}
+
+.darkmode .conv_cardlist {
+    background: transparent;
+}
+
+.darkmode .event_div a {
+    color: #fff;
+}
+
+.darkmodebody input.birthblack::-webkit-calendar-picker-indicator {
+    filter: brightness(0) invert(1);
+}
+
+.darkmode ul.user_video li button.edtvide_btn {
+    color: rgb(66, 243, 255);
+    background-color: rgb(18, 21, 23);
+    border-color: rgb(0, 101, 255);
+}
+
+.darkmode .mediadropshare {
+    box-shadow: 0px 3px 10px rgba(255, 255, 3555, 0.16) !important;
+}
+
+.darkmode .bdrgraph {
+    box-shadow: rgba(79, 108, 135, 0.2) 0px 3px 6px;
+    background-color: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .row_videotitle,
+.darkmode .row_videotitletext,
+.darkmode .card_headmedi .card-header,
+.darkmode .curr_flex {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .searchastro_height_cust .cover_bg2::before {
+    background: rgb(23, 27, 28);
+    content: '';
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 10%);
+}
+
+.darkmode .vdeo_recome_column {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .miglink {
+    background: rgb(36, 39, 43);
+    color: #fff;
+}
+
+.darkmode .score_card {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode input[type="date"].date_eclipse_cal::-webkit-calendar-picker-indicator {
+    filter: none;
+}
+
+.darkmode .mundaneeflect_list ul li a.active {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+    border-color: rgba(0, 118, 255, 0) !important;
+}
+
+.darkmode .mundaneeflect_list ul li a:hover {
+    background: rgba(50, 57, 59, 0.4) !important;
+    border-color: rgba(227, 208, 181, 0) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmode .reset_btn {
+    background: rgba(0, 110, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .reset_btn:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .mun_contype ul li h6 {
+    background: rgba(9, 144, 61, 0.1);
+    color: rgb(208, 255, 255);
+}
+
+.darkmodebody .select_typelist ul li button {
+    border-color: rgba(218, 199, 174, 0.13) !important;
+    color: #fff;
+}
+
+.darkmodebody .select_typelist ul li button:hover {
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmodebody .select_typelist ul li button.active {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+    border-color: rgba(0, 118, 255, 0) !important;
+}
+
+.darkmodebody .mediacentercta.invite_frien {
+    background: #2173f2 !important;
+    color: #fff !important;
+}
+
+.darkmodebody .comp_type ul li button.issue_btn {
+    background-color: rgba(0, 115, 255, 0.15);
+    color: rgb(66, 243, 255);
+}
+
+.darkmodebody .comp_type ul li button.fed_btn {
+    background-color: rgba(79, 108, 135, 0.1);
+    color: rgb(255, 255, 255);
+}
+
+.darkmodebody .custom-control-label::before {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 1) !important;
+}
+
+.darkmodebody .fed_in .custom-control-label {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.darkmodebody .popup_modification .modal-content {
+    border-color: rgb(61, 68, 72);
+}
+
+.darkmodebody .popup_modification .modal-footer,
+.darkmode .viewall_notbtn,
+.darkmode ul.avail_otheroption li {
+    border-top-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode input.sug_input {
+    color: rgb(255, 255, 255);
+    background: rgb(25, 28, 30);
+    border-color: rgb(21, 72, 142);
+}
+
+.darkmode input.sug_input::placeholder {
+    color: #fff;
+}
+
+.darkmode .suggestion_list {
+    background-color: rgb(18, 21, 23);
+    box-shadow: rgba(104, 144, 183, 0.3) 0px 0px 30px;
+}
+
+.darkmode ul.user_comment_name li.drop_share span button.dropshare_btn,
+.darkmode ul.astrosug_ai li .aisearchrelate {
+    background: rgba(18, 21, 23, 1);
+}
+
+.darkmode ul.user_comment_name.user_comment_name_button li.drop_share span button.dropshare_btn {
+    background: transparent;
+}
+
+.darkmode .saveprof_exit button {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .saveprof_exit button:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode ul.multipro_check {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .select_typelist ul li a.taglist_multiple {
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .summarttag_btn ul li button.addtag_sum {
+    background: rgb(18, 21, 23);
+    border-color: rgb(21, 72, 142);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .summarttag_btn ul li button.addtag_sum:hover {
+    background: rgb(25, 28, 30);
+    color: rgb(66, 243, 255);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .astronumer_card {
+    background: rgb(18, 21, 23);
+    border-color: rgb(0, 52, 167);
+}
+
+.darkmode .numer_card {
+    background: rgb(32, 38, 39);
+}
+
+.darkmode .introastronumer_card {
+    background: rgb(25, 28, 30);
+}
+
+.darkmode .chalden_card,
+.darkmode .introastronumer_card_bg,
+.darkmode .leadership_card {
+    background: rgba(18, 21, 23);
+}
+
+.darkmode ul.cor_num_list_brd {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .panch_card {
+    background: rgb(25, 28, 30);
+}
+
+.darkmode ul.notification_list:hover {
+    background-color: rgb(18, 21, 23);
+    border-color: rgb(39, 77, 102);
+}
+
+.darkmode .buymore_btn {
+    background: rgba(0, 127, 255, 0.1);
+    color: rgba(66, 243, 255, 1);
+    border-color: rgba(0, 127, 255, 0.1);
+}
+
+.darkmode .buymore_btn:hover,
+.darkmode .buymore_btn:focus,
+.darkmode .buymore_btn:active {
+    background: #2173f2 !important;
+    border-color: #2173f2 !important;
+    color: #fff !important;
+}
+
+.darkmode .resechdule_applist ul li button.resech_app {
+    background-color: rgb(18, 21, 23);
+    color: rgb(66, 243, 255);
+    border-color: rgb(21, 72, 142);
+}
+
+.darkmode .resechdule_applist ul li button.resech_app:hover {
+    background: rgb(25, 28, 30);
+}
+
+.darkmode .buttoncontrol_flex {
+    border-color: rgb(21, 72, 142);
+}
+
+.darkmode ul.notification_list2 {
+    border-color: rgba(218, 199, 174, 0.13);
+    background-color: rgb(18, 21, 23);
+}
+
+.darkmode ul.notification_list2:hover {
+    background-color: rgb(18, 21, 23);
+    border-color: rgb(39, 77, 102);
+}
+
+.darkmodebody .videomodal_share,
+.darkmode .planer_mar,
+.darkmodebody .card_planet_wh,
+.darkmode .article_tags .custom_select .css-b62m3t-container {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode ul.oper_email_list,
+.darkmode .appoint_table ul,
+.darkmode .searmain_stick {
+    background: rgba(18, 21, 23);
+}
+
+.darkmode ul.oper_email_list li.opemail_li .op_emai_content h4 {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.darkmode ul.oper_email_list li.opemail_li .op_emai_content h4 span {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode ul.oper_email_list:hover {
+    background: rgb(27, 32, 34);
+    border-color: rgba(227, 208, 181, 0) rgba(227, 208, 181, 0) rgba(160, 147, 127, 0);
+}
+
+.darkmode .metatitle_list {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .mundaneeflect_list ul li a {
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .search_res_title,
+.darkmode .search_res_title span {
+    color: #fff !important;
+}
+
+.darkmode .astrologer_list ul li.astro_img_detail ul.astroskill_list11 li h6,
+.darkmode .cards_search_btm {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .nobel_wrap_ppl,
+.darkmode .nobel_wrap,
+.darkmode .planetloader {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .nobel_wrap:hover {
+    background: rgb(28, 32, 34);
+}
+
+.darkmode .select_typelist_custfil ul li a,
+.darkmode .planetpos_list_forecast,
+.darkmode .mundaneeflect_list ul li a,
+.darkmode .srdtl_wr_txt1_edit,
+.darkmode .nobel_wrap,
+.darkmode .planetloader,
+.darkmode ul.addmig_list li a.migcust_bir {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode ul.addmig_list li a.migcust_bir {
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode ul.addmig_list li a.migcust_bir:hover {
+    background: rgb(25, 28, 30) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .hideflexpos,
+.darkmode .select_typelist ul li a,
+.darkmode .add_customer_bg_pos {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .problemcard_bg {
+    background: rgb(84, 0, 0);
+}
+
+.darkmode .remedies_back {
+    background: rgb(25, 59, 43);
+}
+
+.darkmode .pred_back {
+    background: rgb(30, 36, 38);
+}
+
+.darkmode ul.problemlist li h5 {
+    color: rgb(255, 95, 95);
+}
+
+.darkmode .problemlist li button {
+    color: rgb(255, 95, 95);
+}
+
+.darkmode .remedies_back ul.problemlist li h5 {
+    color: rgb(208, 255, 255);
+}
+
+.darkmode .remedies_back ul.problemlist li button {
+    background: rgba(9, 144, 61, 0.2);
+    color: rgb(208, 255, 255);
+}
+
+.darkmode .pred_back ul.problemlist li h5 {
+    color: rgb(241, 147, 255);
+}
+
+.darkmode .pred_back ul.problemlist li h5 {
+    color: rgb(241, 147, 255);
+}
+
+.darkmode .pred_back ul.problemlist li button {
+    color: rgb(241, 147, 255);
+}
+
+.darkmode ul.remidside li h6 {
+    background-color: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmodebody .problem_edittext textarea {
+    border-color: rgba(227, 208, 181, 0.2);
+    color: #fff;
+}
+
+.darkmode .img_pr_ca2 {
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .viewconv_btn {
+    background: rgba(33, 115, 242, 0.1);
+    color: rgba(66, 243, 255, 1);
+}
+
+.darkmode .viewconv_btn:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .custom-toast {
+    background: #fff;
+    color: #000;
+}
+
+.darkmode .textdash_title_left a:hover {
+    background-color: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .purpose_list li h5 {
+    background: rgba(79, 108, 135, 0.4);
+    color: rgb(255, 255, 255);
+}
+
+.darkmodebody .tag_view_search li a {
+    background: rgba(79, 108, 135, 0.1);
+    color: rgb(255, 255, 255);
+    border-color: rgba(227, 208, 181, 0);
+}
+
+.darkmode .textdash_title_left button {
+    color: rgba(66, 243, 255, 1);
+}
+
+.darkmode .textdash_title_left button:hover,
+.darkmode .jyo_view {
+    color: rgba(66, 243, 255, 1) !important;
+}
+
+.darkmode .jyo_view,
+.darkmode .dasg_analytic ul li .circle_per_div {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .textdash_title_left a:hover {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .jyoast_dah_flex .jyo_view:hover,
+.darkmode .jyoast_dah_flex .jyo_view:active,
+.darkmode .jyoast_dah_flex .jyo_view:focus {
+    background-color: rgb(25, 28, 30) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .result_analtic {
+    background: rgb(18, 21, 23);
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .result_analtic:hover,
+.darkmode .result_analtic:active,
+.darkmode .result_analtic:focus {
+    background: rgb(25, 28, 30) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode ul.impacte_shani_list li a {
+    background: rgba(46, 52, 54, 0.5);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .allimpact_profiel {
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .allimpact_profiel:hover {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmodebody .ardhuadiv_key .popover {
+    background: none;
+}
+
+.darkmodebody .hover_box_bg {
+    background-color: rgb(18, 21, 23);
+    border-top-color: rgba(227, 208, 181, 0.1);
+    border-left-color: rgba(227, 208, 181, 0.1);
+    border-bottom-color: rgba(227, 208, 181, 0.1);
+}
+
+.darkmodebody .hover_box_bg2 {
+    background: rgb(0, 102, 45);
+    border-left-color: rgb(23, 212, 138);
+}
+
+.darkmode ul.newconvlist li.chatsearch_li .inputchatdiv input {
+    background: rgb(25, 28, 30);
+    color: #fff;
+}
+
+.darkmode .contact_list {
+    border-right-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode ul.chatscreen,
+.darkmode .current_user,
+.darkmode ul.impacted_saturnplanet {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode ul.chatscreen.active,
+.darkmode ul.chatscreen:hover {
+    background: rgb(25, 28, 30);
+    border-bottom: 1px solid rgb(0, 101, 255);
+}
+
+.darkmode .chatbrd {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .readmore_impact button {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .card_impact_color {
+    background: url('https://dkscore.s3.ap-southeast-1.amazonaws.com/src-assets/images/avatars/impactedpronewbg.png') no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkmode .event_saturn ul {
+    background: rgba(146, 38, 255, 0.15);
+    color: rgb(241, 147, 255);
+}
+
+.darkmode .event_moon ul {
+    background: rgba(230, 52, 66, 0.15);
+    color: rgb(255, 126, 155);
+}
+
+.darkmode .event_mrigarsira ul {
+    background: rgba(255, 230, 0, 0.15);
+    color: rgb(255, 255, 59);
+}
+
+.darkmode .impacted_slided {
+    border-bottom-color: rgb(48, 86, 118);
+}
+
+.darkmode .family_load {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .family_load:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .newmoon_flex {
+    background: rgb(25, 28, 30);
+    border-top-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .horaslider_btn {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .horaslider_btn.activehora {
+    background: #2173f2;
+    border-color: #2173f2;
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .horacontent_list ul li button {
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode button.event_btn {
+    background: rgb(18, 21, 23) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .btn_dasha_varga3 button {
+    background: rgba(79, 108, 135, 0.05);
+    border-color: rgba(173, 158, 137, 0.05);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .btn_dasha_varga3 button.active {
+    background-color: rgba(0, 115, 255, 0.15) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .event_bg.active {
+    background: rgba(146, 38, 255, 0.15);
+    color: rgb(221, 101, 255);
+}
+
+.darkmode .event_bg {
+    background: rgb(34, 39, 41);
+    color: rgb(174, 255, 255);
+}
+
+.darkmode .newappoint_date2 {
+    background: rgba(34, 239, 144, 0.1);
+}
+
+.darkmode .newappoint_date2 ul li h5 {
+    color: rgb(208, 255, 255);
+}
+
+.darkmode .poad_card_mar:hover {
+    background: rgba(79, 108, 135, 0.1);
+}
+
+.darkmode .viewalldays_btn {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .viewday_div h5.amber_day_bg {
+    background: rgb(101, 72, 0);
+    color: rgb(255, 255, 61);
+}
+
+.darkmode .share_pro {
+    background: rgb(18, 21, 23);
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .share_pro:hover {
+    background: rgb(25, 28, 30);
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .share_pro:active {
+    background: rgb(18, 21, 23) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .viewalldays_btn:hover {
+    background: rgb(25, 28, 30);
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .viewalldays_btn:active,
+.darkmode .viewalldays_btn:focus {
+    background: rgb(25, 28, 30) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .chogdiya_box ul {
+    border-color: rgba(218, 199, 174, 0.13);
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .chogdiya_box_active.chogdiya_box ul {
+    background: rgba(0, 115, 255, 0.1);
+    border-color: rgba(227, 208, 181, 0);
+}
+
+.darkmode .chogdiya_box ul:hover {
+    background-color: rgba(0, 115, 255, 0.1);
+    border-color: rgba(227, 208, 181, 0);
+}
+
+.darkmode .chogdiya_box ul:hover li h5,
+.darkmode .chogdiya_box ul:hover li h6 {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .chogdiya_bottomcard {
+    border-color: rgba(218, 199, 174, 0.13);
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .jupiterchakra {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .jupiterchakra:hover {
+    background: rgba(79, 108, 135, 0.04);
+}
+
+.darkmode select.birth_select_vedic.birth_select7 {
+    background: url('https://dkscore.b-cdn.net/src-assets/images/avatars/arrowselectwhite.svg') no-repeat, rgb(18, 21, 23);
+    background-size: 24px 24px;
+    background-position: 96% 50%;
+}
+
+.darkmode .wisdom_btn {
+    background: rgb(18, 21, 23);
+    color: rgb(66, 243, 255);
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .wisdom_btn:hover {
+    background: rgb(25, 28, 30) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .wisdom_btn:focus {
+    background: rgb(25, 28, 30) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .week_position2 {
+    border-color: rgba(218, 199, 174, 0.13);
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .app-sidebar--dark .app-sidebar--header .collapse-sidebar-btn {
+    color: #fff;
+}
+
+.darkmode .app-sidebar--dark .app-sidebar--header .collapse-sidebar-btn:hover {
+    background: rgb(25, 28, 30);
+}
+
+.darkmode .viewday_div h5.green_day_bg {
+    background: rgb(0, 88, 46);
+    color: rgb(208, 255, 255);
+}
+
+.darkmodebody .list-group-item {
+    background: rgb(18, 21, 23);
+}
+
+.darkmodebody .event_modal .modal-content .card.event_bg.active {
+    background: rgba(146, 38, 255, 0.15);
+    color: rgb(221, 101, 255);
+}
+
+.darkmodebody .event_modal .modal-content .card.event_bg {
+    background: rgb(34, 39, 41);
+    color: rgb(174, 255, 255);
+}
+
+.darkmode .dash_an_btn,
+.darkmode ul.mediadate_range li select.form-control {
+    background: rgb(18, 21, 23) !important;
+    color: #fff;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .dash_an_btn:hover {
+    color: #fff !important;
+}
+
+.darkmode .dash_an_btn:hover svg path,
+.darkmode .dash_an_btn:focus svg path,
+.darkmode .dash_an_btn:active svg path {
+    fill: #fff;
+}
+
+.darkmode .save_pdf_btn {
+    background: rgba(0, 115, 255, 0.2);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .save_pdf_btn:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .send_pdf_btn {
+    background: rgb(25, 28, 30);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .send_pdf_btn:hover {
+    background: rgb(38, 43, 45);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .wrapper_bg {
+    background: rgb(90, 101, 104);
+}
+
+.darkmode .page2_main,
+.darkmode .page4_main {
+    background: rgb(28, 34, 36);
+}
+
+.darkmode ul.currentdashapdf_list li h5.dashpdf_sta {
+    color: rgb(208, 255, 255);
+}
+
+.darkmode .pdfc0nclusion_bg {
+    background: rgba(46, 52, 54, 0.5);
+}
+
+.darkmode .apexcharts-legend-text {
+    color: #fff !important;
+}
+
+.darkmode .analybrd_right,
+.darkmode .anlyttics_brd_top_bottom {
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .apexcharts-tooltip.apexcharts-theme-light,
+.darkmode .onboarding_sticky,
+.darkmode ul.stepper_list {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .apexcharts-tooltip.apexcharts-theme-light .apexcharts-tooltip-title {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode ul.custview_tag_list li span {
+    background: rgba(79, 108, 135, 0.2);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .buttonchat_group {
+    background: none;
+    border-color: rgb(18, 21, 23);
+}
+
+.darkmode .switch_custom.switch-medium.toggle-switch-primary.rc-switch {
+    background-color: rgb(25, 28, 30);
+    border: 1px solid rgb(82, 91, 95) !important;
+}
+
+.darkmode .table.table_avail .thead-light th {
+    background: rgba(30, 34, 38, 0.7);
+    border-color: rgb(34, 43, 124);
+}
+
+.darkmode .table-bordered.table_avail td {
+    border-color: rgb(34, 43, 124);
+}
+
+.darkmode input[type="date"].calender_pad::-webkit-calendar-picker-indicator {
+
+    opacity: 1;
+    display: block;
+    background: url("https://dkscore.b-cdn.net/src-assets/images/avatars/calendar.svg") no-repeat;
+    width: 15px;
+    height: 15px;
+    border-width: thin;
+    position: absolute;
+    top: 55%;
+    right: 30px;
+    cursor: pointer;
+    transform: translate(-50%, -50%);
+    background-size: 100% 100%;
+}
+
+.darkmode input[type="date"].calender_pad::-webkit-calendar-picker-indicator,
+.darkmode input.advance_date_height::-webkit-calendar-picker-indicator {
+    filter: invert(0);
+}
+
+.darkmode button.add_more_contact {
+    background: rgba(0, 115, 255, 0);
+    color: rgba(66, 243, 255, 1);
+}
+
+.darkmode button.add_more_contact:hover,
+.darkmode button.create_btn {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgba(66, 243, 255, 1);
+}
+
+.darkmode button.create_btn:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .btn-input-select {
+    border-color: rgb(48, 54, 106);
+}
+
+.darkmode .btn-input-select.active {
+    border-color: rgba(218, 199, 174, 0.13);
+    background: rgb(27, 32, 34);
+}
+
+.darkmode .btn-input-select:hover {
+    border-color: rgba(218, 199, 174, 0.13);
+    box-shadow: rgba(0, 0, 0, 0.2) 1px 0px 10px;
+    background: rgb(18, 21, 23);
+    color: #fff;
+}
+
+.darkmode .bankdetail {
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .bankdetail:hover {
+    background: rgb(25, 28, 30);
+    color: rgb(66, 243, 255);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .tab_vertical ul.stepper_list li a span.vart_numberbg {
+    color: rgb(255, 255, 255);
+    border-color: rgb(173, 158, 137);
+}
+
+.darkmode .tab_vertical ul.stepper_list li a.active span.vart_numberbg {
+    background: rgb(0, 115, 255);
+    border-color: rgb(0, 101, 255);
+}
+
+.darkmode .vertical_step_flex {
+    border-top-color: rgba(218, 199, 174, 0.13);
+    border-left-color: rgba(218, 199, 174, 0.13);
+    border-right-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .tab_vertical ul.stepper_list {
+    background: rgb(21, 25, 27);
+}
+
+.darkmode .tab_vertical {
+    border-right-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .tagview_list li a {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode ul.tagview_list li span {
+    background: rgba(79, 108, 135, 0.2);
+}
+
+.darkmode .edit_faq {
+    color: rgb(66, 243, 255);
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode ul.pdflist li.pdfgrow h6 {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.darkmode .shadow-overflow::after,
+.darkmode .shadow-overflow::before {
+    background-image: linear-gradient(rgb(18, 21, 23) 20%, rgba(18, 21, 23, 0) 100%);
+}
+
+.darkmode .search_astro_tag ul li a {
+    border-color: rgba(218, 199, 174, 0.13);
+    color: #fff;
+}
+
+.darkmode .search_astro_tag ul li a.search_astrol_pad.active {
+    color: rgb(66, 243, 255);
+    background-color: rgba(0, 127, 255, 0.1);
+    border-color: transparent;
+}
+
+.darkmode .search_astro_tag ul li a:hover {
+    color: rgb(66, 243, 255) !important;
+    background-color: rgba(0, 127, 255, 0.1);
+    border-color: transparent;
+}
+
+.darkmodebody .select_typelist ul li h6 {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.darkmodebody .select_typelist_custfil ul li a {
+    border-color: rgba(218, 199, 174, 0.13);
+    background: rgba(18, 21, 23, 1);
+    color: #fff;
+}
+
+.darkmode input.birh_pad::-webkit-calendar-picker-indicator {
+    filter: invert(0);
+}
+
+.darkmode .was-validated .form-control:valid,
+.darkmode .form-control.is-valid {
+    border-color: #1bc943;
+    padding-right: calc(1.5em + 1.06rem);
+    background-image: url('data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 8 8%27%3e%3cpath fill=%27%231bc943%27 d=%27M2.3 6.73L.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z%27/%3e%3c/svg%3e');
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.265rem) center;
+    background-size: calc(0.75em + 0.53rem) calc(0.75em + 0.53rem);
+}
+
+.darkmode .tithi_btn {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .tithi_btn:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode input.date_eclipse_cal2::-webkit-calendar-picker-indicator {
+    position: relative;
+    background-color: transparent;
+    z-index: 1;
+}
+
+.darkmode input[type="date"].date_eclipse_cal2::-webkit-calendar-picker-indicator {
+    color: rgba(0, 0, 0, 0);
+    opacity: 1;
+    display: block;
+    /* background: url("../../../public/assets/images/calblack.svg") no-repeat; */
+    background: url("../../../public/assets/images/calendar.svg") no-repeat;
+    width: 15px;
+    height: 15px;
+    background-size: 100% 100%;
+    filter: invert(0);
+}
+
+.darkmode input.date_eclipse_cal2::-webkit-datetime-edit-day-field,
+.darkmode input.date_eclipse_cal2::-webkit-datetime-edit-month-field,
+.darkmode input.date_eclipse_cal2::-webkit-datetime-edit-year-field,
+.darkmode input.date_eclipse_cal2::-webkit-datetime-edit-text {
+    background-color: #11221B;
+    color: #D0FFFF;
+    padding: 4px;
+
+}
+
+input.date_eclipse_cal2::-webkit-datetime-edit-day-field {
+    border-radius: 7px 0px 0px 7px;
+}
+
+input.date_eclipse_cal2::-webkit-datetime-edit-year-field {
+    border-radius: 0px 7px 7px 0px;
+}
+
+.darkmode .skip_step {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgba(66, 243, 255, 1);
+}
+
+.darkmode .skip_step:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .faq_en_bad,
+.darkmode .faq_ds_bad {
+    background: transparent !important;
+}
+
+.darkmode .btnfedback {
+    background: rgba(9, 144, 61, 0.1);
+    color: rgb(208, 255, 255);
+}
+
+.darkmode .btnfedback:hover {
+    background: rgb(9, 144, 61);
+    color: rgb(255, 255, 255);
+}
+
+.darkmodebody .shadow-overflow::before {
+    background-image: linear-gradient(rgb(18, 21, 23) 20%, rgba(18, 21, 23, 0) 100%);
+}
+
+.darkmodebody .shadow-overflow::after {
+    background-image: linear-gradient(rgba(18, 21, 23, 0) 0%, rgb(18, 21, 23) 80%);
+}
+
+.darkmode .ver_next_nobg {
+    background: rgb(18, 21, 23);
+    color: rgb(66, 243, 255);
+    border-color: rgb(0, 101, 255);
+}
+
+.darkmode a.tag_list.active {
+    background-color: rgba(0, 127, 255, 0.1) !important;
+    border-color: rgba(227, 208, 181, 0) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmodebody .select_typelist_custfil_hover ul li a {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .select_typelist_custfil_hover ul li a.active:hover,
+.darkmodebody .select_typelist_custfil_hover ul li a.active,
+.darkmodebody .select_typelist_custfil_hover ul li a:hover {
+    background: rgba(0, 127, 255, 0.1) !important;
+    border-color: rgba(0, 118, 255, 0) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmodebody .cover_bg2 {
+    background: rgb(23, 27, 28);
+}
+
+.darkmodebody .card-header.cover_bg2 {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody a.tag_list,
+.darkmodebody a.tag_list2 {
+    background: rgb(18, 21, 23);
+    border-color: rgb(48, 54, 106) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmodebody a.tag_list.active,
+.darkmodebody .select_typelist ul li a:hover,
+.darkmodebody a.tag_list2.active {
+    color: rgb(66, 243, 255) !important;
+    background: rgba(0, 127, 255, 0.1) !important;
+}
+
+.darkmodebody .select_typelist ul li a.active {
+    border-color: rgb(0, 56, 163) !important;
+}
+
+.darkmodebody button.edit_cust_btn {
+    background: rgb(18, 21, 23);
+    color: rgb(66, 243, 255);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody button.edit_cust_btn:hover {
+    background: rgb(25, 28, 30);
+    color: rgb(66, 243, 255);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody button.view_prof {
+    background-color: rgba(0, 115, 255, 0.1);
+    border-color: rgba(0, 101, 255, 0);
+    color: rgb(66, 243, 255);
+}
+
+.darkmodebody button.view_prof:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode a.tag_list {
+    border-color: rgb(48, 54, 106) !important;
+    color: rgb(255, 255, 255) !important;
+    background: rgb(18, 21, 23) !important;
+}
+
+.darkmode ul.reavenu_list_btn li a.take_appotment {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode ul.reavenu_list_btn li a.take_appotment:hover {
+    background: rgb(25, 28, 30) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+}
+
+.darkmode .tabelhead_pad a {
+    color: #fff;
+}
+
+.darkmode .tabelhead_pad a.healcheck_btn {
+    background-color: rgb(30, 36, 38);
+    color: rgb(66, 243, 255);
+    border-color: rgb(0, 2, 162);
+}
+
+.darkmode .tabelhead_pad a.healcheck_btn:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .addpdf_btn {
+    color: rgb(66, 243, 255);
+    background: rgba(0, 115, 255, 0.2);
+    border-color: rgb(0, 2, 162);
+}
+
+.darkmode .cancel_group {
+    background: rgb(18, 21, 23);
+    border-color: rgb(0, 101, 255);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .cancel_group:hover {
+    background: #2173f2;
+    border-color: #2173f2;
+}
+
+.darkmode .custom-control-label::before {
+    border: 1px solid rgb(216, 198, 173);
+    background: none;
+}
+
+.darkmode .addtag_box .searchastro_height_cust .cover_bg2::before {
+    height: auto;
+}
+
+.darkmodebody .custom_dir.bg-light {
+    background: none !important;
+}
+
+.darkmode .kundalitype_tab.tabs-animated>.nav-tabs .nav-item .nav-link {
+    background-color: rgba(50, 57, 59, 0.4);
+}
+
+.darkmode .kundalitype_tab ul li a {
+    color: #fff !important;
+}
+
+.darkmode .kundalitype_tab.nav-tabs-primary.tabs-animated-shadow>.nav-tabs .nav-item .nav-link.active span,
+.darkmode .nav-tabs-primary.tabs-animated-shadow>.nav-tabs .nav-item .nav-link:hover span {
+    color: rgb(70, 255, 255) !important;
+}
+
+.darkmode .btn_dasha button {
+    background: rgba(48, 56, 57, 0.4);
+    color: #fff;
+}
+
+.darkmode .btn_dasha button:hover {
+    background: rgba(48, 56, 57, 0.4) !important;
+    color: rgb(70, 255, 255) !important;
+}
+
+.darkmode .bg-white.scroll_chart_height {
+    background: rgb(18, 21, 23) !important;
+}
+
+.darkmode .btn_dasha button.active {
+    background: rgba(0, 115, 255, 0.15) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .btn_dasha.btn_dasha_pad button:hover {
+    background: #2173f2 !important;
+    color: #fff !important;
+}
+
+.darkmode .btn_dasha_varga button {
+    background-color: rgba(79, 108, 135, 0.05) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmode .btn_dasha_varga button:hover {
+    background: #2173f2 !important;
+}
+
+.darkmode .btn_dasha button.active {
+    background: rgba(0, 115, 255, 0.15) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode input.transit_mar::-webkit-calendar-picker-indicator,
+.darkmode input.transit_date_mobile3::-webkit-calendar-picker-indicator {
+    filter: invert(0);
+}
+
+.darkmode .filetarticle_select select {
+    border-color: rgb(21, 72, 142);
+    background: rgb(18, 21, 23);
+    color: #fff;
+}
+
+.darkmode ul.house_list:nth-child(2n) {
+    background: rgb(30, 36, 38);
+}
+
+.darkmode .card.planet_height {
+    background: url('../../../public/assets/images/impactedpronewbg.png') no-repeat;
+    background-size: 100% 100%;
+}
+
+.darkmode .nakshrehead_content {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .view_as {
+    background-color: rgb(18, 21, 23);
+    border-color: rgba(0, 101, 255, 1);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .view_as:hover {
+    background: rgba(0, 115, 255, 0.1);
+    border-color: rgba(0, 101, 255, 0.1);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode input.transit_date_mobile2,
+.darkmode input.transit_date_mobile3,
+.darkmode select.transit_date_mobile4 {
+    background: rgba(50, 57, 59, 0.4);
+    color: rgb(255, 255, 255);
+    border-color: transparent;
+}
+
+.darkmode .table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgb(27, 30, 32);
+}
+
+.darkmode .mainbtn {
+    background-color: rgb(18, 21, 23) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgb(0, 101, 255) !important;
+}
+
+.darkmode .btn_rulelist {
+    background: rgb(18, 21, 23);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .nav.monthly_plan .nav-item .nav-link.active {
+    background: #2173f2 !important;
+    color: #fff !important;
+}
+
+.darkmode .nav.monthly_plan .nav-item .nav-link {
+    background: rgba(79, 108, 135, 0.05);
+    color: rgb(255, 255, 255);
+    border-color: rgba(173, 158, 137, 0);
+}
+
+.darkmode .card_plan_h {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .try_plan,
+.darkmode .currentplan {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+    border-color: rgba(173, 158, 137, 0);
+}
+
+.darkmode .try_plan:hover,
+.darkmode .currentplan:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .accordion__button:before {
+    border-bottom: 2px solid rgb(255 237 237);
+    border-right: 2px solid rgb(255 255 255);
+}
+
+.darkmode .purchase_summary {
+    background: rgb(25, 28, 30);
+    border-color: rgba(0, 101, 255, 0.2);
+}
+
+.darkmode ul.silverplan_list_total {
+    border-top-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .tax_set button.taxsave_btn {
+    border-color: rgba(0, 101, 255, 0);
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .tax_set button.taxsave_btn:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .basic_info a:hover {
+    background: rgba(66, 243, 255, 0.1) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode ul.mediadate_range li select {
+    background: rgb(18, 21, 23) !important;
+    color: #fff;
+    border-color: rgba(218, 199, 174, 0.13);
+
+}
+
+.darkmode .menu_footer {
+    border-top-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .custom_tooltip,
+.darkmode .custom_tooltip2,
+.darkmodebody .custom_tooltip,
+.darkmodebody .custom_tooltip2 {
+    background: rgb(25, 28, 30) !important;
+    color: #fff !important;
+
+}
+
+.darkmode .ruletag_list ul li button.active {
+    background: rgb(36, 39, 43) !important;
+    border-color: rgba(227, 208, 181, 0) !important;
+    color: rgb(255, 255, 255) !important;
+}
+
+.darkmodebody button.adddate_bg {
+    /* background: rgba(66, 243, 255, 0.1); */
+    color: rgb(66, 243, 255);
+}
+
+.darkmodebody button.adddate_bg:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmodebody ul.fedmodal_list li button {
+    color: #fff;
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody ul.fedmodal_list li button.active {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .btn_dasha_varga button.active {
+    color: rgb(66, 243, 255) !important;
+    background: rgba(0, 115, 255, 0.15) !important;
+}
+
+.darkmode .autocomplete_width3 input {
+    border-color: transparent;
+    background: rgba(50, 57, 59, 0.4);
+    color: #fff;
+}
+
+.darkmodebody .pub_brd {
+    border-bottom-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .btn_nobg:hover {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .nav-tabs-primary.tabs-animated-shadow>.nav-tabs .nav-item .activedchart_btn.nav-link {
+    background: #2173f2;
+}
+
+.darkmode .nav-tabs-primary.tabs-animated-shadow>.nav-tabs .nav-item .activedchart_btn.nav-link:hover span {
+    color: #fff !important;
+
+}
+
+.darkmode .postive_div ul li h5.mars_head {
+    color: rgb(208, 255, 255);
+}
+
+.darkmode .family_link {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .family_link:hover,
+.darkmode .family_link:focus {
+    background: #2173f2;
+    color: #fff !important;
+}
+
+.darkmode .mem_btn {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmodebody .bft-light {
+    background: rgb(18, 21, 23);
+}
+
+.darkmodebody .node text {
+    fill: #fff;
+}
+
+.darkmodebody .familytreemodal .modal-content {
+    background: rgb(18, 21, 23) !important;
+}
+
+.darkmodebody ul.welcome_offer li button.change_plan {
+    background: rgba(66, 243, 255, 0.1);
+    color: rgba(66, 243, 255, 1);
+}
+
+.darkmodebody ul.welcome_offer li button.cancel_plan {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .avatar-icon {
+    box-shadow: rgb(18, 21, 23) 0px 0px 0px 3px;
+}
+
+.darkmode .postive_div_bg {
+    background: rgb(0, 88, 46);
+}
+
+.darkmode span.pos_head {
+    color: rgb(208, 255, 255);
+}
+
+.darkmode .postive_div_bg ul li h6 {
+    background: rgba(9, 144, 61, 0.1);
+    color: rgb(208, 255, 255);
+}
+
+.darkmode .negative_div_bg {
+    background: rgb(90, 0, 0);
+}
+
+.darkmode span.neg_head {
+    color: rgb(255, 72, 41);
+}
+
+.darkmode .postive_div_bg ul li p span,
+.darkmode .negative_div_bg ul li p span,
+.darkmode h5.dom_font span,
+.darkmode .custom_planetary h5 span {
+    color: rgb(255, 255, 255);
+    border-bottom-color: rgb(173, 158, 137);
+}
+
+.darkmode .ruletag_list_mobile ul li button.tag_list {
+    background: rgb(18, 21, 23);
+    color: rgb(255, 255, 255);
+    border-color: rgb(48, 54, 106) !important;
+}
+
+.darkmode .ruletag_list_mobile ul li button.active {
+    background: rgba(0, 115, 255, 0.1) !important;
+    border-color: rgba(227, 208, 181, 0) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .ruletag_list_mobile ul li button.tag_list:hover {
+    background-color: rgba(0, 115, 255, 0.1) !important;
+    border-color: rgba(227, 208, 181, 0) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .save_png {
+    background: rgba(66, 243, 255, 0.1);
+    color: rgba(66, 243, 255, 1);
+}
+
+.darkmode .nav.nav-line.statresultab2 .nav-item .nav-link.active {
+    background-color: rgb(0, 115, 255) !important;
+
+}
+
+.darkmode .nav.nav-line.statresultab2 .nav-item .nav-link.active span {
+    color: #fff !important;
+}
+
+.darkmode .stats_navTabs2 ul.statresultab2 li a {
+    background: rgba(79, 108, 135, 0.05) !important;
+}
+
+.darkmode .rstm-search {
+    background: #3b3b3b;
+    color: #fff;
+}
+
+.darkmode .rstm-search::placeholder {
+    color: #fff;
+}
+
+.darkmode .table.table_bgchanges .thead-light th {
+    background-color: rgb(30, 36, 38);
+    border-color: rgb(34, 43, 124);
+}
+
+.darkmode .table.table_bgchanges tr td,
+.darkmode .table.table_bgchanges tr th {
+    border-color: rgb(34, 43, 124);
+}
+
+.darkmode .table-striped.table_bgchanges tbody tr:nth-of-type(odd) {
+    background: rgba(18, 21, 23, 1);
+}
+
+.darkmodebody .suugest_group_checkflex ul.followe_list:hover {
+    background: transparent;
+}
+
+.darkmodebody .suugest_group_checkflex.activegroup,
+.darkmodebody .suugest_group_checkflex:hover {
+    background: rgba(73, 92, 111, 0.1);
+}
+
+.darkmode .transiimpac_bg {
+    background: rgb(23, 27, 28);
+}
+
+.darkmode .tophous ul li h5 span {
+    color: #fff;
+    border-color: #fff;
+}
+
+.darkmode .house_list ul li a {
+    background-color: rgb(18, 21, 23);
+    color: rgb(255, 255, 255);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .house_list ul li a:hover {
+    background-color: rgba(0, 115, 255, 0.1);
+    border-color: rgba(0, 101, 255, 0);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .house_list ul li a.active {
+    background-color: rgba(0, 115, 255, 0.1);
+    border-color: rgba(0, 101, 255, 0);
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .filtag_keylist ul li button {
+    background-color: rgba(79, 108, 135, 0.1);
+    color: rgb(255, 255, 255);
+    border-color: rgba(227, 208, 181, 0);
+}
+
+.darkmode .webinar_content {
+    background: rgba(18, 21, 23, 1);
+    color: #fff;
+    border: 1px solid rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .webastro_content h4 {
+    background-color: rgba(0, 115, 255, 0.1);
+    border-color: rgba(0, 101, 255, 0);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .webinar_date {
+    background: rgb(18, 21, 23);
+    border-color: rgba(79, 108, 135, 0.4);
+}
+
+.darkmode .webinar_date p {
+    background: rgba(79, 108, 135, 0.1);
+}
+
+.darkmode .learn_grow {
+    border-color: rgba(79, 108, 135, 0.4);
+}
+
+.darkmode .choosebutton {
+    background: rgba(79, 108, 135, 0.1);
+    color: #fff;
+}
+
+.darkmode .choosebutton.active,
+.darkmode .choosebutton:hover {
+    background-color: rgba(0, 127, 255, 0.1) !important;
+    border-color: rgba(227, 208, 181, 0) !important;
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmode .chat_insighbtn {
+    background: rgba(79, 108, 135, 0.1);
+    color: #fff;
+    border-color: rgba(79, 108, 135, 0.1);
+}
+
+.darkmode .chat_insighbtn:hover {
+    background: rgba(79, 108, 135, 0.1) !important;
+    color: rgb(66, 243, 255);
+    border-color: rgba(79, 108, 135, 0.1);
+}
+
+.darkmode .chat_insighbtn:focus {
+    color: rgb(66, 243, 255);
+    border: 1px solid rgba(79, 108, 135, 0.1);
+}
+
+.darkmode .current_user ul li.msgchatbrd {
+    border-color: rgba(79, 108, 135, 0.4);
+}
+
+.darkmodebody ul.shrehoromodal_list:hover {
+    background: rgb(23, 27, 28);
+}
+
+.darkmodebody .shrehoro_pro {
+    background: rgb(33, 115, 243, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmodebody .shrehoro_pro:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmodebody .kundalitype_tab.tabs-animated>.nav-tabs .nav-item .nav-link {
+    background-color: rgba(33, 115, 241, 0.1);
+}
+
+.darkmodebody .kundalitype_tab ul li a {
+    color: #fff !important;
+}
+
+.darkmodebody .kundalitype_tab ul li a:hover {
+    background: rgba(33, 115, 242, 0.1) !important;
+
+}
+
+.darkmodebody .nav-tabs-primary.tabs-animated-shadow>.nav-tabs .nav-item .nav-link:hover span,
+.darkmodebody .kundalitype_tab.nav-tabs-primary.tabs-animated-shadow>.nav-tabs .nav-item .nav-link.active span {
+    color: rgb(66, 243, 255) !important;
+}
+
+.darkmodebody select.transit_date_mobile4 {
+    background-color: rgba(50, 57, 59, 0.4);
+    border-color: transparent;
+}
+
+.darkmodebody .autocomplete_width3 input {
+    border-color: transparent;
+    background-color: rgba(50, 57, 59, 0.4);
+    color: #fff;
+}
+
+.darkmodebody .inactivebtn {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(255, 255, 255);
+}
+
+.darkmodebody .inactivebtn:hover {
+    background-color: rgb(30, 36, 38) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgb(0, 54, 156);
+}
+
+.darkmodebody .activebtn {
+    background-color: rgb(30, 36, 38) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgb(0, 54, 156);
+}
+
+.darkmodebody .astro_slider .slick-arrow {
+    color: rgb(66, 243, 255);
+    background-color: rgba(0, 115, 255, 0.1);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .astro_slider .slick-arrow:hover {
+    background: #2173f2;
+    color: #fff;
+    border-color: #2173f2;
+}
+
+.darkmode ul.learn_list li h5,
+.darkmodebody ul.learn_list li h5 {
+    background: rgba(79, 108, 135, 0.1);
+    color: rgb(255, 255, 255);
+}
+
+.darkmode .webinar_learn,
+.darkmodebody .webinar_learn {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .webinarprice_pos,
+.darkmodebody .webinarprice_pos {
+    background: rgb(25, 28, 30);
+}
+
+.darkmode .accuracy h5 span {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .yearslider {
+    background: rgb(18, 21, 23);
+    border-color: rgb(21, 72, 142);
+}
+
+.darkmode .accuracy h5.accuracy_head span {
+    background: rgba(255, 0, 0, 0.1);
+    color: rgb(255, 95, 95);
+}
+
+.darkmode .pasevent_content {
+    border-color: rgb(21, 72, 142);
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .nav.nav-line.tab_detail_pad .nav-item .nav-link.active {
+    background: rgba(33, 115, 241, 0.1) !important;
+}
+
+.darkmode .dwn_in a {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .dwn_in a:hover {
+    color: #fff;
+}
+
+.darkmode ul.partial_correct li button.no_time {
+    color: rgb(66, 243, 255);
+    border-color: rgba(218, 199, 174, 0.13) !important;
+    background-color: transparent !important;
+}
+
+.darkmode ul.partial_correct li button.no_time:hover {
+    background: rgba(79, 108, 135, 0.1) !important;
+    color: rgb(66, 243, 255) !important;
+    border-color: rgba(173, 158, 137, 0.1) !important;
+}
+
+.darkmode .calendar_container {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .calendar_container ul li h4 {
+    background: rgba(0, 115, 255, 0.1);
+    color: rgb(66, 255, 255);
+}
+
+.darkmode .buttnyear:hover {
+    color: #fff !important;
+}
+
+.darkmode .chatdetaillist ul li.username a {
+    color: #3ea6ff;
+}
+
+.darkmode .webthumposdef {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .edit_webinarbtn {
+    background: rgb(18, 21, 23);
+    color: rgb(66, 243, 255);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .suugest_group_checkflex .custom-control-label::before {
+    border-color: rgba(218, 199, 174, 1) !important;
+}
+
+.darkmodebody .dropshare_btn:hover,
+.darkmodebody .dropshare_btn:focus {
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.darkmodebody .add_bio_txt {
+    color: rgb(66, 243, 255);
+}
+
+.kundalmodaldasha .postive_div ul li img.dash_img {
+    width: 70px;
+    height: 70px;
+}
+
+.kundalmodaldasha .postive_div ul li h5.mars_head {
+    font-size: 16px;
+}
+
+.kundalmodaldasha .postive_div ul li h5.mars_date {
+    font-size: 14px;
+}
+
+.darkmodebody .kundal_pro {
+    box-shadow: 0 0 0 3px rgb(18, 21, 23);
+}
+
+.darkmode .allaisearch_head_article button {
+    background: rgba(33, 115, 242, 0.1);
+    border-color: rgba(33, 115, 241, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .allaisearch_head_article button:hover {
+    background: rgba(66, 243, 255, 0.1);
+    color: rgb(66, 243, 255);
+    border-color: rgb(66, 243, 255);
+}
+
+.darkmode .add_webinar {
+    background: rgba(33, 115, 242, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .add_webinar:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .chat_collapse_div {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .search_chat {
+    color: #fff;
+    opacity: 1;
+    background: rgba(50, 57, 59, 0.4);
+}
+
+.darkmode .addpeople,
+.darkmode .leavepeople,
+.darkmode .forecast_card {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .addpeople:hover,
+.darkmode .leavepeople:hover {
+    background: rgba(73, 92, 111, 0.1);
+}
+
+.darkmodebody ul.waiting_duration_list li button.active,
+.darkmodebody ul.waiting_duration_list li button:hover {
+    color: rgb(66, 243, 255);
+}
+
+ul.waiting_duration_list li button {
+    background: rgb(18, 21, 23);
+    color: #fff;
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmodebody .cancel_list:hover,
+.darkmodebody .cancel_list_active,
+.darkmodebody .cancel_list {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .queue_card {
+    border-color: rgba(218, 199, 174, 0.13);
+    background: rgb(18, 21, 23);
+}
+
+.darkmodebody .chat-header {
+    background: #08131F;
+}
+
+.darkmodebody ul.astochat_con {
+    background: #353738;
+}
+
+.darkmode .chat,
+.darkmodebody .joincall_wait_pos {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .chat_scroll,
+.darkmode form.fomrbg_change {
+    background: #1E2223;
+}
+
+.darkmode form.fomrbg_change .chatbrd_astro {
+    background: #353738;
+    border-color: #353738;
+    color: #fff;
+}
+
+.darkmode .chatdetaillist.bot-message ul.usechatastro {
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.darkmode .chatdetaillist.user-message ul.usechatastro {
+    background: #2173f2;
+}
+
+.darkmode .swithcsmall_custom {
+    background: #495C6F;
+}
+
+.darkmode .custom_select input.react-dropdown-select-input {
+    color: #fff;
+}
+
+.darkmode .react-dropdown-select .react-dropdown-select-option-remove:hover {
+    color: #fff !important;
+}
+
+.darkmode .timeline-list .timeline-item--icon,
+.darkmode .timeline-list::before {
+    background: rgb(45, 50, 54);
+}
+
+.darkmode ul.astochat_con li button.crosschatbtnmar span {
+    background: url('../../../public/assets/images/chatdown.svg') no-repeat;
+    border-radius: 50px;
+}
+
+.darkmode .date_eclipse_cal_pos {
+    background: none;
+}
+
+input.date_eclipse_cal:hover {
+    border: none;
+}
+
+.darkmodebody .todayhoro_list ul li p a {
+    color: #3ea6ff;
+}
+
+.darkmode .colorfulskelton p.skelton_line span.skelton_span,
+.darkmode .colorfulskelton p.skelton_line span.skelton_span2,
+.darkmode .colorfulskelton p.skelton_line span.skelton_span3,
+.darkmode .colorfulskelton h5.neplanetdemo span.skel_planet1,
+.darkmode .sunrepresent ul li .sunreprest_planet h3.skeltoncircle span.cirlcegrad,
+.darkmode .colorfulskelton p.skelton_line span.skelton_span4,
+.darkmode .colorfulskelton p.skelton_line span.skelton_span5,
+.darkmode .colorfulskelton p.skelton_line span.skelton_span6,
+.darkmode .planetpos_list ul li.sunslide_pad span.skletonelistcircle,
+.darkmode .planetpos_list ul li.skelton_slidemar h5.skelton_poshover span.skeltohead,
+.darkmode .planetpos_list ul li.skelton_slidemar h4 span.skeltonhead2 {
+    background-image: linear-gradient(90deg, rgb(18, 21, 23), rgb(30, 36, 38), rgb(160, 21, 153), rgb(30, 36, 38), rgb(18, 21, 23));
+}
+
+.darkmode .remedies_scroll,
+.darkmode .gray_card {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode .profiledisablebtn {
+    background: rgb(88, 0, 0) !important;
+    color: #FA3A3A !important;
+}
+
+.darkmode .article_blurness_pos, .darkmodebody .article_blurness_pos {
+    background: linear-gradient(rgba(18, 21, 23, 0.2), rgba(18, 21, 23, 1) 20%);
+}
+
+.darkmode .statisticalresulttags {
+    background-color: rgb(36, 39, 43) !important;
+    color: rgb(255, 255, 255) !important;
+    border-color: initial !important;
+}
+
+.darkmode ul.astroskill_list11 li button {
+    background: rgba(33, 115, 241, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode ul.astroskill_list11 li button:hover {
+    background: #2173f2;
+    color: #fff;
+}
+
+.darkmode .cmoment_desc p span.read-more-btn {
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .hidechevron_btn {
+    background: rgba(33, 115, 241, 0.1);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode select.birth_select5.birth_select7 {
+    background: url('https://dkscore.b-cdn.net/src-assets/images/avatars/arrowselectwhite.svg') no-repeat, rgb(18, 21, 23);
+    background-size: 24px 24px !important;
+    background-position: 96% 50% !important;
+    outline: none;
+    color: #fff !important;
+    appearance: none;
+    padding-right: 30px;
+    color: #08131F;
+    font-weight: 600;
+}
+
+.darkmode .lastmonthear_bg,
+.darkmode select.yearselect_bg {
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode select.yearselect_bg {
+    color: #fff;
+}
+
+.appoint_list.appoint_table.appoint_list_bg ul {
+    background: rgb(18, 21, 23);
+}
+
+.darkmode ul.custview_tag_list li span.yoga_drop {
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.darkmode .chatdetaillist.user-message ul.share_contact_chat,
+.darkmode .chatdetaillist.bot-message ul.share_contact_chat {
+    background: rgba(79, 108, 135, 0.1);
+}
+
+.darkmode h5.contact_name,
+.darkmode ul.metabg_list li h5,
+.darkmode ul.metabg_list li h6,
+.darkmode .meta_inner h4 {
+    color: #fff;
+}
+
+.darkmode .meta_inner h5,
+.darkmode .meta_inner h6 {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.darkmode .shrehoro_pro_contact {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .metabg,
+.darkmode .messagemeta_main {
+    background: rgba(79, 108, 135, 0.1);
+}
+
+.darkmode .quickread_white {
+    background: rgb(25, 28, 30);
+}
+
+.darkmode .customerdash_list ul li.cust_dash_detail2 .chare_as .astro_charge {
+    border-color: rgba(218, 199, 174, 0.13);
+}
+
+.darkmode .customerdash_list ul li button.app_btnch2,
+.darkmode .customerdash_list ul li button.app_btnch1 {
+    background-color: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+    color: rgb(66, 243, 255);
+}
+
+.darkmode .custview_list ul li button.app_btnch2:hover, .darkmode .custview_list ul li button.app_btnch1:hover {
+    background-color: rgb(25, 28, 30) !important;
+    border-color: rgba(218, 199, 174, 0.13) !important;
+    color: rgb(66, 243, 255);
+}
+.darkmode input.card_form_height:focus{
+    color: #fff;
+}
+.darkmode .custom-toast-online{
+    background: rgba(28, 189, 67, 0.7);
+}
+.darkmode .customer_support_btn, .darkmode .minimize_btn{
+     color: rgb(66, 243, 255);
+}
+.darkmode .standard_month_plan_white{
+    background: rgb(18, 21, 23);
+}
+.darkmode .standard_month_plan.yearly_plan_bg{
+    background: #131F2E;
+}
+.darkmode .standard_month_plan h4.prohead_color{
+    color: rgb(208, 255, 255);
+}
+.darkmode .proyeargreen{
+    background: rgb(25, 59, 43);
+}
+.darkmode .dkplan_price{
+    border-color: rgba(218, 199, 174, 0.13);
+}
+.darkmode .wisdomawait_card{
+    background-image: radial-gradient(circle, #e3c389, #b57304);
+}
+.darkmode .missing_grad {
+    background: linear-gradient(to right, #627200, #02384e);
+}
+.darkmode .problemcard_bg ul.problem_listbg li h5{
+    color: rgb(255, 95, 95);
+}
+.darkmode .remedies_back ul.problem_listbg li h5{
+    color: rgb(208, 255, 255);
+}
+.darkmode .pred_back ul.problem_listbg li h5{
+    color: rgb(241, 147, 255);
+}
+.darkmodebody ul.user_video li button.edtvide_btn{
+    color: rgb(66, 243, 255);
+    background: rgb(18, 21, 23);
+}
+.darkmode .appointment_card{
+    background: rgb(18, 21, 23);
+    border-color: rgba(218, 199, 174, 0.13);
+}
+.darkmode .chatdetaillist.bot-message ul.usechatastro li div figure a,
+.darkmode .chatdetaillist.user-message ul.usechatastro li div figure a{
+    color: #3ea6ff;
+}
+.darkmode .attch_player_design .rhap_play-pause-button{
+    color: #fff;
+}
+.darkmode .attch_player_design .rhap_progress-indicator, .darkmode .attch_player_design .rhap_progress-filled{
+    background: #fff;
+}

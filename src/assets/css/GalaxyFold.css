@@ -1,0 +1,3199 @@
+@media only screen and (min-width: 601px) and (max-width: 767px) {
+    body {
+        zoom: 1 !important;
+        overflow-x: hidden;
+    }
+
+    /* .planet_card_newh{
+        width: auto !important;
+    } */
+    .setting_input {
+        margin: 0px 0px 10px 0px;
+    }
+
+    ul.mediadate_range li select {
+        min-width: 100px;
+    }
+
+    .nomedia_container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .nomedia_h h5 {
+        font-size: 20px;
+    }
+
+    .add_channel p {
+        font-size: 14px;
+    }
+
+    .link_mybtn {
+        min-width: 180px;
+        font-size: 12px;
+    }
+
+    .char_captur {
+        flex-direction: column;
+    }
+
+    ul.meetmenoto li img.astroweb_img {
+        width: 120px;
+    }
+
+    .slectfiler_main {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .joincall_wait_pos .remdies_check {
+        padding-top: 60px;
+    }
+
+    .userjoinmsg {
+        top: 30%;
+        font-size: 18px;
+    }
+
+    .redet_flex {
+        padding: 10px 0px 20px 0px;
+    }
+
+    .mike_btn img,
+    .mikewait img,
+    .mikecam img,
+    .buttoncontrol_flex button img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .waitjoinmodal_head .modal-content {
+        min-width: 450px;
+        max-width: 450px;
+    }
+
+    .follow_modal_h h5 span {
+        font-size: 22px;
+    }
+
+    .buttoncontrol_flex {
+        max-width: 400px;
+        height: 66px;
+    }
+
+    .joincall_wait_pos {
+        inset: 0;
+        padding: 0;
+        height: 100vh;
+        overflow-y: auto;
+    }
+
+    .participant h3 {
+        font-size: 20px;
+    }
+
+    .joincall_wait_pos {
+        inset: 0;
+        padding: 0;
+        height: 100vh;
+        overflow-y: auto;
+    }
+
+    .room h2 {
+        font-size: 20px;
+    }
+
+    .participant div,
+    .remote-participants .remote_part {
+        aspect-ratio: 16/9;
+        height: auto;
+    }
+
+    .participant h3,
+    .remote_par_head {
+        font-size: 20px;
+    }
+
+    .participant div div+div img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .joincall_wait_pos .remdies_check {
+        height: 100vh;
+        overflow-y: auto;
+    }
+
+    .timer_countdetailflex {
+        padding-bottom: 20px;
+    }
+
+    .resechdule_applist ul {
+        padding: 20px 0px;
+    }
+
+    .appbookingcontent_bg.appbookingcontent_he,
+    .camerbgwait {
+        min-height: 320px;
+    }
+
+    .chartScreenshot .canvas_width {
+        min-height: auto;
+    }
+
+    .chartScreenshot .canvas_width canvas {
+        width: 100%;
+        height: auto;
+    }
+
+    .webastro_content h3 {
+        font-size: 20px;
+    }
+
+    .webinar_date p {
+        font-size: 12px;
+    }
+
+    .webinar_date h6 {
+        font-size: 12px;
+    }
+
+    .webastro_content h5 {
+        font-size: 12px;
+    }
+
+    .webinar_price h6 {
+        font-size: 16px;
+    }
+
+    .webinar_price h4 {
+        font-size: 20px;
+    }
+
+    .seat_left h5 {
+        font-size: 14px;
+    }
+
+    ul.astrology_mastring {
+        flex-direction: column-reverse;
+    }
+
+    ul.astrology_mastring li.webastro_wid {
+        width: 100%;
+    }
+
+    ul.astrology_mastring li.webastro_date {
+        width: 100%;
+        padding-bottom: 10px;
+    }
+
+    .dosha_section .container {
+        max-width: none;
+        width: 90%;
+    }
+
+    ul.peoplesearch_list {
+        overflow-x: auto;
+    }
+
+    img.moonstar_img {
+        display: none;
+    }
+
+    img.astrocricle_img {
+        display: none;
+    }
+
+    .container_milan {
+        max-width: none;
+    }
+
+    .historymatch_card {
+        padding: 15px;
+        border-radius: 15px;
+        min-height: auto;
+    }
+
+    .historymatch_card h4 {
+        font-size: 20px;
+    }
+
+    .historymatch_card p {
+        font-size: 14px;
+    }
+
+    .importance_card {
+        padding: 15px;
+        border-radius: 15px;
+    }
+
+    .importance_card img {
+        width: 60px;
+    }
+
+    .importance_card h4 {
+        font-size: 20px;
+    }
+
+    .hor_match_mar {
+        font-size: 32px;
+    }
+
+    .get_free_kundali {
+        font-size: 16px
+    }
+
+    .history_kundali_head {
+        font-size: 32px;
+    }
+
+    .history_section {
+        padding: 40px 0px;
+    }
+
+    .aikundalimilan_sec {
+        padding: 40px 0px;
+    }
+
+    .gunmilanai_card {
+        padding: 15px;
+        border-radius: 15px;
+    }
+
+    .gunmilanai_card h4 {
+        font-size: 16px;
+    }
+
+    .gunmilanai_card p {
+        font-size: 14px;
+    }
+
+    .horscope_mathcpad {
+        padding: 0px 0px 80px 0px;
+    }
+
+    .dosha_head {
+        font-size: 32px;
+    }
+
+    .dosha_head img {
+        width: 40px;
+    }
+
+    .appheader_flex .input_group_brd_wid {
+        width: 85%;
+        margin-left: 130px;
+    }
+
+    .timeline_slider.forecast_slider .slick-next {
+        right: 20px;
+    }
+
+    .canvas_width.canvas_width_modal canvas {
+        width: 500px;
+        height: 500px;
+    }
+
+    .event_kundali .modal-content {
+        width: 650px;
+    }
+
+    .family_margin_kun {
+        margin-top: 20px;
+    }
+
+    .custview_list ul li button.custview_change {
+        margin: 10px auto;
+    }
+
+    .screenshare_flex {
+        flex-direction: column;
+    }
+
+    .screenshare_flex .scrennsharing_video {
+        width: 100%;
+        padding: 0px 30px;
+    }
+
+    .scrennsharing_video>div {
+        height: auto !important;
+        aspect-ratio: 16/9;
+    }
+
+    .chogdiya_cardslider_sleton {
+        overflow-x: auto;
+    }
+
+    .chogdiya_cardslider_sleton .chogdiya_bottomcard {
+        min-width: 250px;
+        margin-right: 20px;
+    }
+
+    .screenshare_flex .partic_flex {
+        width: 100%;
+        flex-direction: row;
+        margin: 40px auto;
+    }
+
+    .article_all button {
+        min-width: auto;
+        width: 60px !important;
+        height: 60px;
+        border-radius: 70px;
+    }
+
+    .ardhuadiv_special .popover {
+        top: 100% !important;
+    }
+
+    .container_step {
+        max-width: none;
+    }
+
+    .timeline_flex {
+        flex-wrap: wrap;
+    }
+
+    .accuracy {
+        padding-top: 30px;
+    }
+
+    .tab_vertical {
+        width: 40%;
+    }
+
+    .input_group_brd_wid {
+        width: 80%;
+        margin-left: 70px;
+    }
+
+    .local-participant {
+        width: 100%;
+        position: relative;
+        top: 0;
+        padding: 0px 40px;
+        display: block;
+        margin: 0px auto;
+        right: 0;
+    }
+
+    .remote-participants {
+        width: 100%;
+        aspect-ratio: 16 / 9;
+    }
+
+    .remote-participants div div div {
+        height: auto;
+        aspect-ratio: 16 / 9;
+    }
+
+    .ardhuadiv_mar .popover {
+        top: -10% !important;
+        left: 4% !important;
+    }
+
+    .article_all button .tabwri_btn {
+        border-radius: 50px;
+        padding: 10px 10px;
+
+    }
+
+    .pdfcheck {
+        display: none;
+    }
+
+    .purchase_summary {
+        padding: 20px;
+        margin-top: 40px;
+    }
+
+    .summarttag_btn {
+        margin-bottom: 20px;
+        margin-top: 0px;
+        position: relative;
+        z-index: 9;
+        top: 0;
+    }
+
+    .custview_pro_mar_mob {
+        width: 70%;
+    }
+
+    .conv_cardlist ul li.img_pr_ca .con_img {
+        padding-left: 0;
+    }
+
+    .razorpay-container {
+        left: 20% !important;
+    }
+
+    .upload_thumlist ul.editpodul li {
+        width: 30%;
+    }
+
+    .purchase_summary h3 {
+        font-size: 22px;
+    }
+
+    .hambruger_reverse .app-header-menu {
+        left: 46%;
+        width: 60%;
+    }
+
+    .nomediflex_col .nomedia_container {
+        width: 100%;
+    }
+
+    .followingbtn_mar {
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    .bio_modalwrp {
+        flex-direction: column;
+    }
+
+    .aleas_img_modal {
+        margin: 0px auto;
+    }
+
+    .bio_modal_txt h2 {
+        margin: 10px auto;
+    }
+
+    .sharemodal_wid {
+        max-width: none;
+        min-width: auto;
+        width: 80%;
+    }
+
+    .d_hor {
+        height: 37px;
+    }
+
+    .tableft_padding {
+        padding-left: 20px;
+    }
+
+    .appoint_table ul li h6 {
+        font-size: 12px;
+    }
+
+    .appoint_table ul li h5 {
+        font-size: 14px;
+    }
+
+    .appoint_table ul li .appo_btn_list {
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .yearslider .slick-arrow {
+        top: 20px;
+    }
+
+    .yearslider .slick-prev {
+        left: -30px;
+    }
+
+    .yearslider .slick-next {
+        right: -20px;
+    }
+
+    .appoint_table ul li .appo_btn_list button:nth-child(2) {
+        margin: 5px 0px;
+    }
+
+    .conv_cardlist ul li.img_pr_ca.upcm_pad_li {
+        width: 50%;
+    }
+
+    .conv_cardlist ul li:nth-child(2) {
+        width: 50%;
+    }
+
+    .newappoint_card ul li .userimage_pos h5 {
+        font-size: 13px;
+        letter-spacing: -1px;
+    }
+
+    .custom-toast.show {
+        transform: translate(-50%, -50%) !important;
+
+    }
+
+    .toast-button {
+        white-space: nowrap;
+    }
+
+    ul.twouserapp li .userimage_pos img {}
+
+    .partic_flex {
+        flex-direction: column-reverse;
+    }
+    .remot_pro_img_h{
+        height: auto;
+    }
+    .customerdash_list ul li.cust_dash_detail2 .chare_as .astro_charge.astro_charge2 ul li{
+        width: 49%;
+    }
+    .app_btn_ch{
+        flex-direction: column;
+    }
+    .customerdash_list ul li button.app_btnch3{
+        width: 100%;
+        margin: 10px 0px 0px 0px;
+    }
+    .customerdash_list ul li button.app_btnch1{
+        width: 100%;
+        
+    }
+
+    .appbookingcontent_bg {
+        margin-top: 40px;
+    }
+
+    ul.remdies_detahead {
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    ul.remdies_detahead li.rem_share {
+        order: 1;
+    }
+
+    ul.remdies_detahead li.sendfed_order {
+        order: 2;
+    }
+
+    .select_hor_btn {
+        width: 100%;
+        white-space: nowrap;
+    }
+
+    ul.remdies_detahead li.remed_detalgrow {
+        order: 3;
+        padding: 20px 0px;
+    }
+
+    .hideflex {
+        justify-content: flex-end;
+    }
+
+    .remdies_check {
+        flex-direction: column;
+    }
+
+    .remedies_scroll {
+        height: 400px;
+    }
+
+    .hideflexpos {
+        align-items: flex-start;
+        padding-top: 20px;
+    }
+
+    ul.impact_like li.ailat button {
+        font-size: 11px;
+    }
+
+    ul.impact_like li.ailat button img {
+        margin-right: 5px;
+    }
+
+    ul.impact_like li.imp_logo img {
+        width: 120px;
+    }
+
+    .hideflexpos .remedies_scroll {
+        height: 90vh;
+    }
+
+    .allowcameramodal {
+        min-width: 600px;
+    }
+
+    .allowcameramodal .modal-content {
+        height: 500px;
+        overflow-y: auto;
+    }
+
+    .canblock_content {
+        padding-left: 20px;
+    }
+
+    .canblock_content h4 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .camblockil_flex {
+        /* flex-direction: column; */
+        padding: 10px;
+    }
+
+    img.camerblockil {
+        width: 200px;
+    }
+
+    .chatflex_div .contact_list {
+        width: 40%;
+    }
+
+    .chatdetail_div {
+        width: 60%;
+    }
+
+    .chatdetail_height {
+        height: 75vh;
+    }
+
+    p.tab_para {
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    .sum_content p {
+        max-width: 700px;
+    }
+
+    .aisummary {
+        width: 80%;
+    }
+
+    .dashaai_btn {
+        width: 50%;
+    }
+
+    .dchartspopover .bs-popover-auto[x-placement^="bottom"] {
+        top: -13% !important;
+        margin-left: -120px;
+    }
+
+    .conv_cardlist ul li.img_pr_ca {
+        width: 40%;
+    }
+
+    .ailikeshare ul li button {
+        opacity: 1;
+    }
+
+    .conv_cardlist ul li.img_pr_ca .con_img .userimage_pos h5 {
+        left: 50%;
+    }
+
+    .conv_cardlist ul li.img_pr_ca .con_img h5 {
+        text-align: center;
+    }
+
+    .customerdash_list2.customerdash_list3 ul {
+        flex-wrap: nowrap;
+    }
+
+    .customerdash_list3 ul li.cust_dash_detail2 .chare_as .profile_wid {
+        width: 100%;
+    }
+
+    .customerdash_list3 ul li.cust_dash_detail2 .chare_as .profile_wid {
+        width: 50%;
+    }
+
+    .customerdash_list3 ul li.cust_dash_detail2 .chare_as .astro_charge {
+        width: 50%;
+    }
+
+    .customerdash_list2 ul li.cust_dash_detail2 .chare_as .profile_wid h6.astro_name {
+        font-size: 11px;
+        white-space: nowrap;
+    }
+
+    .customerdash_list ul li.cust_dash_detail2 .chare_as .astro_charge ul li h6 {
+        font-size: 12px;
+    }
+
+    .customerdash_list ul li.cust_dash_detail2 .chare_as .astro_charge ul li h5 {
+        font-size: 13px;
+    }
+
+    .customerdash_list3 ul li button.custom_color_btwid {
+        white-space: nowrap;
+        font-size: 12px;
+    }
+
+    .appbookingmodal {
+        min-width: auto;
+    }
+
+    .appbookingcontent h3 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+
+    .appbookingcontent p {
+        font-size: 14px;
+    }
+
+    ul.twouserapp li img.user_appimg {
+        width: 60px;
+        height: 60px;
+    }
+
+    ul.twouserapp li .userimage_pos img {
+        width: 60px;
+        height: 60px;
+    }
+
+    ul.twouserapp li .userimage_pos h5 {
+        font-size: 20px;
+    }
+
+    ul.twouserapp li h5 {
+        font-size: 14px;
+    }
+
+    .appbookingcontent {
+        padding: 30px;
+    }
+
+    ul.appidetailmidallist {
+        flex-wrap: wrap;
+    }
+
+    ul.appidetailmidallist li h5 {
+        font-size: 14px;
+    }
+
+    .pref_modaltag ul li h5 {
+        font-size: 12px;
+    }
+
+    ul.appidetailmidallist li h6 {
+        font-size: 12px;
+    }
+
+    .confirmmodal .modal-content {
+        min-width: 500px;
+    }
+
+    .confirmation_div {
+        padding: 0px 20px;
+    }
+
+    ul.confirm_btnlist {
+        flex-direction: column;
+    }
+
+    ul.confirm_btnlist li button.add_event_cal {
+        margin: 20px auto 0px auto;
+    }
+
+    ul.appidetailmidallist li {
+        width: 49%;
+    }
+
+    ul.bookingskeltonlist {
+        overflow-x: auto;
+    }
+
+    .statics_result_prof {
+        height: auto;
+    }
+
+    ul.summary_tab {
+        overflow-x: auto;
+        flex-wrap: nowrap;
+    }
+
+    ul.summary_tab li a {
+        white-space: nowrap;
+    }
+
+    .timeline_skelton_loader {
+        overflow-x: auto;
+    }
+
+    .timeline_skelton_loader .card_timeline_h {
+        width: auto;
+        min-width: 300px;
+        margin-right: 30px;
+    }
+
+    .modal.show .feedback_modal.feedbackmodal_new {
+        height: auto;
+    }
+
+    .searmain_stick {
+        position: relative;
+        top: 0;
+    }
+
+    .astrodat_search {
+        margin-left: 0;
+    }
+
+    .article_tabs_bdr5 {
+        position: relative;
+        top: 0;
+    }
+
+    .addtag_modal {
+        min-width: 600px;
+        max-width: 600px;
+    }
+
+    .customerdash_list ul li .editprof_flex button.editprofile_astro_mar {
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    .footer_audio_player {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .customerdash_list ul li .editprof_flex {
+        flex-direction: column;
+    }
+
+    .customerdash_list ul li .editprof_flex button.editprofile_astro_share {
+        margin: 10px 0px;
+    }
+
+    .astrodatamodal {
+        min-width: 700px;
+    }
+
+    .conve_delete {
+        margin: 20px 0px 0px 0px;
+    }
+
+    .follow_modal .modal-content {
+        min-width: auto;
+        max-width: none;
+    }
+
+    .onboarding_sticky {
+        position: relative;
+        top: 0;
+    }
+
+    .birthday_cust_flex ul.birthday_div {
+        width: 50%;
+    }
+
+    .videoplay {
+        display: none !important;
+    }
+
+    img.speaker_voldown {
+        display: none !important;
+    }
+
+    .showall {
+        font-size: 12px;
+    }
+
+    .planbtn_mob {
+        display: flex;
+    }
+
+    /* .viewedit_btn{
+        bottom: 20px;
+    } */
+    .popovehovevideo {
+        display: none;
+    }
+
+    .customerdash_list2 ul {
+        align-items: flex-start;
+        flex-wrap: wrap;
+    }
+
+    img.loginplanettabmob {
+        position: absolute;
+        top: -15%;
+        right: -20%;
+        display: block;
+        width: 400px;
+    }
+
+    .scrollvideo_detail {
+        height: 65vh;
+    }
+
+    .card_headmedi .card-header--title {
+        overflow-x: auto;
+    }
+
+    ul.mediatab li a {
+        padding-left: 0.5rem !important;
+        padding-right: 0.5rem !important;
+    }
+
+    .custmar_min2 .viewedit_btn {
+        bottom: 20px;
+    }
+
+    .daily_horoscope.astro_slider {
+        width: 92%;
+    }
+
+    .daily_horoscope.astro_slider.planetcontent_upperslider {
+        width: 100%;
+        padding: 0px 30px;
+    }
+
+    .daily_horoscope.astro_slider.planetcontent_upperslider .slick-next {
+        right: -40px;
+    }
+
+    .daily_horoscope.astro_slider.planetcontent_upperslider .slick-prev {
+        left: -40px;
+    }
+
+    .daily_horoscope.astro_slider.planetcontent_lowerslider {
+        width: 100%;
+        padding: 0px 30px;
+    }
+
+    .daily_horoscope.astro_slider.planetcontent_lowerslider .slick-next {
+        right: -40px;
+    }
+
+    .daily_horoscope.astro_slider.planetcontent_lowerslider .slick-prev {
+        left: -40px;
+    }
+
+    .search_res_title {
+        /* flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start; */
+        font-size: 32px;
+    }
+
+    .male_form_bg,
+    .female_form_bg {
+        padding: 20px;
+    }
+
+    .search_res_title span {
+        font-size: 32px;
+        margin-left: 0;
+        line-height: 50px;
+    }
+
+    .recoruplod_list ul li:nth-child(1) {
+        display: none;
+    }
+
+    .recoruplod_list ul li:nth-child(2) {
+        display: none;
+    }
+
+    .setting_list ul {
+        overflow-x: auto;
+    }
+
+    .setting_list ul li {
+        padding: 0px 10px;
+    }
+
+    .setting_list ul li a {
+        white-space: nowrap;
+    }
+
+    .app-content {
+        height: 100vh;
+    }
+
+    ul.mediatab li a span {
+        font-size: 14px;
+    }
+
+    .customerdash_list ul li.cust_dash_detail2 h5.astro_name {
+        font-size: 24px;
+    }
+
+    .customerdash_list ul li img.cust_img {
+        width: 78px;
+        height: 78px;
+    }
+
+    .customerdash_list3 ul li.cust_dash_detail2 {
+        width: 70%;
+    }
+
+    .customerdash_list3 ul li button.custom_color_btwid {
+        margin-top: 0px;
+    }
+
+    .app_wrap_col {
+        min-height: 100vh;
+    }
+
+    .reltab_flex ul {
+        width: 33%;
+    }
+
+    .custview_list ul li .quic_fl {
+        flex-direction: column;
+    }
+
+    .custview_list ul li .quic_fl button.custview_hornobg2_mar {
+        margin: 10px 0px;
+    }
+
+    .btn_dasha_pad {
+        justify-content: flex-start;
+    }
+
+    .appoint_table ul {
+        /* flex-wrap: wrap; */
+        justify-content: space-between;
+        overflow-x: auto;
+    }
+
+    .custfilt_list_height2 {
+        height: auto !important;
+    }
+
+    .appoint_table ul li.appo_img {
+        width: 100%;
+    }
+
+    .appoint_table ul li.appo_img img.app_user_img {
+        display: block;
+        margin: 0px auto 20px auto;
+    }
+
+    .appoint_table ul li.appo_date h6 {
+        text-align: right;
+    }
+
+    .appoint_table ul li.appo_date h5 {
+        text-align: right;
+    }
+
+    /* .appoint_table ul li.appo_loc {
+            width: 50%;
+        }
+    
+        .appoint_table ul li.appo_date {
+            width: 50%;
+        }
+    
+        .appoint_table ul li.appo_time {
+            width: 50%;
+        }
+    
+        .appoint_table ul li.app_chare {
+            width: 50%;
+        }
+    
+        .appoint_table ul li.appo_purpose {
+            width: 50%;
+        } */
+    /* .appoint_table ul li.appo_loc {
+        width: 30%;
+        padding-left: 20px;
+    }
+    
+    .appoint_table ul li.appo_date {
+        width: 30%;
+    }
+    
+    .appoint_table ul li.appo_time {
+        width: 30%;
+    }
+    
+    .appoint_table ul li.app_chare {
+        width: 30%;
+    }
+    
+    .appoint_table ul li.app_chare_tab_wid {
+        width: 40%;
+    }
+    
+    .appoint_table ul li.appo_purpose {
+        width: 30%;
+    } */
+    .appoint_table ul li {
+        flex: none;
+        padding: 0px 20px 0px 0px;
+    }
+
+    /* .appoint_table ul li.astro_img {
+        width: 10%;
+    } */
+    .list_absoute.list_absoute_sugges {
+        width: 100%;
+    }
+
+    ul.not_list li.setavail_li {
+        display: none;
+    }
+
+    .planet_logbg_pad {
+        display: none;
+    }
+
+    body {
+        zoom: 1 !important;
+    }
+
+    .ref_column {
+        padding-right: 20px;
+    }
+
+    .jyodemvideo {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .media_container {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .app-main {
+        overflow-x: hidden;
+    }
+
+    .youtubelink {
+        padding: 30px 0px 0px 0px;
+    }
+
+    .hambruger {
+        width: 20px;
+    }
+
+    .app-content--inner {
+        padding: 2rem 2rem 5rem 2rem;
+    }
+
+
+
+    .canvas_width canvas {
+        width: 650px;
+        height: 650px;
+    }
+
+    .family_margin {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .member_mar {
+        padding-left: 5px;
+        margin-top: -30px;
+    }
+
+    ul.dashatab {
+        justify-content: flex-start;
+    }
+
+    .customer_slider .slick-next,
+    .customer_slider .slick-prev {
+        top: 50%;
+    }
+
+    .wisdom_head {
+        min-height: auto;
+    }
+
+    .week_position .react-datepicker-popper {
+        left: -40% !important;
+    }
+
+    ul.stepper_list {
+        overflow-x: auto;
+        white-space: nowrap;
+        justify-content: flex-start;
+        flex-wrap: nowrap;
+    }
+
+    .wizard.vertical .steps-indicator {
+        width: 40%;
+    }
+
+    .wizard.vertical .wizard-steps {
+        width: 60%;
+    }
+
+    .wizard-steps_vertical {
+        min-height: 570px;
+        max-height: 570px;
+    }
+
+    .phone_profile_center {
+        justify-content: center;
+    }
+
+    .input_profile_search {
+        width: 70%;
+        justify-content: flex-end;
+        margin-left: auto;
+    }
+
+    .ruletablet {
+        display: flex;
+        margin: 20px 0px;
+        width: 100%;
+    }
+
+    .ruletablet .bg-vicious-stance {
+        width: 50%;
+    }
+
+    .ruletablet .tab_card {
+        width: 50%;
+        padding-left: 10px;
+    }
+
+    .search_arrowup .slick-arrow {
+        top: 50%;
+    }
+
+    .search_arrowup .slick-prev {
+        top: 50%;
+    }
+
+    .astro_bg {
+        margin-bottom: 20px;
+    }
+
+    .astro_position {
+        position: relative;
+    }
+
+
+
+    .astrosearch_position_tab {
+        margin-top: 0;
+        margin-bottom: 0px;
+    }
+
+    ul.navtag_add2 {
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        overflow-x: auto;
+        white-space: nowrap;
+        /* border-bottom: 3px solid #f4f5fd; */
+    }
+
+    ul.navtag_add2 li {
+        padding: 0px 10px;
+    }
+
+    .video_msg_pos {
+        border-top: rgba(122, 123, 151, 0.3) solid 1px;
+        border-left: none;
+        margin-top: 20px;
+        padding-top: 20px;
+    }
+
+    .publish_div {
+        overflow-x: auto;
+    }
+
+    .naksselect_mar {
+        margin-top: 20px;
+    }
+
+    .gallery_pos {
+        position: relative;
+        inset: 0;
+        margin-top: 20px;
+    }
+
+    .rulelist_slide .slick-next {
+        right: 4%;
+    }
+
+    .rulelist_slide .slick-prev {
+        left: 2%;
+    }
+
+    .btn-secondary:hover {
+        color: #fff;
+    }
+
+    a.tag_list2 {
+        white-space: nowrap;
+    }
+
+    /* .family_margin .card_wid_tab{
+        width: 60%;
+    }
+    .family_margin .member_mar{
+        width: 40%;
+    } */
+    .transit_date_mobile2 {
+        width: 60%;
+    }
+
+    .member_shift {
+        margin: 20px 0px;
+    }
+
+    .transit_date_mobile3 {
+        width: 154px;
+    }
+
+    select.transit_date_mobile4 {
+        width: 60%;
+    }
+
+    /* .autocomplete_width input{
+        width: 60%;
+    } */
+    ul.navtagadd_scroll.navtag_add2 {
+        overflow-x: hidden;
+        border-bottom: none;
+        margin-bottom: -3px;
+    }
+
+    ul.navtagadd_scroll.navtag_add2 li {
+        padding: 0px 2px;
+    }
+
+    ul.navtagrunrule_pad li a {
+        padding-left: inherit !important;
+        padding-right: inherit !important;
+    }
+
+    .viewedit_btn button {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .app_wrap_div {
+        background-size: 100%;
+        background-repeat: repeat-y;
+    }
+
+    .app_wrap_position {
+        padding: 40px !important;
+        width: auto !important;
+    }
+
+    .sign_pad {
+        font-size: 48px;
+    }
+
+    input.form_border {
+        font-size: 18px;
+    }
+
+    span.loginor {
+        font-size: 20px;
+    }
+
+    .rem_input .custom-control-label::before {
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+
+    .rem_input .custom-control-label::after {
+        width: 1.5rem;
+        height: 1.5rem;
+    }
+
+    .rem_input .custom-control-label {
+        font-size: 20px;
+        padding-left: 20px;
+    }
+
+    .btn_sign {
+        font-size: 20px;
+    }
+
+    a.forgot_pas {
+        font-size: 18px;
+    }
+
+    h5.sign_font {
+        font-size: 18px;
+    }
+
+    .terms_para {
+        font-size: 18px;
+    }
+
+
+
+    .customerdash_list3 ul {
+        /* flex-wrap: wrap; */
+    }
+
+
+
+
+
+    .customerdash_list3 ul li.cust_dash_detail2 {
+        padding-left: 10px;
+    }
+
+
+
+    /* .customerdash_list ul li.cust_dash_detail2 .chare_as{
+        flex-direction: column;
+    }
+    .customerdash_list ul li.cust_dash_detail2 .chare_as .profile_wid{
+        width: 100%;
+    }
+    .customerdash_list ul li.cust_dash_detail2 .chare_as .astro_charge{
+        padding: 0px 0px 0px 0px;
+        margin-left: 0px;
+        border-left: none;
+        width: 100%;
+    } */
+    .time_card_height {
+        min-height: auto;
+    }
+
+    .time_mar_slide {
+        margin-top: 20px;
+    }
+
+    .select_typelist ul {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .select_typelist2 ul {
+        /* justify-content: center; */
+    }
+
+    .astrologer_list_profile {
+        min-height: 180px;
+    }
+
+    .timeline_bg .rt-layout {
+        margin-left: 0px;
+    }
+
+    .dash_cust_list ul {
+        flex-wrap: wrap;
+    }
+
+    .dash_cust_list ul li {
+        width: 50%;
+    }
+
+    .input_flex {
+        margin-top: 10px;
+        justify-content: flex-start;
+    }
+
+    input.amoun_size2 {
+        width: 40% !important;
+    }
+
+    .save_btn_step {
+        padding: 1rem 0rem;
+        margin: 20px -2px 60px 0px;
+    }
+
+    .action_fix {
+        padding: 20px 52px;
+    }
+
+    .popyesno .bs-popover-auto {
+        top: 6% !important;
+    }
+
+    ul.currenttransit_new li p.moon_detail {
+        line-height: 25px;
+    }
+
+    .signs_margin {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .select_typelist_adv ul {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+    }
+
+    ul.panchang_pad li a {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+
+    .maincontainer_cal .fc-view-harness {
+        min-height: 600px;
+    }
+
+    .maincontainer_cal .fc-toolbar-title {
+        font-size: 20px;
+    }
+
+    .maincontainer_cal .fc-daygrid-day p.title_para {
+        font-size: 12px;
+    }
+
+    .tabmain_div {
+        display: flex;
+        justify-content: space-between;
+        position: relative;
+        top: 0;
+    }
+
+
+
+    .cate_left_pad {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .fliter_cus_pad {
+        padding-left: 20px;
+    }
+
+    .cust_list_row_pad {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .tab_cat_div {
+        width: 100%;
+    }
+
+    /* .tab_fil_div{
+        width: 49%;
+    } */
+    .cat_scrol_hg {
+        height: 150px;
+    }
+
+    .custfilt_list_height {
+        height: 200px;
+    }
+
+    img.statics_arr_pos {
+        display: none;
+    }
+
+    .tabcard_h {
+        min-height: auto;
+        margin-bottom: 20px;
+    }
+
+    .btn_new_param {
+        position: relative;
+        bottom: 0;
+    }
+
+    .scroll-area_cust_list11 {
+        height: auto;
+    }
+
+    .tab_atr_flex {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .result_sort ul {
+        justify-content: space-between;
+        padding: 10px 0px;
+    }
+
+    .select_typelist_custfil ul {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+    }
+
+    .modal-dialog.modal-xl.modal-dialog-centered {
+        max-width: 700px;
+    }
+
+    ul.panchang_pad li a span {
+        font-size: 14px;
+    }
+
+    ul.navtag_timing li a {
+        padding: 10px 20px 10px 10px !important;
+    }
+
+    .yog_mar {
+        margin-top: 20px;
+    }
+
+    .reltab_flex {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+
+
+    .biotab_brd {
+        /* border-top: 1px solid #D6DFE8;
+        border-bottom: 1px solid #D6DFE8; */
+        padding: 10px 0px;
+        margin: 10px 0px;
+    }
+
+    ul.house_list li img {
+        width: 70px;
+        height: 70px;
+    }
+
+    h5.note_mar {
+        margin-top: 20px;
+    }
+
+    .maincontainer_cal .fc th {
+        padding: 0px;
+    }
+
+    .maincontainer_cal .fc td {
+        padding: 0px;
+    }
+
+    .maincontainer_cal .fc-daygrid-day-number {
+        font-size: 20px;
+    }
+
+    .homecardtrans_height {
+        min-height: 450px;
+    }
+
+    .hometransit_pad {
+        margin-bottom: 20px;
+    }
+
+    .scroll-area_search_height {
+        height: 200px;
+    }
+
+    .tabsearch_mar {
+        margin: 20px 0px;
+    }
+
+    .footer_audio .controls_custom_player {
+        padding-left: 0;
+    }
+
+    .planetdetail_head .planetdetail_sideimg img {
+        width: 96px;
+        height: 96px;
+    }
+
+    .planetdetail_head h5 {
+        font-size: 28px;
+    }
+
+    .planetdetail_head h6 {
+        font-size: 16px;
+    }
+
+    .planetdetail_img h5 {
+        font-size: 24px;
+        margin: 20px auto;
+    }
+
+    .planetdetail_img p {
+        max-width: 300px;
+        font-size: 14px;
+    }
+
+    .podcast_list ul {
+        flex-wrap: wrap;
+    }
+
+    .podcast_list ul li {
+        padding: 0px 2px 10px 2px;
+        width: 33%;
+    }
+
+    .newvideo_pad {
+        margin-bottom: 20px;
+    }
+
+    .uploadpod_content img.up_img {
+        width: 180px;
+        height: 180px;
+    }
+
+    a.uplodanewvideo2 {
+        width: 100%;
+    }
+
+    .hidetab {
+        display: none;
+    }
+
+    .vid_mar_hg {
+        min-height: 420px;
+    }
+
+    .recoruplod_list ul li a h6 {
+        font-size: 14px;
+    }
+
+    .planet_card_list ul li {
+        width: 33%;
+    }
+
+    .social_iconslist ul {
+        padding: 10px 0px;
+    }
+
+    .radio_tab_pad {
+        padding-left: 0;
+        padding-right: 0px;
+        margin: 5px 0px;
+    }
+
+    .pro_tab_pad {
+        /* padding-left: 0; */
+    }
+
+    img.short_long_card {
+        min-height: 190px;
+    }
+
+    video.screenvideo_wi {
+        width: 100%;
+    }
+
+    video.videopreview {
+        width: 100%;
+    }
+
+    .lt_brd {
+        border-left: none;
+    }
+
+    .custview_list ul {
+        align-items: flex-start;
+    }
+
+    .custview_list ul li.custview_list_gr .cust_as {
+        flex-direction: column;
+    }
+
+    .custview_list ul li.custview_list_gr .cust_as .cust_wid {
+        width: 100%;
+    }
+
+    .custview_list ul li.custview_list_gr .cust_as .cust_char {
+        padding: 0px 0px 0px 0px;
+        margin-left: 0px;
+        border-left: none;
+        width: 100%;
+    }
+
+
+
+    .custom_color_btn {
+        margin-top: 0;
+        font-size: 12px;
+        /* width: 220px; */
+    }
+
+    .pred_height {
+        min-height: auto;
+    }
+
+    .audio_he {
+        min-height: auto;
+    }
+
+
+
+
+
+
+
+    /* .appoint_table ul li {
+        width: 50%;
+    }
+
+    .appoint_table ul li.appo_img {
+        width: 100%;
+    }
+
+    .appoint_table ul li img.app_user_img {
+        display: block;
+        margin: 0px auto 10px auto;
+    }
+
+    .appoint_table ul li.appo_loc {
+        width: 50%;
+    }
+
+    .appoint_table ul li.appo_date {
+        width: 50%;
+    }
+
+    .appoint_table ul li.appo_time {
+        width: 50%;
+    }
+
+    .appoint_table ul li.app_chare {
+        width: 50%;
+    }
+
+    .appoint_table ul li.appo_purpose {
+        width: 100%;
+    } */
+
+    /* .appoint_table ul li .appo_btn_list {
+        justify-content: center;
+        flex-direction: column;
+    } */
+
+    .appoint_table ul li .appo_btn_list a {
+        font-size: 12px;
+        white-space: nowrap;
+        padding: 4px 10px;
+    }
+
+    .appoint_table ul li .appo_btn_list button {
+        padding: 4px 10px;
+        font-size: 12px;
+        margin: 0;
+    }
+
+    .appoint_table ul li .appo_btn_list button:nth-child(2) {
+        /* margin: 5px 0px; */
+    }
+
+    .appoint_table ul li h6.uoske_mar {
+        margin: 5px 0px;
+    }
+
+    .upcom_appint_height {
+        min-height: auto;
+        margin-bottom: 40px;
+    }
+
+    .appoint_table ul li h5 {
+        min-height: 50px;
+    }
+
+    .appoint_table ul li.appo_date h6 {
+        text-align: left;
+    }
+
+    .appoint_table ul li.appo_date h5 {
+        text-align: left;
+    }
+
+    .appoint_table ul li.app_chare h6 {
+        text-align: left;
+    }
+
+    .appoint_table ul li.app_chare h5 {
+        text-align: left;
+    }
+
+    .appoint_table ul li {
+        /* padding: 0px 5px 0px 0px; */
+    }
+
+    .appoint_list ul {
+        margin: 0px 0px 40px 0px;
+    }
+
+    .rese_title {
+        font-size: 50px;
+    }
+
+    .btn_res_new {
+        width: 60%;
+    }
+
+    .res_tabmar {
+        margin-bottom: 20px;
+    }
+
+    .filter_nex {
+        width: 45%;
+    }
+
+    /* .appoint_list ul{
+        overflow-x: auto;
+    }
+    .appoint_table ul li h6{
+        font-size: 16px;
+    }
+    .appoint_table ul li h5{
+        font-size: 16px;
+    }
+    .appoint_table ul li.appo_img{
+        width: 20%;
+    }
+    .appoint_table ul li.appo_loc{
+        width: 20%;
+    }
+    .appoint_table ul li.appo_date{
+        width: auto;
+    }
+    .appoint_table ul li.appo_time{
+        width: auto;
+    }
+    .appoint_table ul li.app_chare{
+        width: auto;
+    }
+    .appoint_table ul li.appo_purpose{
+        width: auto;
+    } */
+    ul.panchang_list {
+        width: 70%;
+    }
+
+    .selct_lor_pa2 {
+        overflow-x: auto;
+        white-space: nowrap;
+        padding-bottom: 10px;
+        flex-wrap: nowrap;
+    }
+
+    .selct_lor_pa2 ul {
+        flex: none;
+        width: 30%;
+    }
+
+    .stat_headlist ul {
+        flex-wrap: wrap;
+    }
+
+    .stat_headlist ul li.stat_profile_founf {
+        width: 30%;
+    }
+
+    .stat_headlist ul li.allsataana_pad {
+        width: 70%;
+    }
+
+    .stat_headlist ul li.upgrade_widstat {
+        width: 100%;
+    }
+
+    /* .stat_headlist ul li:nth-child(1) {
+        width: 60%;
+    } */
+
+    .stat_headlist ul li h4 {
+        font-size: 28px;
+    }
+
+    .stat_headlist ul li h3 {
+        font-size: 36px;
+    }
+
+    .filter_tags_sm_count {
+        font-size: 48px;
+    }
+
+    .rec_brd {
+        border-right: none;
+    }
+
+    .refine_tab ul {
+        /* margin-bottom: -3px; */
+    }
+
+    ul.tagview_listwrap {
+        width: 80%;
+    }
+
+    .search_suggestion {
+        margin: -20px auto 0px 70px;
+    }
+
+    span.write_mobile {
+        display: block;
+    }
+
+    span.write_mobile img {
+        margin-right: 0px;
+        width: 30px;
+    }
+
+    .write_mob_pos {
+        position: fixed;
+        bottom: 5%;
+        right: 5%;
+        z-index: 9;
+    }
+
+    span.write_desk {
+        display: none;
+    }
+
+
+
+    .getaccss_wrap {
+        background-size: 100%;
+        padding: 100px;
+    }
+
+    .analytic_sum_bg {
+        margin: 0px 0px 20px 0px;
+        min-height: auto;
+    }
+
+    .desk_fol {
+        display: none;
+    }
+
+    .author_reverse {
+        flex-direction: column-reverse;
+    }
+
+    .ar_dtl_prof_fl2 {
+        border-bottom: none;
+    }
+
+    .publish_border_tb2 {
+        flex-wrap: wrap;
+    }
+
+    .stor_wid {
+        width: 100%;
+    }
+
+    ul.astroarticle_slide {
+        width: 100%;
+    }
+
+    .astroarticle_pad .slick-prev {
+        left: 0;
+    }
+
+    .astroarticle_pad .slick-next {
+        right: 0;
+    }
+
+    .pos2 {
+        position: relative;
+        bottom: 0;
+        padding: 0px 0px 0px 0px;
+        width: auto;
+        margin: 0px auto;
+    }
+
+    ul.astroarticle_slide li a span {
+        padding: 0px 5px;
+    }
+
+    .plus_add_tabs {
+        margin-left: 0;
+    }
+
+    .artic_r_bdr {
+        border-right: none !important;
+        padding-right: 0;
+        padding-left: 0px;
+    }
+
+    .pos {
+        display: none;
+    }
+
+    .article_pub_astro .storywrite_wid {
+        justify-content: flex-start;
+    }
+
+    .btn_p_bdr {
+        flex-direction: column;
+    }
+
+    .ardtl_txt123 {
+        margin-bottom: 10px;
+    }
+
+    .coll_fol_btn {
+        display: flex;
+        align-items: center;
+    }
+
+    .col_fol_btn {
+        display: flex;
+        align-items: center;
+    }
+
+    .topbdr_space_mob {
+        display: none;
+    }
+
+    /* .mob_search_on{
+        display: block;
+    } */
+
+    .cards_search_btm {
+        min-height: auto;
+    }
+
+    .article_dtl_row1_i .article_userprof {
+        margin-right: 0px;
+    }
+
+    .asrtodlt_sybtitle {
+        margin: 0px 0px 20px 0px;
+    }
+
+    .card_desk {
+        display: none;
+    }
+
+    .artic_r_bdr_detail {
+        padding-left: 35px;
+        padding-right: 35px;
+    }
+
+    .art_img_heightdiv {
+        /* height: 390px; */
+    }
+
+
+
+    /* ul.not_list li.mob_search{
+        display: block;
+        padding-right: 10px;
+    } */
+    ul.not_list li.mob_search a img {
+        margin: -10px auto 0px auto;
+        width: 30px;
+    }
+
+    .jyot_mar {
+        margin-top: 10px;
+    }
+
+    .planetpos_not {
+        display: none;
+    }
+
+    .possearch {
+        display: none;
+    }
+
+    .app-header-menu {
+        display: block;
+    }
+
+
+
+    ul.not_list li span.m-2.dropdown {
+        margin: 0 !important;
+    }
+
+    .nobel_wrap {
+        min-height: 80px;
+    }
+
+    .posastrodata {
+        display: none;
+    }
+
+    ul.stepper_list.steps-indicator {
+        justify-content: flex-start;
+    }
+
+    ul.peoplesearch_list2 li {
+        padding: 0px 10px 10px 0px;
+        min-width: auto;
+        max-width: none;
+        width: 25%;
+    }
+
+    textarea.detail_textarea {
+        height: 300px;
+    }
+
+    ul.navtag_timing::-webkit-scrollbar {
+        height: 1px;
+    }
+
+    .save_btns_wrp_pos {
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+
+    .plane_sele_btn {
+        flex-wrap: wrap;
+
+    }
+
+    .add_customer_bg {
+        width: 60% !important;
+    }
+
+    .consult_head {
+        font-size: 20px;
+        width: 80%;
+    }
+
+    .joincall_btn {
+        width: 20%;
+        height: auto;
+        padding: 10px 0px;
+    }
+
+    .consultation_list ul li {
+        width: 50%;
+    }
+
+    .selct_lor_pa3 {
+        max-width: none;
+    }
+
+    .selct_lor_pa3 ul {
+        width: 30%;
+    }
+
+    .add_bio_txt {
+        font-size: 11px;
+    }
+
+    .dash_databank_content a {
+        font-size: 12px;
+    }
+
+    ul.event_font li {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .card_media_h {
+        min-height: auto;
+    }
+
+    .horscope_table ul {
+        align-items: center;
+    }
+
+    .horscope_table ul li a.custview_hornobg {
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .popover_width .bs-popover-bottom,
+    .popover_width .bs-popover-auto[x-placement^="bottom"] {
+        max-width: 450px;
+        margin-left: -200px;
+    }
+
+    .popover_width .bs-popover-top {
+        max-width: 450px;
+        margin-left: -200px;
+    }
+
+    .popover_width .bs-popover-auto[x-placement^="top"] {
+        max-width: 450px;
+        margin-left: -200px;
+    }
+
+    .suggestin_div .popover {
+        max-width: 400px;
+        margin: 0px auto;
+        min-width: 400px;
+    }
+
+    .people_sug_flex ul {
+        width: 50%;
+    }
+
+    /* .wid_profile p {
+        display: none;
+    } */
+    .kundalitype_tab.tabs-animated>.nav-tabs .nav-item .nav-link {
+        width: 80px;
+        height: 46px;
+    }
+
+    .dnd_btn {
+        width: 100px;
+    }
+
+    .overflow_div {
+        overflow-x: hidden;
+    }
+
+    .footer_audio_player {
+        /* padding-left: 20px;
+        padding-right: 20px; */
+    }
+
+    /* .accuracy{
+        display: none;
+    } */
+    .pasevent_content {
+        width: 100%;
+        min-width: auto;
+    }
+
+    .react_date {
+        flex-direction: row;
+    }
+
+    .transit_mar {
+        margin-bottom: 5px !important;
+    }
+
+    .postive_div ul {
+        justify-content: flex-start;
+    }
+
+    .list_car_mar {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .custfilt_list_height3 {
+        height: auto;
+    }
+
+    .next_rule_cust {
+        width: 30%;
+        display: block;
+        margin: 20px 0px 0px auto;
+    }
+
+    .newvideocard2 {
+        /* height: 170px; */
+    }
+
+    .newvideocard2 img {
+        /* min-height: 170px; */
+        width: 100%;
+    }
+
+    .planetpos_list {
+        min-width: 150px;
+    }
+
+    .sign_flex h5.sign_ris_flex {
+        width: 170px;
+    }
+
+    .sign_flex h5.sign_hora_flex {
+        width: 305px;
+    }
+
+    .planetpos_head h5 {
+        margin-bottom: 10px;
+    }
+
+    .planetpos_head h5.live_planet {
+        /* flex-direction: column; */
+        align-items: center;
+    }
+
+    .planetpos_head h5 span {}
+
+    .planetpos_head h5.live_planet span {
+        background: rgba(33, 115, 242, 0.1);
+        color: #2173F2;
+        margin-left: 5px;
+        margin-bottom: 0;
+    }
+
+    .sign_flex {
+        align-items: flex-start;
+    }
+
+    ul.event_font li a {
+        padding-left: 10px !important;
+        padding-left: 10px !important;
+    }
+
+    .planetpos_list_width {
+        min-width: 250px;
+    }
+
+    .daytab_pad {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .daytab_lpad {
+        padding-right: 0px;
+    }
+
+    .daytab_rpad {
+        padding-left: 0px;
+    }
+
+    .update_time {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .update_time span {
+        position: relative;
+        left: 0;
+        top: 0;
+        transform: translate(-50%, -50%);
+        transform: none;
+        font-size: 16px;
+        font-weight: normal;
+    }
+
+    .planetpos_list_flex {
+        overflow-x: auto;
+    }
+
+    .planetpos_list_wid {
+        margin-right: 10px;
+        min-width: 200px;
+    }
+
+
+
+    .sned_alert_div {
+        padding: 0px 0px 0px 0px;
+        /* flex-direction: row; */
+        align-items: center;
+        justify-content: flex-end;
+        display: flex;
+    }
+
+    .sned_alert_div h6 {
+        margin: 0;
+    }
+
+    .sned_alert_div button {
+        margin-left: auto;
+    }
+
+    ul.dahadate_list {
+        overflow-x: auto;
+    }
+
+    ul.dahadate_list li {
+        width: 50%;
+        min-width: 260px;
+        max-width: 260px;
+    }
+
+    ul.dahadate_list li .dashcard_h {
+        min-width: 250px;
+        max-width: 250px;
+    }
+
+    .alert_row {
+        margin: 20px 0px 20px auto;
+        width: 100%;
+    }
+
+    .pos_slelton {
+        display: none;
+    }
+
+    .add_profile_btn {
+        font-size: 14px;
+    }
+
+    .add_profile_btn img {
+        width: 17px;
+        margin-right: 5px;
+    }
+
+    .vertical_mobile .wizard.vertical .steps-indicator {
+        width: 40%;
+    }
+
+    .wizard-steps_vertical.wizard.vertical.vrtical .wizard-steps {
+        width: 60%;
+    }
+
+
+    .astro_slider .slick-prev {
+        /* right: 10% !important; */
+    }
+
+    /* .modal.show .modal_customer_family{
+        transform: translate(100%, 0%);
+    } */
+    .app_wrap_position_register {
+        padding-right: 0 !important;
+    }
+
+    .signup_dk_page {
+        padding: 15px 0px;
+    }
+
+    .signup_dk_page h3 {
+        font-size: 28px;
+    }
+
+    .muhrat_grow p {
+        font-size: 10px;
+    }
+
+    .setting_list {
+        position: relative;
+        top: 0;
+    }
+
+    .form-roper2_tab {
+        padding: 2rem 1rem;
+    }
+
+    .setting_list ul {
+        flex-direction: row;
+    }
+
+    ul.billing_list li button {
+        min-width: 120px;
+    }
+
+    ul.not_list li a {
+        padding: 0px 5px;
+    }
+
+    .introtab_pad {
+        padding: 0;
+    }
+
+    .plan_div {
+        display: none;
+    }
+
+    .darklighttext .popover_width .bs-popover-bottom,
+    .darklighttext .bs-popover-auto[x-placement^="bottom"] {
+        margin-left: 0px;
+    }
+
+    .astro_slider_dasha .slick-prev {
+        right: 6%;
+    }
+
+    .postive_div ul li img.dash_img {
+        width: 140px !important;
+        height: 140px !important;
+    }
+
+    .postive_div ul li h5.mars_head {
+        font-size: 20px !important;
+    }
+
+    .postive_div ul li h5.mars_date {
+        font-size: 20px !important;
+    }
+
+    .postive_div ul li .dasha_flex h6 {
+        font-size: 20px !important;
+    }
+
+    .postive_div ul li .dasha_flex p {
+        font-size: 20px !important;
+    }
+
+    .natal_promis_pad .slick-prev {
+        right: 7%;
+    }
+
+    .p_4_advanceastrosearch {
+        padding: 1.5rem;
+    }
+
+    .logimg {
+        display: none;
+    }
+
+    .welcomer_dk_brd {
+        min-width: auto;
+        max-width: none;
+    }
+
+    .custom_navbar {
+        padding: 20px;
+    }
+
+    .dknavbar_list ul {
+        align-items: flex-start;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    }
+
+    .payment_div h3 {
+        padding: 10px 0px;
+        font-size: 22px;
+    }
+
+
+
+    .article_tabs_bdr5 {
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .pub_flex ul {
+        width: 100%;
+    }
+
+    .search_sugpad_main {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .popover_width_sug .popover {
+        min-width: 500px;
+        max-height: 600px;
+        overflow-y: auto;
+        margin-left: 100px !important;
+        margin-top: 10px;
+    }
+
+    .searc_cross {
+        position: absolute;
+        right: 5px;
+        top: 14px;
+        z-index: 9;
+    }
+
+    .pub_flex ul {
+        width: 50%;
+    }
+
+    .updatepref_bg {
+        left: 3%;
+        bottom: 0%;
+        max-width: 350px;
+        min-width: 350px;
+    }
+
+    ul.update_pref_list li.updatepre_wid a {
+        font-size: 12px;
+    }
+
+    ul.update_pref_list li.update_close button {
+        font-size: 12px;
+    }
+
+    .refral_slider .slick-prev {
+        right: 5%;
+    }
+
+    /* ul.birthday_div5 li{
+        width: 33%;
+        
+    } */
+    .timeline-list_refer {
+        overflow-x: auto;
+    }
+
+    .timeline-list_refer ul::before {
+        width: 1200px;
+    }
+
+    .scrollarea_not {
+        height: 500px;
+    }
+
+    .feed_drop {
+        min-width: auto;
+    }
+
+    .not_popup_wid .popover_width .bs-popover-bottom,
+    .not_popup_wid .bs-popover-auto[x-placement^="bottom"] {
+        margin-left: -200px;
+        max-width: 350px;
+    }
+
+    .input_size_brd .input_size label.custom-control-label {
+        font-size: 14px;
+    }
+
+    ul.not_list li button .notfication_dropdwon {
+        margin-left: -300px;
+    }
+
+    .payment_rec ul li h5 {
+        font-size: 16px;
+    }
+
+    .art_dtl_likeshr {
+        flex-direction: column;
+        justify-content: flex-start;
+    }
+
+    .art_dtl_likeshr ul {
+        padding-bottom: 10px;
+        width: 100%;
+    }
+
+    .astro_transit {
+        position: relative;
+        transform: none;
+        left: 0;
+        bottom: 0;
+    }
+
+    ul.refer_step_ai {
+        /* flex-direction: column; */
+    }
+
+    ul.refer_step_ai li {
+        width: 100%;
+    }
+
+    ul.refer_step_ai li.ai_chevimg_list {
+        width: 100%;
+    }
+
+    ul.refer_step_ai li.ai_chevlist {
+        width: 100%;
+    }
+
+    ul.refer_step_ai li.ai_chevlist img {
+        margin: 30px 0px 30px 40px;
+        /* transform: rotate(90deg); */
+    }
+
+    button.backarrownew {
+        position: relative;
+        z-index: 4;
+    }
+
+    .migrateprof_sel {
+        margin-top: -70px;
+        margin-bottom: 30px;
+    }
+
+    .profileadd_he {
+        min-height: 40vh;
+    }
+
+    .scroll_profile_add {
+        height: 30vh;
+    }
+
+    .ai_know_div .ai_know {
+        width: 75%;
+    }
+
+    .ai_know_div .ailikeshare {
+        width: 25%;
+    }
+
+    .card_ongoing {
+        min-height: auto;
+    }
+
+    .publish_border_tb {
+        padding: 15px 15px 0px 15px;
+    }
+
+
+
+    button.aadhar_btn {
+        white-space: nowrap;
+    }
+
+    .sunrepresent ul li h4 {
+        font-size: 30px;
+    }
+
+    .artc_deled {
+        display: none;
+    }
+
+    ul.not_list li .lang_option {
+        width: 50px;
+        height: 50px;
+    }
+
+    ul.not_list li button.darklight_btn {
+        width: 50px;
+        height: 50px;
+    }
+
+    ul.not_list li .custom_dropdown {
+        width: 50px;
+        height: 50px;
+    }
+
+    ul.not_list li .lan_current span.lang_name {
+        display: none;
+    }
+
+    .task_list ul {
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .task_list ul li {
+        padding: 0px 20px 20px 0px;
+        width: 33%;
+    }
+
+    .healcheckcard_h {
+        height: auto;
+    }
+
+    .map_h {
+        height: auto;
+    }
+
+    .get_email {
+        padding: 20px 0px;
+    }
+
+    .videoplayer_app {
+        display: none;
+    }
+
+    .showall {
+        display: none;
+    }
+
+    ul.fedcom_list {
+        flex-wrap: wrap;
+    }
+
+    ul.fedcom_list li.fedcom_wid {
+        width: 59%;
+        padding: 0px 10px 10px 0px;
+    }
+
+    ul.fedcom_list li.fed_scname {
+        width: 40%;
+        padding: 0px 0px 10px 0px;
+    }
+
+    ul.fedcom_list li.fed_dat {
+        width: 33%;
+    }
+
+    ul.fedcom_list li.fed_stat {
+        width: 33%;
+    }
+
+    ul.fedcom_list li {
+        width: 33%;
+    }
+
+    .padding_modal_desk {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    ul.not_times li button {
+        min-width: 47px;
+    }
+
+    .horsdemo_video h5 {
+        width: 70%;
+    }
+
+    .monthly_member2 {
+        margin: 20px 0px 0px 0px;
+    }
+
+    .popovehovevideo {
+        display: none;
+    }
+
+
+
+    .media_slider .slick-prev {
+        right: 13% !important;
+    }
+
+    .dashaaimodal {
+        max-width: 600px;
+        min-width: 600px;
+    }
+
+    .btn_dasha_pad {
+        justify-content: flex-start;
+    }
+
+    .dashmar_card_h {
+        height: 350px;
+    }
+
+    .customerdash_list ul li button {
+        font-size: 12px;
+    }
+
+
+
+    .ardhuadiv_special .popover span.arrow {
+        display: none;
+    }
+
+    .ardhuadiv_key .popover {
+        margin-left: 0 !important;
+    }
+
+    .ardhuadiv_key .popover span.arrow {
+        display: none;
+    }
+
+    .astropadbottom_small {
+        padding-bottom: 50px;
+    }
+
+    .reschedule_height {
+        min-height: auto;
+    }
+
+    img.welcome_illus {
+        width: 400px;
+    }
+
+    .welcomemodal {
+        max-width: none;
+        min-width: auto;
+        width: 90%;
+    }
+
+    .event_modal.welcomemodal .modal-header {
+        display: flex;
+    }
+
+    .welcomemodal .modal-content .modal-body {
+        overflow-y: auto;
+    }
+
+    .list_absoute {
+        width: 600px;
+    }
+
+    .profile_horsco_list ul {
+        padding: 10px 0px;
+    }
+
+    .profile_horsco_list ul li a {
+        padding: 10px 30px;
+    }
+
+    /* .chatdetail_height {
+        height: 65vh;
+    } */
+
+
+
+    ul.newconvlist li button span.textconv {
+        display: none;
+    }
+
+    .list_absoute.list_absoute_sugges {
+        width: 650px;
+    }
+
+    .record_modal {
+        min-width: 700px;
+        min-height: auto;
+    }
+
+    .recordcamera_modal {
+        min-width: 700px;
+        min-height: auto;
+    }
+
+    .webcam_modal {
+        min-width: 700px;
+    }
+
+    .webcam_modal .modal-content {
+        min-height: 600px;
+    }
+
+    .webcam_modal .modal-content {
+        min-height: 600px;
+    }
+
+    .screen_cam ul li.webcamorpad h6 {
+        padding: 80px 0px 0px 0px;
+    }
+
+    .scroll-area_cust_list111 {
+        height: auto;
+    }
+
+    .addprofile_flex {
+        flex-wrap: nowrap;
+    }
+
+
+
+    .custview_list ul li .quic_fl {
+        /* flex-direction: column; */
+    }
+
+    .hora_slider .slick-next {
+        right: -18%;
+    }
+
+    /* .impactastro_slider .slick-prev{
+        right: 5% !important;
+    } */
+    .impactastro_slider_tab .slick-prev {
+        right: 5% !important;
+    }
+
+    .hora_slider .slick-prev {
+        right: -10% !important;
+    }
+
+    .mobile_share img {
+        width: 70px;
+    }
+
+    h5.textdash_title_left a {
+        display: none;
+    }
+
+    .upload_btn_position5 {
+        margin-right: 20px;
+    }
+
+    .media_searc_slider .slick-prev {
+        right: 6% !important;
+    }
+
+    .astrologer_newlist {
+        display: none;
+    }
+
+    ul.not_list li.setavail_li {
+        display: block;
+        width: auto;
+    }
+
+    ul.not_list li.setavail_li button.avail_feed {
+        width: 70px;
+    }
+
+    .avail_feed span.avail_text {
+        display: none;
+    }
+
+    ul.share_success li {
+        padding: 0px 10px !important;
+    }
+
+    ul.share_success li a img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .share_success_color ul.share_success li a h6 {
+        display: none;
+    }
+
+    .tab_vertical ul.stepper_list li a span.gen_termsver {
+        word-break: break-all;
+        width: 200px;
+        white-space: normal;
+    }
+
+    ul.panchang_pad li {
+        margin-left: 0 !important;
+    }
+
+    .events_slider_list ul li .eve_slider_date h5 {
+        font-size: 20px;
+    }
+
+    .events_slider_list ul li .eve_slider_date h6 {
+        font-size: 16px;
+    }
+
+    .events_slider_list ul li .teansit_eve_date h4 {
+        font-size: 16px;
+    }
+
+    .events_slider_list ul li .teansit_eve_date h4.date_event_head {
+        font-size: 14px;
+    }
+
+    button.backarrownew {
+        position: relative;
+        z-index: 2;
+    }
+
+    .maincontainer_cal .fc-daygrid-day p.title_para {
+        font-size: 9px;
+    }
+
+    .select_hor_btn {
+        font-size: 12px;
+    }
+
+    .canvas_width_allcharts.canvas_width canvas {
+        width: 350px;
+        height: 350px;
+    }
+
+    .canvas_width_allcharts.canvas_width {
+        min-height: 350px;
+    }
+
+    .container_awrad {
+        max-width: none;
+        width: 100%;
+    }
+
+    ul.mediadate_range li {
+        padding: 0px 10px 0px 0px;
+    }
+
+    .sor_th {
+        font-size: 12px;
+    }
+
+    .table_z_pad .table td {
+        font-size: 12px;
+    }
+
+    .articlepubkeyword {
+        margin: 20px 0px 40px auto;
+    }
+
+    .webinar_astro {
+        font-size: 32px;
+    }
+
+    .webinar_detailcontent h1 {
+        font-size: 28px;
+    }
+
+    .webinar_detailcontent p {
+        font-size: 18px;
+    }
+
+    .webinar_learn {
+        padding: 20px;
+    }
+
+    .webinar_learn h3 {
+        font-size: 28px;
+    }
+
+    .webinarprice_pos {
+        padding: 20px;
+    }
+
+    ul.webiarprice_list li h5 {
+        font-size: 14px;
+    }
+
+    ul.webiarprice_list li h4 {
+        font-size: 16px;
+    }
+
+    .joinwebinardetail_btn {
+        font-size: 12px;
+    }
+}
