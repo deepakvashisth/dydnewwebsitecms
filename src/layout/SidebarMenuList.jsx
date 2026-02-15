@@ -19,12 +19,12 @@ export default function SidebarMenuList({setOpen, location}) {
                                     onClick={() => setOpen(false)}
                                 >
                                     <img
-                                        src={`${config.AMAZON_ASSETS_URL}avatars/home3.svg`}
+                                        src={`/assets/images/avatars/home3.svg`}
                                         className="astrodasboard"
-                                        alt=""
+                                        alt="home3"
                                     />
                                     <img
-                                        src={`${config.AMAZON_ASSETS_URL}avatars/homewhite.svg`}
+                                        src={`/assets/images/avatars/homewhite.svg`}
                                         className="astrodasboardwhite"
                                         alt=""
                                     />
@@ -38,12 +38,12 @@ export default function SidebarMenuList({setOpen, location}) {
                                     onClick={() => setOpen(false)}
                                 >
                                     <img
-                                        src={`${config.AMAZON_ASSETS_URL}avatars/myprofile6.svg`}
+                                        src={`/assets/images/avatars/myprofile6.svg`}
                                         className="astrodasboard"
                                         alt=""
                                     />
                                     <img
-                                        src={`${config.AMAZON_ASSETS_URL}avatars/myprofile6white.svg`}
+                                        src={`/assets/images/avatars/myprofile6white.svg`}
                                         className="astrodasboardwhite"
                                         alt=""
                                     />

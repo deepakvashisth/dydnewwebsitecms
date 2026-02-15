@@ -12,7 +12,7 @@ export default function RightNavbar() {
                 <ul className="not_list">
                     <li className="mob_search">
                         <button className="cursor">
-                            <img src={`${config.AMAZON_ASSETS_URL}avatars/searchmob.svg`} alt="Search mob" className="imgcamera_pro" />
+                            <img src={`/assets/images/avatars/searchmob.svg`} alt="Search mob" className="imgcamera_pro" />
                         </button>
                     </li>
 
@@ -26,7 +26,7 @@ export default function RightNavbar() {
                         <div className="tootip_div">
                             <button id="datklight" className="darklight_btn">
                                 <img
-                                    src={`${config.AMAZON_ASSETS_URL}avatars/dark.svg`}
+                                    src={`/assets/images/avatars/dark.svg`}
                                     alt=""
                                 // onClick={handleToggleTheme}
                                 />

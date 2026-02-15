@@ -27,9 +27,9 @@ function Navbar({ toggleSidebar }) {
         )} onClick={toggleSidebar}>
           <span className="hamburger-box">
             <img
-              src={`${config.AMAZON_ASSETS_URL}avatars/hambruger.svg`}
+              src={`/assets/images/avatars/hambruger.svg`}
               className="hambruger"
-              alt=""
+              alt="hambruger"
             />
           </span>
         </button>

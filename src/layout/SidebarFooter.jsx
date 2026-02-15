@@ -20,7 +20,7 @@ export default function SidebarFooter() {
                     className="leave_feedback_btn"
                 >
                     <img
-                        src={`${config.AMAZON_ASSETS_URL}avatars/feeback.svg`}
+                        src={`/assets/images/avatars/feeback.svg`}
                         className="astrodasboard"
                         alt=""
                     />

@@ -1,0 +1,11 @@
+<svg id="account_circle_black_24dp" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_10465" data-name="Group 10465">
+    <rect id="Rectangle_9093" data-name="Rectangle 9093" width="24" height="24" fill="none"/>
+  </g>
+  <g id="Group_10467" data-name="Group 10467">
+    <g id="Group_10466" data-name="Group 10466">
+      <path id="Path_6651" data-name="Path 6651" d="M12,2A10,10,0,1,0,22,12,10,10,0,0,0,12,2ZM7.35,18.5a7.957,7.957,0,0,1,9.3,0,7.957,7.957,0,0,1-9.3,0Zm10.79-1.38a9.951,9.951,0,0,0-12.28,0,8,8,0,1,1,12.28,0Z" fill="#fff"/>
+      <path id="Path_6652" data-name="Path 6652" d="M12,6a3.5,3.5,0,1,0,3.5,3.5A3.5,3.5,0,0,0,12,6Zm0,5a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,12,11Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

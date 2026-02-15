@@ -19,9 +19,9 @@ export default function NotificationDropdown() {
                         <div className="hoverpara">
                             <span>8</span>
                             <div className="fillnot_div">
-                                <img src={`${config.AMAZON_ASSETS_URL}avatars/nothead.svg`} className="nothead" alt="" />
+                                <img src={`/assets/images/avatars/nothead.svg`} className="nothead" alt="" />
                                 <img
-                                    src={`${config.AMAZON_ASSETS_URL}avatars/notheadblue.svg`}
+                                    src={`/assets/images/avatars/notheadblue.svg`}
                                     className="notheadblue"
                                     alt=""
                                 />
